@@ -1,0 +1,39 @@
+head	1.2;
+access;
+symbols;
+locks
+	cscecalg:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2013.12.09.03.30.09;	author cscecalg;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2013.12.09.03.30.09;	author cscecalg;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@info:x:1434:1427::/home/cscecalg/mail/cscecalgary.com/info:/home/cscecalg
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+@

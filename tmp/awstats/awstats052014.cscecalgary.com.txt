@@ -1,0 +1,3302 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201405 will be lost/reset.
+# Last config file used to build this data file was /home/cscecalg/tmp/awstats/awstats.cscecalgary.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2009                
+POS_TIME 2689                
+POS_VISITOR 45439               
+POS_DAY 115882              
+POS_DOMAIN 3608                
+POS_LOGIN 4780                
+POS_ROBOT 4935                
+POS_WORMS 5291                
+POS_EMAILSENDER 5422                
+POS_EMAILRECEIVER 5565                
+POS_SESSION 116790              
+POS_SIDER 117003              
+POS_FILETYPES 5700                
+POS_DOWNLOADS 5953                
+POS_OS 6001                
+POS_BROWSER 6179                
+POS_SCREENSIZE 6962                
+POS_UNKNOWNREFERER 7036                
+POS_UNKNOWNREFERERBROWSER 7344                
+POS_ORIGIN 7485                
+POS_SEREFERRALS 7625                
+POS_PAGEREFS 7791                
+POS_SEARCHWORDS 8265                
+POS_KEYWORDS 8471                
+POS_MISC 2352                
+POS_ERRORS 8576                
+POS_CLUSTER 4636                
+POS_SIDER_404 8725                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20140601001726 48 13557 17830340075223
+FirstTime 20140501000458
+LastTime 20140531230928
+LastUpdate 20140601180015 48 0 47 0 0
+TotalVisits 2712                
+TotalUnique 1782                
+MonthHostsKnown 0                   
+MonthHostsUnknown 1784                
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 27 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 112 195 7842667 80 117 270752
+1 124 124 8012655 94 180 601627
+2 112 211 8382493 89 129 290618
+3 113 189 8227008 86 91 61297
+4 110 110 7283465 92 123 379340
+5 128 128 8477280 95 98 119459
+6 131 131 8671959 120 161 308942
+7 130 306 11829163 95 103 212629
+8 139 197 9019953 113 234 1195054
+9 155 424 11481845 93 111 166446
+10 112 194 8936174 95 106 120649
+11 119 370 11783324 97 125 290864
+12 134 417 14769612 92 100 180057
+13 114 263 13923132 92 97 367540
+14 109 296 10691294 81 83 65068
+15 133 570 15528569 111 178 681399
+16 104 206 8177966 69 107 129398
+17 127 203 8954675 98 107 127840
+18 163 639 15142059 96 110 63094
+19 97 173 6997433 75 87 272646
+20 129 229 10485236 103 147 532162
+21 202 723 18740232 117 189 339216
+22 125 323 13545155 100 134 298183
+23 142 146 8993312 117 154 283805
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 62
+us 1547 2155 112442114
+fr 293 293 18965685
+ca 263 1901 33452633
+cn 206 206 13462684
+sa 81 81 5193586
+pl 65 65 4302362
+ro 53 53 3514417
+za 43 43 2849101
+de 40 40 2507660
+br 38 649 18002634
+gb 34 110 2815124
+lt 32 32 2124864
+nl 28 28 1854734
+ru 26 133 4710794
+mu 25 25 1655979
+tr 22 22 1149531
+se 22 22 1299236
+id 19 19 1263875
+th 19 19 1259279
+fi 16 16 1059738
+rs 14 14 923181
+at 14 14 927571
+ua 13 13 793667
+tw 12 143 1619895
+ee 12 12 794658
+il 1 1 65865
+bd 1 1 66940
+eg 2 2 132331
+es 11 11 727750
+my 1 1 66911
+kr 5 5 226129
+lv 11 11 66412
+mx 2 2 133896
+kz 1 1 65923
+in 5 5 331621
+tn 1 1 65784
+dk 8 8 530733
+sg 1 1 66642
+kh 2 2 132272
+co 8 8 364365
+ie 1 1 67110
+cz 3 3 198436
+py 2 2 132838
+ir 3 3 199224
+tz 1 1 66926
+np 1 1 66412
+md 1 1 66347
+jp 2 85 904942
+cl 1 1 67015
+gr 1 77 810963
+ch 10 10 487752
+eu 4 4 264445
+vn 5 5 332159
+zw 1 1 66960
+it 9 200 5065576
+ar 4 91 1772010
+mn 2 97 2274730
+ng 1 1 66420
+nz 8 8 531892
+ae 1 1 67092
+iq 2 2 132003
+ve 4 4 266833
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+bot[\s_+:,\.\;\/\\-] 410 3726961 20140530110949 0
+googlebot 265 2019953 20140530121137 0
+spider 7 68165 20140528111016 0
+no_user_agent 1 66096 20140518191114 0
+msnbot 1 23692 20140530105704 0
+netcraft 1 466 20140515102814 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+css 1287 3798806 0 0
+png 452 18461313 0 0
+php 1322 87081747 0 0
+html 320 7443392 0 0
+xml 1 8450 0 0
+js 1188 13964595 0 0
+jpg 505 16256687 0 0
+Unknown 1421 94242151 0 0
+gif 271 14639520 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 12
+linuxandroid 82
+winlong 1
+winxp 177
+linuxubuntu 292
+winvista 566
+linux 513
+win7 4926
+macosx 154
+winme 1
+winunknown 3
+win2003 8
+Unknown 44
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 42
+firefox28.0 250
+msie6.0 5
+firefox5.0 85
+chrome34.0.1847.137 179
+firefox5.02 76
+firefox4.0 48
+firefox24.0 1
+firefox3.5.3 1
+opera9.80 1
+chrome28.0.1500.72 199
+msie8.0 5
+chrome25.0.1364.160 81
+chrome12.0.706.0 1
+chrome13.0.782.112 85
+msie7.0 12
+chrome33.0.1750.154 84
+chrome33.0.1750.146 1
+wget 1
+msie9.0 413
+chrome28.0.1500.52 381
+Unknown 30
+firefox17.0 74
+chrome28.0.1500.63 193
+chrome34.0.1847.131 1071
+chrome34.0.1847.114 82
+firefox21.0 257
+firefox29.0 154
+chrome27.0.1453.110 169
+chrome28.0.1500.71 286
+chrome32.0.1700.107 1115
+chrome35.0.1916.114 83
+mozilla 216
+chrome26.0.1410.64 106
+firefox14.0.1 3
+firefox22.0 327
+msie10.0 283
+netscape4.0 5
+chrome26.0.1410.63 104
+msie 3
+chrome27.0.1453.116 295
+firefox3.6.8 1
+firefox16.0.1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Mozilla/5.0_(compatible;_WebMasterAid/1.0;__http://wmaid.com/explore/) 20140531123238
+nutch-1.4/Nutch-1.4 20140525092201
+Mozilla/4.0_(compatible;_Synapse) 20140525124112
+NerdyBot 20140531091810
+Mozilla/4.0 20140531165905
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+nutch-1.4/Nutch-1.4 20140525092201
+NerdyBot 20140531091810
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 82 86
+From1 0 0
+From2 5 5
+From3 37 37
+From4 2940 6639
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 2 2
+search 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 6
+http://semalt.semalt.com/crawler.php 12 12
+http://www.schulich.ucalgary.ca/Civil/csce_calgary/index.html 9 9
+http://wmaid.com/explore/cscecalgary.com 8 8
+http://www.ucalgary.ca/EN/Civil/csce_calgary/ 4 4
+http://www.schulich.ucalgary.ca/Civil/csce_calgary/ 3 3
+http://www.ucalgary.ca/uofc/faculties/ENG/Civil/csce_calgary/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 2
+installerex+facebook 1
+installerex+official+website 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 4
+installerex 2
+website 1
+facebook 1
+official 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 42 965617
+302 23 0
+206 2 3233
+500 5 63353
+301 63 15309
+404 2224 44276
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 496
+/phpinfo.php/RK=0/RS=05zvMGg6pzWi8g9jP_BIB_v7_b0- 3 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=cOTHLwUPhXO7Z1_A1Tnec1Y8878- 6 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=FF5JqW3J7WBkbHZ63u.32ZmtDlY- 49 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=yZtfoUpt9.EsczOg5..W7p8fafQ- 1 http://cscecalgary.com/
+/admin.php 1 -
+/phpinfo.php/RK=0/RS=qkXWB0rP_hwDehuw95tUGpXFRss- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=rfqmKOVPvdegy.dBXhVycU2ktWs- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=xQoPWxhCCZJgkq8yg5ezjiERW_c- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=3ui8K9KdnOnBGGWi.j6v790gH2Y- 4 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=aZVgz40ZFnQvl.JBAXacTyOLrYw- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=3Hoz936vsfzSFYqPuitTxY8Ixpk- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=SnQk8k6woBGDICzz9.ofHOUmnr0- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=kTsd61M9RxJ6G6cIY339FP57FTY- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=10QCY48UjVhjvIv.MrwJ0Jv09zA- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=jjQANqyDURrOtoEZWAFobuG33u0- 5 -
+/phpinfo.php/RS=^ADAkwZ00dMJ4IUfa7Rt9THMGYmylwc- 6 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=gg78pcTsvUfUhc5VzO0BPqzrMRs- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=zWyGtA_LsAWr.vNRb4xGyzEtSPw- 5 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=jBVnAO0E4FGJ54aUgnjvlh6Ej3o- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=13bjkFirUwd0vdz1opCemFnVPdI- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=wSgs6QXFaEhgMK1ZBaQ4NiJN9pM- 1 http://cscecalgary.com/
+/phpinfo.php/RS=^ADARtRwmTff19oV5ycS7aZXdC4GBBI- 21 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=vspnkN7ZtL5UY_X7PD7Yo0KqTPw- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=qNZ6_XAlU6wyz.X_WchZhgSHRcc- 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=ySdGZu.J7k2E7w1ci0FNnR2YIPs- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=MNU91WGsY5VlzGjiPheS5rS5bP8- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=ERKmHebQXvlt9.ChYFmTJkJXCyQ- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=3CwPkxiOhpEl24GKuS4hfMJRsrI- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=dGg4pQfwzWKaKPvcm1EDOmXfjN8- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=zi2D23T8ggBN40F6XOJPIDnP.bE- 1 http://cscecalgary.com/
+/project/sites/all/themes/media-responsive-theme/images/arrows.png 55 http://www.cscecalgary.com/project/
+/phpinfo.php/RK=0/RS=CWMtAAlrM9kvtJmZ7lWVh2YMdXA- 1 http://cscecalgary.com/
+/phpinfo.php/RS=^ADAixgjV5rkvFF.uQuroyHJvak_l5o- 2 http://cscecalgary.com/
+/project/sites/bk/backup_migrate/scheduled/test.txt 10 -
+/phpinfo.php/RK=0/RS=Hw4mRg_KAhtro4ddoBKqzAGKyQk- 12 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=mCPwxr1bqgovFq7QXZ9aDn3fU3s- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=jIdscROREFTZIkE810KcSDm_uZE- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=FxCF9e_fJ42yyFQTBigIlk1RiXY- 5 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=xoSQS.Z.WbzO_VrYrPFoW89k3uU- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=vbQ5mo82nVF_Av8CF9g2gVJRoy0- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=48h5nBLjxv0auaCqtYIJHaF2fYw- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=CCKXphSzZIg9spWrXm9S62VmmlI- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=GonoMCpyIo5._LB0CjAYXgIq0UU- 1 http://cscecalgary.com/
+/php.ini 2 -
+/phpinfo.php/RK=0/RS=r88adaS7BKqvnswuM_BDoDxkg6M- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=1WNOd1E7eDs4wvb_TgTDkeWqd0A- 4 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=oeMsEyqyf.BBWBNviato1APDa4M- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=sA3h8gNx8Vr84rkJ00Jwcq3migc- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=hLP.MRpbSb3bVUmQV96ZiXsiBEQ- 4 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=AMzmmZ7wrj_FIHmKU_C.5CSc118- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=DHD2RGiGWt.DKzFz24AJo0EifKE- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=pjTfL1dSBSTd5gcOJEyKCsUtgJ8- 4 http://cscecalgary.com/
+/phpinfo.php/RS=^ADAk8_jrjghIC1hF4BxnWqr_dBk1PM- 4 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=oEyvqbfubeT.2Hmiz.iQaUdGqMI- 6 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=oX4Tp4lhDfA7cs4yNKaJYz84ODA- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=I9HDz06xlUWjrcv2_59qaZkXQ3s- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=D.D8FUsQm.7ZsJjHZzgCMIYfJUk- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=CXAoAXIoeMXXPeISmfyYrSmMPOw- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=Q6aLiudnu9tLFq_XIL9j_6MHbTU- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=_GV4rZULe4IXReVB3agrnmhlnTQ- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=gWL0FeqAfX3lThXgUx1fiur8IXk- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=21y6EKGBQRd2jNRBA7uC8epkfD0- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=6k3pcE9mF0TuGMSmOC185wtnLnM- 1 http://cscecalgary.com/
+/administrator/ 3 http://CSCECALGARY.com
+/phpinfo.php/RK=0/RS=2XkEsqXLMYUiMTQgSNhERqIZjjA- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=JqdDpJi1iRZQHDCDxaYyyCZQDnw- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=wKKBAkw.ydzQO1YwycIw4cakWOY- 1 http://cscecalgary.com/
+/wp-login.php 2 -
+/phpinfo.php/RK=0/RS=YwqjCmUYgqa0YfSGvuFSWg0gDjw- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=oTxrJA9bxDXGSdjehbYwLYwA12E- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=EDsShCdX.nK4TmOTKvL28yS.tmQ- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=5kek3rDvVYMhbvFThDRFBRL9zIY- 1 http://cscecalgary.com/
+/plugins/system/nnframework/nnframework.xml 1 -
+/phpinfo.php/RK=0/RS=IeSA_TfxLynJfYRieWbFkXa3FkE- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=B.IqnFbwTHU.qHzxY1wUBaq496I- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=DQTuEyo7o_9Ke1JiQoGIPVk9QCI- 5 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=4sboanaeWZ1EYWk5SOygaqwETn8- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=1rLJFuFn2qqL77DQd3vMUDF1._4- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=INwgPQveyTm6I9c6zHYN2pLQ_XU- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=cGCUZ0pF.ARfgXZvNl9kFBBZAD0- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=6enmJZmyhQjMj7P.EDdx3YIJnI0- 151 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=yO8sF1HqIPDIZOrGJ63eo7s52l4- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=M9az_xR9CkUsGkCV9J3RpwVBr1I- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=iVOgI70tURNJZGrTmh1MNjYHSyo- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=pWgGT9yfnm23PacqyfBoRwqTDcc- 1 http://cscecalgary.com/
+/components/com_search/views/search/metadata.xml 1 -
+/phpinfo.php/RK=0/RS=irfRk2xYMw9oSElMUhJPrKV3UFI- 5 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=k3v2RRrV8QaJmRsr88ncVCUZFA4- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=CV35SmP79gL8BvYzE5xjjRSr6PU- 2 http://cscecalgary.com/
+/phpinfo.php/RS=^ADAUr_16ZegW.STdQg6PMnHwA8bpCY- 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=MDVWv3QQkHd1alTCRUM4FLjqg10- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=yf5UwtK5zTtTe4B0pJp8gdLn8fk- 4 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=X1cmD.WesFSF0bZ8mmkSR.wwr0o- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=lYWdojdETGrGYP6zoXinujkLJIQ- 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=FuCUswk7axWPuAhXgLAS9IzGIc0- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=X5DNi6axS0h3p0o7ikKNVzcR2m8- 3 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=I4G3vqVh0tOl5sSwkWe75tmMZMQ- 7 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=dHrmUytIWhyhde8BYld7SxV8lJ4- 3 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=06BPNg3kSTTYNBxcpkodjSD7PcM- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=W7nF4nHZ.7Ch5LF7rV2fsF6Tc10- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=I.QfrSWM8oSqZC11jvPFD3cX3WE- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=5MvpFC4XgKWiLyHR8arryElMu1I- 3 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=utk5PpcONfGu802tR5IbXJ9p0ik- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=MQLzkketxZfS3Tlajt41_29PS2I- 1 http://cscecalgary.com/
+/phpinfo.php/RS=^ADA7JsrXq5h0vNMij5VDPoSeShLTQU- 5 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=mELJPdG3NhuYF4q1u0MNWQIbKGQ- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=IpuzLynyUz5Ac14UQYfSo6ZnNPA- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=Sr6eVu88FPihNocT9buKHruXD3c- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=Me1Yb2NwTT8mSjFNw7naUHZgtqQ- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=.lYaP0dANQ75xJzT8xsYkfUfhxQ- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=GBzjZnAhbu2dDIi34FbxEWdHo98- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=IyJdn34nH9APodF4WKCIZdpmUWY- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=NutaRuR8XNcpICLPZDR4yEPwUfQ- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=a.iPIL7ouFs5ubjqwxSk0izgJ3Y- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=89PInyiUiJqDIp6HwdANO0Zn0Ko- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=SKs9N3z6yL3ZhZp_iMnXnzx.9DI- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=STdoI896mz1LNwShDAPWeDMkmjQ- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=Lx.OQ2EKFaDL8owtGh0WVNoms8E- 1 -
+/phpinfo. 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=qtuzmzyrcU0xep7Oc5PUz9zOaz0- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=hnmpalqvu95nFLp91A5labTKync- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=nhAoT5Egw_p9dISObM_VTQIvoCk- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=wvDhyPL.6Q5asNTkcZ6GfoFukYE- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=RaAEMIu6v2jNARnk.Z0U0pr0G64- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=S0Ju.0YZsXvZjU9VXA9wv2v7a4Y- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=9hI6w.J2RoVUDJFftNahUngDXjw- 1 http://cscecalgary.com/
+/robots.txt 84 -
+/phpinfo.php/RK=0/RS=TczAp8AvWh8NhkVeSuQvW48Ypjs- 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=lEJpFcqoC_38c48wRysxDLVXEAY- 9 http://cscecalgary.com/
+/phpinfo.php/RS=^ADAdAGI8_F5ybb28VJwsJpCQ3FD_Dc- 6 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=D8Kw1IgImHFDCzqHhUOr_tVk8ec- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=MQ8OIl6HUk_cVqowcmKMSzG.Ea8- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=Ljn4qi5pOKknNZtlrWysZ4DOXAo- 1 http://cscecalgary.com/
+/wordpress/wp-login.php 1 -
+/phpinfo.php/RK=0/RS=tIuSpx1KvCCFRT5l0oqFpOYPOmk- 3 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=1octll03Aoon0POABKlaIixjr0s- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=QOaKOguhbEXnCbs181e3VENjxdc- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=FyqmFu3.H0v3vpE4uLAi6du68gM- 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=hy5h4rZXUhJiiQDGHcOtcCDAulU- 14 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=KDnluswm_hv9ZW_LmtE0FOWQzp4- 3 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=sK3uguyJbjJiRvMrjfL5Sk5evJo- 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=AgYUR1kE_DnN5ZsCmj9d8jbaCPs- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=c1Id6ZSp09_QyIzmekUSI.Qzoic- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=SykCs7bGUdYYpmG7Oylm5O2dhsA- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=L_ciFiAmJbnz7H7SSesc1VsdnOE- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=jbsCGUaoOvNR6ewfR2qMwslTsss- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=1wd3Loy0aLqIvnzQuzVZqH_kK88- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=LGLCmBrpswPfzcrP1n57lyRFRFA- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=hgmFG0Wg0gx9yP8W1H91N.laTMY- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=BGKgeR6qcwiCBHZGnQFxFd366kM- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=ZjwAPIngY4ZSvyh1c0twrxFsOWI- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=aJQfdlCqI1Xn5TzJUBbZJ2d3uDw- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=Fvhdxsu6aXrXeDznIUohGl5jLq8- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=haQ99lS_0rLOaT.Ex76BNMDGkdo- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=f2TG4I8Zr98j7BYsOmc4WD2Xdmo- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=6QdIlNyOMMOHqK3CsRmPxV4E_f8- 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=5TNUq8HVPzcP3mfNtMfKI3XFE7E- 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=JTOYAy44nVncd5UfFKogoRdO_Dg- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=JhLTgk2y.WbKfvgJXP38USa.1yc- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=bh3UUhVLblm4T6qT7U1JxPTSJII- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=F6Ul.pQobeGlgktuSHro5lhDQHk- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=QQZfmeRy1j3twMxDcM7xKOyEPPA- 5 http://cscecalgary.com/
+/cgi-bin/ 2 -
+/phpinfo.php/RK=0/RS=2.17lo9vRMS8vmdvIx5BLsFELE4- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=VvHapsmgFimrQBRs.78YJ915Hg4- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=XTMezvvIT1sgbko3NGh49_k1Pgk- 4 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=WkOkcpm6ETFr8VGkGnwwfpLA0bo- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=o4gAdGl8mb1WYgSqXGFkg.HUPQo- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=cU10JJ3VC4NwfsmkKNoy0PxkfT4- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=ayEjlhQp0wLh7FReugHGKjMdcDw- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=iVc92y7hVvgIgxKjM_H8e9PJcZI- 6 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=wzNuEgVikjUwR1m0WTQ7eQ87PY8- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=dR8l4fM5..48FuEB1QDJlIStuOI- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=fl.5lTcYvsRt6MocMOd7YhaDS7M- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=S6T0hiBbh9sLVn0Wwh1lIeFheoY- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=Y3UoEduSRLgeb.ewCA_BPK_Z8mg- 6 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=DT3q9n23snBRRdXPgJLG6gWrpws- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=exfKBMP91KD8FTBH3iyOXRBmD1o- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=jfUJ2UKhT7vIFEwwuqWrPJR1MSU- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=412MzUCJSTlr5eGeENz0VL2Qmtw- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=3dfx3MWkFaGr.t8MP4_PZBMle9c- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=IXDz4YtvYU8yvR0sXxxkGAJbbqs- 5 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=LwuaMaB.OT0HAzQQ4BWubopHLiw- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=.MBC1I9jeyyOfPYZTiQ7mM2AHug- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=XLyXtYOxPEBs599s3XGcYMVQGq0- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=YfU6rHqHM2Dhf4D0ky76.mSpdPA- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=gSddDfZHqIm_.HctVWBsJhCT10A- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=UNr6UrMzBVg9bA_7OB7Sy74PwcM- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=uLLA9of5lwkNQ1lJBCnAmbMH8Is- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=FFszYUJ.Hex6pY_5UuGlA85dQzg- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=_jQyiqDXm1fUXHGW2OJTOameI7Y- 1 http://cscecalgary.com/
+/csce_test/ 2 -
+/phpinfo.php/RK=0/RS=WmtdbsoNmyPjUdDGtmHxRmsrZv4- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=XUADrJr5yo51To7PPKOljwsEz4o- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=fA7Hle42A4LqI85qw6mfBtZU5EI- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=cuddJl7ICQ0_sCY_VPZzG48mxrw- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=iTMDghJQp0SegsYpNuTfaiif4Fc- 1 http://cscecalgary.com/
+/phpinfo.php/RS=^ADAbSsh7LeHCYEbIez1OE18hIWKCwo- 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=S7k6ok7YVYQdGTdQFuUspWLZxlE- 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=5wX_YsL5zelItXMHUEwjfkMM06M- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=nlawjS2hG_bTLGi30YVBpbanh30- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=yiWUgSM6UgmjWT9vvyYO1Y_RLfI- 6 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=lhU8_YczMjIrC6aBWdwl0pQEiDc- 67 http://cscecalgary.com/
+/test/wp-login.php 1 -
+/phpinfo.php/RK=0/RS=l1qmkqo8j03IJwiJTGmAyNrnQJs- 31 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=X51JWSemW9.rfOMh0KPgax4W4MI- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=tOq19Zbu_I2DnjNNhLYJ6Bx5Pfg- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=xOkSyGQJKPBQAGgekXIVgIRk.co- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=gIMHxlWtfH.TOQaADkTlEsM.A1M- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=ie9CoHBhJxuo3mnuxojXqGHrM9M- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=0FtiOwr5w9NJWcH_8nhEqmDzz4c- 6 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=qXYqWOlyCejLISEY0nKWVEIYTrw- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=FZjgMIDdWns0ORznZxyP.KZ41Fk- 3 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=cLclHPxE7QVenuAp_mgHiPL7q0s- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=GE0AjGeQqulcb4nIo1P_rU8VbtU- 3 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=O8e1FKxv9OQDdpLe7aJHN96gXso- 6 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=bwniwJwgiEZ4xwzpCyQ6NR2z_ZE- 1 http://cscecalgary.com/
+/phpinf 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=9XOjDRZzwpiTUzdjRaQ0z8zXRPQ- 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=KiAQjv6NAmbbggNDQMOOnCMciS4- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=5RryDAcVra.HHrb4RPGzjkTpwvM- 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=hp7MyTcyOxkRVifU6qwVRGpfD8Y- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=kuRU341Jhu4yUk5kVXL9jXw8VL4- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=mt3FXiXegczrNSR47mRHXj4f478- 1 http://cscecalgary.com/
+/phpinfo.php/RS=^ADA2glrsIVd2JavbWxL1UBqh3bBsEI- 4 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=N9e9zIO7eXRlCUTGq3c45A31KHQ- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=sMgAPoDqsCW6MYzv_dXeId_HxB0- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=fPDbu2DR3mAa56o3BPFnSpbQyf0- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=EqRrze2p772Ec_Q_Sw1gbtndb0k- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=x11Za_H9r15X414g7TGVQDX_Q1k- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=OjrQi1rYdaVFTHPs5HO.F8tNRYk- 1 http://cscecalgary.com/
+/phpinfo.php/RS=^ADAPczEUMPY.pVpkaSN_8ubDcWAm1I- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=hLKQnMMEuSLinNXLV1LWDmtL.8w- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=fZPRQ6cUVAaYYqHUf93tfr6.v3c- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=VQEOzgzLBpv9i4HJe1Z8QFCCvJg- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=HVZUazn6w6Smp_Dn.bot7UmWMWQ- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=F2_uKDl.SJNWuvXzLDBH4xJrpTc- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=AzyRdwDKtfu51rl2LJfEqz5HNtw- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=jHRorbQX0k9sVY5hY9MrnNo0zQ8- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=eeLTYVtdL7VgAahF8mzipBXgJUU- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=18MC1o3_4LV4X1NTstQIjQhq5iY- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=sFZIUY.YrslM3liev2LvubwcWM0- 7 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=6jKvINjN8mBS52qCguznINiQyKk- 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=vViPJV2EXeLmTNh.6U4dl2rcNws- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=XBOsC4FmzuiN.krfIIsIrLPPbPU- 3 http://cscecalgary.com/
+/news/wp-login.php 1 -
+/phpinfo.php/RK=0/RS=2tOiGU8jPL3I3puz9AenCTFFJE4- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=Ji6.wMyTWs38MSHH4rPD9O6IRUw- 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=9c.Ku3Io0Ep0gr_xsKbw8kGjV78- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=R0K89NGnH6FGecbu00r4cv7BizE- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=V.eUn6DO1_4H7MPbEozbHJmjWK0- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=_qaGRCh0UOHUrdEt_xIMQaelGIU- 1 http://cscecalgary.com/
+/ 3 -
+/phpinfo.php/RK=0/RS=.ZA9SffZZfqAW1KvaFiR6004jzs- 3 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=h8yoa2JhAcmOShC64ba9SDmmAgs- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=60Lm1ciZHvaryOO2vWdDQUduw20- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=iXNv73DwSWo.1hBkwpKjiFEwRIE- 3 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=w5R6y0o1Ye0mp7NZcmIpWmT5Mls- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=6UC8rqfTM0UsTnDVTK8qBuRYNg0- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=wtsOJEfKtjlPa1q3xrK4ww8MbZM- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=w4tKMY2vB78xj1o9TadtbK_Ge6s- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=mOtvfVGaUOUdE7.7me7sh3gjzVM- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=cbbDfiFxa3qRDx4UUUVcibUqmo0- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=XPxjnziJNeGYSbIbd9o29toNhkI- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=6E1kkc5CSISmaQPvLEVEzYTx7tk- 14 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=eUxOcga4KadnJA9x0qg0BO.9Xm4- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=iJEMipj7QA_jyV7.L0YQaOazqYY- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=Bj0.TXSRzN97KwXAnXAzI5.GgQ8- 2 http://cscecalgary.com/
+/phpinfo.php/RS=^ADAvUd_t59nOCiMcK9h90izxpg6SIw- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=_9v4av9UeSD_fI.VaBUJeZLb18U- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=ZcbVNmR6fF0XOfDkqX0fEUUs7o4- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=UQ_Icik_wvaO0XNbQTGKQl9W92I- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=I1KM2m202UL8wuqvqM5bl0ONzC8- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=xUsCYXAzop0dKCH7jd_J_R1bQkg- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=9iXkTFxJwNpBeSlXPfzJNS6HB5M- 9 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=efD_5_YiWRxY9g_G06maqn5cU9w- 1 http://cscecalgary.com/
+http://cscecalgary.com/phpinfo.php 2 http://cscecalgary.com/
+/phpinfo.php/RS=^ADA_f3IdNHBBd2S7V8Gv668VtIz0vU- 3 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=OKMN.umoI2x5bEMZaY4DqmxYO3M- 4 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=lPwmbgPLpw2JgEWiQ0TaY4Zeowc- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=9UzMIXY48opL6ibULGWSJbNAWnM- 1 http://cscecalgary.com/
+/phpinfo.php/RS=^ADAsvvtmwMFEor7q3_Dh3AREM_mFRs- 4 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=tOGYQkkWEQMlbP2F7AkduU4BiVw- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=mdk.8kLZf44bF7Dlec67x9RHogw- 4 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=eictONVRFbb4MAaG4FFMRg9XvTA- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=EAuW83K32vXENLFUQuQ0ETH4azc- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=O.XWpK10wa70c_hsZ9ZLokJTt_s- 10 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=jO.iJ4BPGCH0BLemkjExLULpZ38- 1 http://cscecalgary.com/
+http://cscecalgary.com/phpinfo.php/RK=0/RS=nxBWVh8v_hGEo.gTqNJh2C5pRac- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=HDR_oejYApfLE_tlvZxEJ.x.zvI- 1 http://cscecalgary.com/
+/phpinfo.ph 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=.i299H.CDfHmEOG.2aEnQWHjzSA- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=uqSu5t35z6.XjaOV9iiFAQbziqQ- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=i45hckARJdG0SVUbnYHHcU6iB8s- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=9wuTs8QeR2sRK0KdfIhjA6I6paM- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=Fyz8Hvvo0WfTX92gQFxfigWGSok- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=XF3eVDLUKJXS6Pb_fnsKW0ZEh.0- 3 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=9gyqmYhv21vLER4CPr4DOIVRaHY- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=inkB4tcPOIVszzIh5KR18LQoAAE- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=jkYk4jvKp8mLlvNTkVyD78KDKjE- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=pk15P9kaWuYs4BrIKEcy7Tq_4dg- 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=yxukCNhU2MzaV8vjHGokbJVDlyM- 4 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=N4otueaDMbX5Rj_1aoIGkLl63jU- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=U792nO1QGdG5zGuoCt2Wh6QaVK0- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=CgzOzMZVkyjXSFQ4ZTE7EMsRAc8- 3 http://cscecalgary.com/
+/phpinfo.php 921 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=SzrxTSra8eH8Bhq_RhWHt2cLlcg- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=s1KIu8cQHXyON3pA9kHx.PpV9OU- 4 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=miV381DEX5KvMO69EC_eGOrgDhU- 1 http://cscecalgary.com/
+/comment/add/ 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=9VAP7EIS8ca4BRQj2Ks4wshH2aI- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=66LYbk6ntXIQ2E2vPUST8U_.iww- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=kUzan.KaPcm7S3wf7y7PDgULgyQ- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=jvGuVjJSa_4GK84sUHJ6OE7yNLQ- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=NLw2z6tTjVAQGr6R_iAOYuoJkbc- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=UuRxqvg_n_i25sUXOaNOta7xwck- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=zMjJx3qJvH4dtfga6YLc795iXes- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=Y1pfvwu38L6PajnMKwl596QqQP4- 3 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=oV_djdLgepsQVVh.3bBo7gfvoc8- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=QDCZhZz0JfvBfQc13mYeuQONRoo- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=CyFveK9UWa9EvBZSxVMVZvbTlng- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=V.3vQO2tpoYx_5Gw4s4UWPv8N7w- 3 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=x2XdXfJ16SZjya1KGK6yDS4Rk_o- 4 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=G9cIyrJHVpuC8O8xGfqODE9lNHc- 4 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=oWdMYESMWUTaMTml2sQMgVT_TM8- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=wk_OeVNRg7n5m3wHqBfxGGcKqeQ- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=qE8CatCVtewjlmUfdBG95117rkE- 3 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=fSHotbdGT3ixRj_gdmaqrn98dQ4- 1 http://cscecalgary.com/
+http://cscecalgary.com/phpinfo.php/RK=0/RS=E41lJxEgayadmi3qidNIvdQtPUU- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=ZrVQXQpNtUws1qLjPfGaf6Fe0P4- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=4TI.bCDZpDczMpyCPtqU0Arm5Ek- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=ar2JIqif6CpLLcAivo.elgk5NDs- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=XP11zww.T8J5eefHZmsezwC2_EU- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=1GjqX9VZFO5snFHHhe9M61528Fw- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=S7kvGD8YWgMY2I6mgiucC5Shggc- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=wrvIM1ywODxio3nuo2WJT0Z5zto- 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=88NenwCK655vHxq7WvpvdS4dSXY- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=t53vAS4V.wwnH1CwUY7NT81Nq.0- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=_FO6B1Vm2VsO1THoV04LYrHZqlI- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=VPt0s1GbuP6BQgCjqReX438OMTA- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=L3gRwX4nUHPkxOs4wW8T1S65KrQ- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=Wsz8cTaeTlaW.BwZLjsdcnr73Ms- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=M.cYuibWCGKOHf1eV1xnD_E1ums- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=CT8oEJxYbe091k_xRan7Fysrm_8- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=XAT1z3UR9JHuNhxh2dpDDAfdHno- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=UXECjq1vKIV23mtU_OEougsnkEA- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=h63VjMyk2b3OtT__uLWn6DkdHkA- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=BMhN3MEF7.5se_m8SI_oPUBbIX8- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=RrgtLW2cZJWKc7rGvclhVR7fD8k- 1 http://cscecalgary.com/
+/yp 1 -
+/phpinfo.php/RK=0/RS=ART6mAZYE3.hpYypobF1vjxE6c0- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=0n5tvm1WFuWHvh9VBETdxPOG_Y8- 4 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=4GQVOHtDoRSKaiA3r1PvUfCThG8- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=6ta8W8_P6fJ6lcKuXjeYUSnbiJ4- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=FAo4f1XjzpVD0snKu25wqU2FkSE- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=teZf8Lo1aVYsNVNNQ0b6.f0TsW8- 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=89w3b03MEjJchStfOWS6mWoJnnQ- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=XOqJNhyDUflzm_d4eNkt6kUDCo4- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=rMPkoCMY1pPALcEZNe2XKWGm_mg- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=U8_crT1seQOxsls.wF4ptUcOjPA- 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=q1CHB5pU_3DnYG1mRiLjEgbHph8- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=E41lJxEgayadmi3qidNIvdQtPUU- 1 -
+/phpinfo.php/RK=0/RS=Y.TdW_RdMayHp8aKcYm7J_czteE- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=q1HQ.CxjFEbXonl3qliBgwEieF0- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=nl5ffXdR1jlryaTDxLv4axQUdgk- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=1Ls9oeU.dC3h9hPZ7Q1MV8B7dVU- 16 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=5ujv5o5qAIRGnr06a995GJ0U9y8- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=TZRqq13YrPM8Z8Q0PeL2KtAIXpo- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=.KzGDof62SFVKM9AyAqOOqqCLm0- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=2dx6EMZnPuD2JSHWKhjpRYx01Uo- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=Zuc60806hVGD51xBVo5pKJ7hmco- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=Whh4sID9tsOT3pb5hJPOpChVQ2o- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=dyo0IkZrLO8cCrtEs25EJg4cssI- 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=5hvypM.gtLfZ5toXpxVhgIcj2ks- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=guNHal6an2r2C0Y7pdnyPjpXMGM- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=EpSjTZ2bt2OMl9j78K_3BZTF0uc- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=XkF64BB37TII2fvNKrK6dXLtn74- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=UEaokE_9OTPRDjw8Go4eaMttwG8- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=VTCvL7vEZTd.gPwXjgx9862wF0g- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=.KwfjYugP5MCja9CWvqjpxtVivo- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=f_RicWhM94d4nzExJwgA.59ejn4- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=mE3jM_lMTbx89V_y_VuwZuFaCtM- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=zX_3KPrR.XQgZwUw8JsFPKj8Mgs- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=qpMfeeA.Xx1dw5rpZIL.e6ZyOks- 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=Rvlf2Wz0L45MXIGrmbfdozSj4jQ- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=W7BFGLz5ywOONb3dzb77iTTI6tY- 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=uEV0Y3BPMCdYlDZEzhDWB7o0NF8- 1 http://cscecalgary.com/
+/phpinfo.php/RS=^ADApmWOvaWU98hHW3lueWiMPAs_z.Y- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=jPTTAHnlHO1uzOCkG7Ewvpky8Es- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=SBn2lL7nv3iUZw3TSmMgxCI4r94- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=3n1es20O1zzD9tr1XmVuf7Cyxs0- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=koJoHHuBjJF6RDbFSu78LMPHpAk- 1 http://cscecalgary.com/
+/phpinfo.php/RS=^ADAmOOIRoflGtBctGrkfwMiJd4sltM- 3 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=qJzP.3sKPGMLBf.xhI126hzD6j4- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=2EpqsB1Aben5GRF4s1svKmwSWjs- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=6nxrOVhWHFIz3wqRnNp_Xj2RMLE- 1 http://cscecalgary.com/
+/project/%3Fq%3Dsponsorship 1 -
+/phpinfo.php/RK=0/RS=785C1jGJG00IrtqXJzdDCtHF1cI- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=mLMucPQWiRzfKz_JzkB666P4XMI- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=of0WDrAxJQd9zEAPg5FCNNQT6HM- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=da.YWaifHfQh5DkjUU3bBfHQ70c- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=4ovH0.pyPY03a79Fpuw8ZQ9TOtc- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=AReOTO42q.tLGK1MvaqsSnovvvc- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=dXEegfolBBhw7NhSCQCLqbe9Jr8- 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=IXLG6gNiWU.WtadmHU6Pjm7Klto- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=6z3Qmw76fesUwn7MbRgDULbARY0- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=3FvllIrYd_G6NmohQNnFuLTTEQ0- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=pGq74o22X5kiJhPgoWIOwKfFmJs- 2 http://cscecalgary.com/
+/phpinfo.p 2 http://cscecalgary.com/
+http://cscecalgary.com/phpinfo.php/RK=0/RS=484ucPVheBsJOWOiW5XeJ4FLjds- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=NTPuBCyq4JKyy5LboR4tb1EqNF8- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=Jjy4_rpWuJLk8NX8LXS_r3RodZM- 1 http://cscecalgary.com/
+/auth/sign_up 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=JDCLwP1WpN9.FSU0kV0gEqivTos- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=YNJ2hi5P7AE30SMVFCQ1tCuUU7Y- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=UaFbP1wvwAnVJH.UTKy3Cudi3vw- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=gr.uCMZxnH7X_njxHVtxccveehs- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=9.oIpKaQcf6eJkpDHxzNuX7mW5Q- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=CH5XDKrl3Aud2FnXj6dwWMwc3wg- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=SzNNYgdRZTjGolc9SwDyWmI4MrM- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=LboN1zLAq1g7l2o1w6kR8B.mX7o- 1 http://cscecalgary.com/
+/blog/wp-login.php 1 -
+/phpinfo.php/RK=0/RS=R5Eexez1IHd3THg3k54KvLzY.Uw- 1 http://cscecalgary.com/
+/test1/ 1 -
+/phpinfo.php/RK=0/RS=PUTcPw10ZXJ_4r5Vc4ZujA_0.qk- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=ijD8kcUHYSr_YyTkMRk2dKN.M8g- 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=SvT39ctOiaN.TJ.yqLtovEgi53w- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=MgWADAQbdxadPSizzvL8XaSf1SY- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=FT6J6Zzuiig1eaVW7zfGOo9Zt.s- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=B15UypQmtp6vQ7Zy0w.6Y3UWd30- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=T9F3tJaWrPfhCfD.KbYY7CkcMos- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=M0UgtrCNruyz.GQOZhB6C6H9qL8- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=JytYO7LMNNgb319CoZkEoNW18Dw- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=3rZ8mq4NGGHW7gYfpljg5mr8S4A- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=JO9H9ByClk6MfHxN4.cGl1Y4fGA- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=X03bjI4X0KK3RqbnxF.6Xo0VlHo- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=KD7tcdOdE5lTKDPmoDEPp17wca0- 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=gEuPqoFAVyCZ3ao9xIjsmPjh4DU- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=839NvcGslDx5eQMeK9hmIxRoZ6w- 6 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=Ki9AeqmxCs.D4UEi_pM45sR6ZT8- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=C1ieGA07isKBBg38iGv5hFYoMxA- 6 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=bsEGLqC5Mnh.W1fpithopPMyR8I- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=dinxTj50qo1amIS28lcem2fUCyI- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=VewsowInefz88Ms7_kLrqrqXNwU- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=xFH9WiQlLsy_pYSk8wartnvdfRI- 1 http://cscecalgary.com/
+/phpinfo.php/RS=^ADA7ez5wl8U0OWLaarm_g5s3jmCIt0- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=CH01WCf_9u2LWu7nOCICmq_4_IY- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=JU_qdqHcLzfathoTX8T4AE0IB80- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=5JUAG7tLk9lQsgw.Tm2A7DdRTis- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=GJQSz9bfL7Ns1Z5e5aUkUcxvWh0- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=ZoIiNvp_Cp5D4MoCXELcLlJd.ac- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=pBSYzFYWRc1rQIlfhrciXtwPGXw- 7 http://cscecalgary.com/
+/wp/wp-login.php 1 -
+/phpinfo.php/RK=0/RS=wmC.mMfEsG.VCsHeTHNmrE8pIOI- 2 http://cscecalgary.com/
+/phpinfo.php/RS=^ADACfazM08.lRmRGnOVwSjDsJTv7Dc- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=yDmz4jzMJYWWF8m8m.P2KhsngUE- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=Hn55yRp1JIMU7HRiIO28Ax3Y96g- 3 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=OC_8GeXsry1wOQHTsLe9w4CU6eo- 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=FOFzhBdGzy0b2lLr4pTfS9x_3lc- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=mImAEN7Uo2f_8pFDaolDNq6TCL8- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=l8g8_LA0p4KrlpNCxxJSZzbXeL8- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=GZL5gmmN3eM28ai.9S6Ee76wdJg- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=yECthS7cidUsWtsvj0oX.DZEkjo- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=czb.czHMJosHVuPgXW5wc_8oDeM- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=dToYd7GsCwl82Y5RIXashtI8vnc- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=z8IAF5lOR8JAF34mG3DX.I6HvEc- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=yYodop9D1uDr7bP.Lms7EAadRfg- 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=6eD0Shn12hwBemMitdAj3Xr3uWc- 15 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=_bkGCz1kdrQxCFhxbAK16DfBh9U- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=bkM0i8AwCl1vPIgiMmIRoUMxgBg- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=PlY0StEO4TlQMSfXrcxcWP4OMmI- 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=.AYcb3CdBbIwvGMvoJniNsCRN64- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=sRaFkb7A9QAjAevXXcdyzUi5kmI- 3 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=G3e1AeWM_dRvetgEklu2vTfLLR0- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=qKv3J7turNssCFZaUts26Uncx3o- 11 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=9TWQJMI.g5PdDYspAMC4hKa3wlQ- 4 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=fDwSbNnf3ZaNYPZUvt_D7WScZJs- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=0XS.Vaa6.lZS.DDHibs0myvwhLY- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=s4vSdtMcRBcH.lqtJADNeIg3v4Q- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=_VnGx9drN5f_AE3N8K4Ez5SaVzg- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=SLboGwa7UreMLJqjPdk_S9N3r7U- 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=LZvVFShfT8NHyEhIQznXlrv_mOE- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=zDRxPV4ZHW1RbeVK7kGAnApBaqc- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=QkrhIrHntqEH.toMj4dxwL4oCTs- 3 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=bXwgbN.Tt2OXpo3GaYw5UN5jpto- 1 http://cscecalgary.com/
+/index.php 3 -
+/phpinfo.php/RK=0/RS=35wvxaYMNxAr6HmmnsUDyz4C.i8- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=pI44FjaZZ1OOXbWy31DIklQHeQE- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=Rwqw_yv.PYmOZQkD5PBRsiRYGWY- 3 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=tOLgZPpM88pVZa9xUuHYYGGYgFc- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=XDWv4PhHqOc2ql62v.ferltad8k- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=0fLMs1zlNanqf3lkunomcdktsPI- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=4zOXdAz6g0WC3GZjNHHtM1bYLao- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=qUQ5nPLATFniHqrduZvaMOioGjE- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=hcDwyxFJUjvoo80yRij7PNGZtRQ- 1 http://cscecalgary.com/
+/phpinfo.php/RS=^ADAwZ5XaFMIX_jp4syzYYvqHT4SC3Q- 2 http://cscecalgary.com/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1784
+75.159.204.2 68 403 6286148 20140507231335
+62.210.113.18 59 59 3923776 20140531222954
+184.71.242.70 39 238 2628853 20140507183010
+192.187.100.154 35 35 2304825 20140531071652
+162.244.11.227 33 33 2190685 20140529112750
+213.159.38.90 32 32 2124864 20140531102741
+192.95.39.229 29 29 1918220 20140530204604
+108.61.139.154 24 24 1594300 20140528232140
+91.238.134.52 23 23 1524671 20140529150428
+75.158.45.99 17 118 2711547 20140502092623
+62.210.114.10 16 16 1062885 20140531075239
+183.207.228.14 16 16 1056055 20140531062227
+204.76.196.12 13 490 12877001 20140513164949
+89.65.229.231 12 12 795555 20140530025326
+162.244.13.99 12 12 789854 20140529050201
+92.108.106.2 12 12 796373 20140531134657
+69.64.34.147 11 11 724471 20140531224647
+213.238.175.31 11 11 724531 20140531181952
+192.236.132.182 10 10 658254 20140530060418
+23.254.134.231 10 10 660540 20140530084459
+207.34.120.71 10 105 1264519 20140514164957
+188.92.76.167 10 10 0 20140531123238
+162.244.9.13 10 10 659487 20140529230850
+23.94.63.53 9 9 597596 20140521120631
+82.159.30.217 9 9 596076 20140530101604
+182.237.177.37 1 1 66465 20140518184727
+148.245.38.39 1 1 67445 20140530011640
+204.44.85.100 1 1 66461 20140508214108
+23.94.63.24 5 5 331961 20140530124347
+173.232.106.165 1 1 65929 20140525075401
+173.236.49.11 1 1 65874 20140519061146
+192.227.253.195 1 1 66465 20140512140424
+192.3.61.216 2 2 132801 20140524133537
+192.126.167.15 1 1 66390 20140522223053
+37.59.162.232 4 4 263447 20140526025759
+173.234.226.198 2 2 131637 20140524192443
+108.62.70.203 2 2 131599 20140523001704
+192.227.160.167 1 1 65864 20140518124106
+107.182.23.189 1 1 66459 20140506235509
+186.134.144.217 2 89 1639214 20140517151421
+89.47.22.67 1 1 66369 20140506092739
+186.17.228.89 1 1 66461 20140505131029
+23.94.20.45 2 2 132774 20140503162720
+201.208.107.52 1 1 66674 20140510154515
+190.128.137.174 1 1 66377 20140506211732
+173.234.232.160 1 1 65878 20140510182230
+107.178.114.4 1 1 66461 20140507201207
+198.55.109.192 1 1 65801 20140522123703
+199.223.235.211 1 1 466 20140505145811
+108.163.255.166 1 1 65878 20140509135950
+113.161.76.249 1 1 66516 20140526011707
+108.62.70.56 1 1 65872 20140510050314
+199.96.205.163 1 1 65874 20140509180839
+108.163.195.195 1 1 66467 20140509055618
+192.227.243.122 1 1 65651 20140520031659
+61.90.60.192 1 1 66040 20140528080924
+46.246.2.250 1 1 66452 20140513185233
+208.89.213.83 1 1 66236 20140520113038
+107.155.79.159 1 1 66375 20140506002501
+110.86.164.112 2 2 132908 20140528051753
+46.246.33.152 1 1 66375 20140504212850
+23.94.19.23 1 1 65868 20140513233930
+69.12.78.58 1 1 65868 20140519203410
+178.33.35.243 4 4 89372 20140513200749
+60.190.138.149 1 1 66023 20140519143228
+5.135.114.2 1 1 66457 20140512124212
+192.126.118.160 1 1 66937 20140504140335
+89.47.22.204 1 1 66638 20140512215233
+184.154.142.28 1 1 66451 20140518001045
+107.181.70.149 2 2 131720 20140523191617
+87.98.165.214 2 2 133335 20140523093949
+68.65.252.92 1 1 66461 20140509220602
+198.50.254.212 4 4 264970 20140524051048
+37.59.179.205 2 2 132318 20140530222723
+94.153.10.167 2 2 131726 20140530135152
+69.12.67.64 1 1 66456 20140521032323
+198.143.143.21 2 2 132261 20140516180340
+173.254.234.181 3 3 197630 20140514095027
+96.127.165.181 1 1 65798 20140517094834
+184.154.48.21 1 1 65800 20140516233823
+119.2.14.188 2 2 132098 20140510040018
+178.32.70.116 2 2 131744 20140514183601
+74.221.211.220 1 1 66463 20140507202529
+36.248.118.59 4 4 266557 20140525192537
+192.227.243.164 2 2 132255 20140515132110
+149.255.111.227 2 2 131935 20140520002525
+117.59.217.240 1 1 66097 20140509113613
+37.59.75.51 2 2 132828 20140508213316
+199.180.135.67 1 1 66463 20140513013436
+193.25.120.235 1 1 66429 20140508082700
+173.0.48.27 1 1 66387 20140503142749
+204.44.92.16 1 1 66459 20140507180108
+183.230.127.59 1 1 65938 20140524041023
+91.121.232.196 4 4 264015 20140515063040
+50.115.170.181 2 2 132925 20140521031248
+198.23.152.240 1 1 65874 20140512062934
+5.135.214.227 1 1 66391 20140503162203
+74.221.223.96 1 1 66457 20140507150948
+148.251.111.188 8 8 526331 20140528062828
+69.12.91.132 2 2 131744 20140519053207
+198.55.113.35 1 1 66385 20140517044823
+5.9.202.132 1 1 65917 20140531061815
+173.0.55.233 1 1 66371 20140505235910
+69.12.71.168 1 1 65861 20140530195153
+173.234.58.174 1 1 65802 20140516233958
+198.167.137.88 2 2 132510 20140523012409
+198.50.191.202 1 1 65873 20140521084243
+5.135.214.241 1 1 65874 20140510174701
+5.254.137.133 1 1 66375 20140502080730
+117.59.217.231 2 2 132482 20140520083818
+5.157.55.144 1 1 65869 20140521035600
+68.147.33.15 8 182 3591559 20140502132725
+120.198.230.11 1 1 66459 20140508101421
+36.248.98.176 1 1 66389 20140515211310
+204.44.85.229 1 1 66373 20140506153858
+169.199.19.136 1 1 66450 20140525182217
+23.105.213.242 1 1 65923 20140530203522
+68.171.105.121 1 1 66465 20140508171229
+180.180.98.51 1 1 65872 20140520000341
+182.48.191.111 1 1 66420 20140529221450
+209.164.80.73 1 1 65925 20140525081729
+46.246.41.222 1 1 66463 20140519065113
+107.178.114.13 2 2 132836 20140507082926
+162.244.12.106 1 1 66346 20140524103013
+107.155.120.53 1 1 66512 20140531155657
+69.12.91.175 1 1 66455 20140506195727
+46.229.138.19 1 1 66196 20140520124508
+68.65.203.227 3 3 199385 20140510215721
+184.22.121.98 1 1 66447 20140501070354
+198.102.28.104 1 1 66459 20140507030030
+107.161.81.67 1 1 65872 20140513020111
+192.99.141.6 2 2 131719 20140529190136
+72.89.142.72 1 1 65870 20140514133742
+94.153.161.98 1 1 67050 20140518173017
+69.12.67.14 1 1 65870 20140510222513
+27.150.245.169 1 1 66354 20140524191611
+142.91.62.10 1 1 66461 20140509114604
+69.12.81.5 1 1 65919 20140525013206
+89.44.21.105 2 2 132536 20140523003223
+199.30.55.251 1 1 65800 20140516075208
+74.221.208.23 1 1 65647 20140520035032
+27.153.136.238 2 2 132916 20140519045811
+209.33.217.130 1 1 66377 20140504142745
+173.236.32.109 1 1 66451 20140517181008
+211.144.81.66 1 1 66528 20140525033025
+117.171.247.160 1 1 65651 20140520063804
+74.80.147.238 1 1 66463 20140510083249
+107.155.120.214 1 1 66393 20140516173946
+117.164.42.84 1 1 65865 20140527170222
+191.238.14.221 1 1 66373 20140506144003
+69.12.75.164 1 1 65798 20140516000105
+173.0.49.244 2 2 131716 20140531172721
+192.126.166.204 2 2 131676 20140517120905
+198.50.236.191 1 1 66459 20140506191124
+37.203.210.171 1 1 65874 20140511144744
+176.31.59.241 1 1 66447 20140502011635
+217.114.7.154 1 1 66999 20140506171156
+198.167.136.47 1 1 66393 20140502153215
+96.9.148.20 1 1 65859 20140525232753
+172.245.181.137 1 1 65864 20140518155116
+37.59.132.136 1 1 65863 20140526193627
+107.178.218.238 1 1 466 20140531091810
+204.44.113.6 1 1 65858 20140518151638
+170.130.111.83 1 1 65802 20140516230205
+107.155.79.133 1 1 66465 20140509080415
+173.213.96.164 1 1 65876 20140519063626
+173.213.96.165 1 1 65862 20140518064443
+202.159.6.146 2 2 132855 20140527230336
+111.1.60.210 1 1 66123 20140524203211
+198.50.136.235 3 3 199102 20140520135447
+96.9.148.34 2 2 131740 20140518201256
+173.213.83.169 1 1 65927 20140526002653
+5.254.137.229 4 4 265548 20140517065602
+199.119.226.219 1 1 65804 20140515235835
+162.248.101.200 1 1 66465 20140507201922
+183.220.234.178 1 1 65878 20140519063325
+107.181.70.17 1 1 66463 20140509225319
+69.12.67.76 1 1 66232 20140520074233
+198.50.244.63 8 8 527988 20140519080637
+172.245.32.135 1 1 66465 20140509010245
+198.167.136.39 2 2 131677 20140523004259
+36.248.117.192 1 1 65865 20140527232902
+93.118.74.3 1 1 66459 20140509145845
+173.254.234.188 1 1 65878 20140510111308
+193.105.154.5 1 1 65921 20140531043454
+222.88.240.27 1 1 67009 20140527003637
+96.9.148.24 1 1 65859 20140526055658
+204.44.92.197 2 2 132918 20140508001652
+5.255.91.29 1 1 66371 20140502150340
+109.169.95.196 1 1 65873 20140522015115
+86.120.19.137 2 2 132505 20140523032538
+204.44.92.36 1 1 66461 20140509110111
+69.12.84.231 2 2 131842 20140531180642
+178.33.213.40 1 1 65863 20140528064814
+69.12.70.175 3 3 197522 20140530064954
+41.190.49.227 1 1 66960 20140502074149
+198.55.109.133 1 1 65865 20140530205607
+107.178.219.206 1 1 466 20140518091807
+170.130.24.164 1 1 65802 20140514180720
+36.248.116.7 3 3 200682 20140525061840
+192.157.239.77 1 1 66463 20140512061522
+118.26.57.14 1 1 66666 20140501225244
+69.12.75.204 1 1 65872 20140510093617
+188.240.135.77 1 1 66642 20140508214101
+81.30.191.46 1 1 66373 20140501165904
+37.59.171.216 1 1 65865 20140527073500
+23.94.27.117 1 1 66365 20140516114106
+23.94.159.179 1 1 65874 20140509190604
+218.18.134.61 1 1 66375 20140502005045
+165.231.8.112 1 1 66452 20140530225834
+107.155.77.232 2 2 131675 20140522005420
+184.154.44.100 1 1 65876 20140518163143
+117.208.75.19 1 1 65874 20140509201724
+72.167.177.9 3 3 199309 20140516052406
+173.234.249.199 1 1 65925 20140531175612
+184.154.22.44 1 1 66389 20140515204420
+96.127.135.194 2 2 132261 20140517130144
+198.12.72.110 1 1 66454 20140527105142
+69.12.83.153 1 1 66459 20140511092512
+36.248.118.254 1 1 66454 20140526012612
+108.178.9.30 1 1 65858 20140518091304
+27.145.145.105 1 1 67052 20140509021619
+192.227.191.176 2 2 132648 20140522211537
+178.33.22.175 1 1 66375 20140505122407
+107.181.70.91 1 1 65872 20140512193438
+96.127.191.190 1 1 65802 20140516032303
+114.6.34.194 1 1 67009 20140502195603
+176.9.50.42 1 1 466 20140530153309
+173.0.62.240 1 1 66373 20140501152705
+165.231.8.104 1 1 66452 20140529115748
+108.178.53.171 2 2 131748 20140514111809
+79.101.180.133 1 1 65862 20140518050258
+192.40.91.212 1 1 66570 20140503165222
+23.227.162.126 1 1 66463 20140511163439
+173.44.40.199 1 1 65863 20140529235751
+37.59.179.246 3 3 197382 20140528043119
+107.158.23.36 2 2 132766 20140505035913
+172.245.181.248 2 2 131800 20140531183816
+192.95.37.16 3 3 198788 20140508234104
+198.20.79.186 1 1 66463 20140519015554
+117.26.117.25 1 1 66373 20140506083600
+192.200.31.203 1 1 65867 20140527154130
+173.213.81.46 1 1 65802 20140503181138
+36.248.98.38 1 1 66373 20140504035430
+193.203.49.46 1 1 65549 20140525124112
+117.78.13.55 1 1 466 20140519085122
+192.210.195.30 1 1 66463 20140508104420
+69.12.77.110 1 1 65798 20140515143308
+107.155.120.109 1 1 65800 20140517195112
+111.1.32.51 1 1 66629 20140528034220
+172.241.216.203 1 1 66046 20140530041113
+107.178.208.55 1 1 466 20140514180109
+69.12.80.187 1 1 65861 20140529163718
+69.175.89.85 1 1 65872 20140519012622
+173.232.104.88 1 1 66465 20140508215129
+46.105.79.209 2 2 132251 20140530113022
+62.210.38.153 6 6 395352 20140531224457
+195.211.155.172 1 1 65803 20140522051533
+93.63.141.186 1 1 66459 20140510173610
+198.12.124.151 1 1 66459 20140507134919
+174.140.168.200 2 2 132932 20140511192146
+192.3.61.220 2 2 132837 20140529070546
+192.157.251.63 1 1 65876 20140519043616
+173.0.60.148 2 2 132244 20140530002919
+212.154.154.220 1 1 65923 20140531062236
+220.200.24.135 1 1 66465 20140518123510
+172.245.214.148 3 3 198130 20140521132836
+188.240.134.172 1 1 67559 20140523013237
+188.120.236.2 1 1 65755 20140524040000
+107.155.118.102 1 1 65804 20140515003959
+94.41.202.216 2 2 131618 20140526051938
+64.188.45.150 1 1 66474 20140525020740
+5.39.19.75 1 1 65857 20140530100837
+107.161.85.241 1 1 65981 20140516034646
+216.107.159.18 1 1 65876 20140519033131
+69.58.178.58 2 2 932 20140520005619
+46.105.251.223 1 1 65801 20140522075153
+94.23.120.26 5 5 330057 20140526020348
+61.158.219.226 1 1 66046 20140530015248
+94.183.240.77 1 1 66429 20140511114506
+23.94.243.188 1 1 66449 20140517204448
+110.179.184.4 1 1 66938 20140502103131
+176.31.57.7 6 6 396854 20140526080924
+196.196.28.117 1 1 66456 20140527024635
+46.4.233.236 3 3 197466 20140516110900
+69.12.80.153 1 1 66447 20140518020634
+208.89.213.10 1 1 65921 20140530202532
+50.115.175.236 2 2 132339 20140519085635
+192.3.108.153 1 1 66375 20140505023304
+188.208.8.79 1 1 67351 20140523121320
+69.12.76.179 2 2 132445 20140523003744
+5.9.187.228 5 5 328894 20140520204102
+111.161.126.90 1 1 66230 20140520161631
+190.75.32.66 1 1 67012 20140509195501
+62.210.136.87 2 2 132926 20140509020544
+162.244.10.211 4 4 265613 20140519012432
+107.158.229.152 1 1 65806 20140503195719
+208.89.210.215 1 1 65801 20140522070118
+116.125.143.82 2 2 62682 20140511111528
+173.0.62.245 2 2 132253 20140517021118
+67.23.178.68 4 4 265748 20140514081704
+37.59.85.109 1 1 65861 20140526140706
+142.91.62.120 1 1 66461 20140508122053
+206.212.242.62 1 1 66375 20140506081825
+108.163.232.140 2 2 132860 20140516020621
+46.246.36.161 1 1 66454 20140527060635
+74.221.212.86 1 1 65763 20140524221423
+108.61.139.170 1 1 66377 20140504143826
+94.23.180.240 4 4 265584 20140508222500
+162.244.10.69 5 5 332147 20140516173437
+198.55.113.30 1 1 66461 20140512091146
+198.23.152.137 1 1 65874 20140512082619
+198.23.152.234 1 1 65874 20140512174857
+180.183.249.70 1 1 66930 20140502051634
+151.237.181.138 1 1 66558 20140505015240
+193.104.110.140 2 2 132043 20140521212031
+173.213.96.219 1 1 65865 20140528171631
+111.161.126.83 1 1 66382 20140521152028
+89.141.67.247 1 1 65872 20140512172057
+159.226.61.60 1 1 66932 20140504052759
+176.31.57.10 1 1 65861 20140530162844
+172.245.240.57 1 1 65860 20140501222431
+216.189.55.152 1 1 66465 20140510170037
+108.59.87.116 1 1 466 20140512074856
+23.94.243.142 1 1 65874 20140509214509
+198.167.136.207 4 4 265131 20140523015419
+202.67.8.66 1 1 66322 20140524020307
+96.9.148.41 1 1 65751 20140524094930
+170.130.111.69 1 1 65765 20140524231849
+199.180.129.15 1 1 66377 20140504042905
+178.222.35.96 1 1 66461 20140507235031
+212.67.7.214 2 2 132824 20140518221235
+38.100.21.64 4 8 72499 20140516080746
+90.184.42.187 8 8 530733 20140515134213
+118.97.95.185 1 1 66326 20140524222253
+216.189.55.130 1 1 65923 20140531002553
+198.12.72.19 2 2 132958 20140531043435
+162.244.10.206 1 1 65865 20140531061247
+107.155.75.21 1 1 66461 20140508135248
+198.23.175.58 1 1 66375 20140505220730
+107.182.23.245 1 1 65876 20140510103132
+69.12.90.164 1 1 65870 20140514030420
+74.91.29.39 1 1 66457 20140514074746
+168.63.97.1 1 1 65859 20140527090229
+192.95.0.209 1 1 66371 20140506140604
+176.31.14.112 1 1 66389 20140515101339
+172.245.35.200 1 1 66459 20140507093843
+36.250.89.12 1 1 66607 20140522084025
+68.168.137.218 5 5 331557 20140517204952
+107.182.23.239 1 1 66644 20140509214515
+180.180.101.239 1 1 65867 20140528062353
+108.178.27.219 1 1 65876 20140519040451
+192.240.192.187 1 1 65979 20140516194536
+118.99.66.161 1 1 66421 20140512152813
+101.255.32.62 1 1 66423 20140511055745
+198.167.136.126 1 1 66465 20140512132653
+178.32.143.13 1 1 65799 20140522124532
+183.207.228.11 4 4 265856 20140527060954
+107.161.85.77 1 1 66051 20140513202236
+94.23.202.60 1 1 65870 20140513101848
+208.89.213.100 2 2 132854 20140515205740
+107.153.85.75 1 1 65921 20140531123549
+192.3.111.147 2 2 132523 20140523053105
+46.105.133.59 1 1 65865 20140526204746
+192.157.251.168 1 1 66395 20140503074316
+107.181.70.88 1 1 66457 20140507125025
+93.118.79.239 1 1 66463 20140510102357
+182.52.46.78 1 1 65798 20140516033058
+184.154.164.76 1 1 66377 20140505094813
+91.121.232.194 1 1 66449 20140501235148
+198.55.113.7 1 1 66447 20140518015452
+125.164.99.79 1 1 66897 20140524162439
+23.94.23.73 1 1 65859 20140526051718
+183.216.173.99 1 1 66377 20140504221329
+172.245.142.81 1 1 66463 20140511124945
+107.155.77.223 5 5 329275 20140529224840
+107.155.120.212 1 1 65925 20140531091809
+198.143.143.155 3 3 199323 20140515000100
+58.114.107.29 1 1 64756 20140511205651
+96.127.147.45 1 1 66463 20140509190854
+173.232.106.13 1 1 66377 20140504133544
+173.232.104.151 1 1 66465 20140511222538
+173.213.96.162 1 1 66465 20140518200716
+192.171.236.65 1 1 66642 20140513181300
+108.163.227.163 1 1 66465 20140507224236
+162.212.57.168 1 1 66046 20140527095456
+182.18.176.21 1 1 66452 20140529120616
+5.135.179.229 1 1 65755 20140524160120
+192.99.132.100 1 1 65865 20140526231311
+188.165.121.228 1 1 65867 20140529165917
+27.150.222.0 1 1 66450 20140528123209
+196.196.16.23 1 1 66461 20140511054750
+203.170.19.12 1 1 66363 20140517063023
+37.59.145.48 2 2 132253 20140517192051
+221.181.104.10 2 2 132242 20140527202146
+23.232.133.85 1 1 65863 20140527230112
+192.3.166.145 1 1 65921 20140531182103
+165.231.20.152 1 1 66463 20140512070213
+91.194.247.247 1 1 67002 20140501114707
+23.90.4.222 2 2 132890 20140518054743
+50.115.175.201 1 1 66465 20140518193025
+199.30.54.58 1 1 65872 20140519001505
+96.127.146.190 1 1 65876 20140519070439
+93.182.158.49 4 4 105942 20140503135929
+162.248.102.200 1 1 65878 20140518212809
+81.15.209.34 1 1 65872 20140510225225
+23.92.222.77 1 1 66371 20140504034447
+195.39.211.21 1 1 66375 20140505125453
+107.158.228.235 1 1 66467 20140510050346
+162.250.232.69 1 1 65865 20140529222835
+107.178.217.214 1 1 466 20140525091802
+184.154.90.101 3 3 198189 20140518230005
+74.221.223.233 1 1 66465 20140508221737
+178.32.251.116 1 1 66377 20140505081158
+62.210.129.32 1 1 66368 20140504125326
+37.59.93.250 1 1 66450 20140530080808
+117.164.45.229 1 1 65874 20140511113811
+165.231.12.191 1 1 66556 20140506013713
+23.94.23.39 1 1 65795 20140522141148
+23.94.245.245 1 1 66461 20140513183213
+213.184.101.2 1 1 66042 20140529040940
+107.158.75.69 1 1 66373 20140507012727
+201.221.132.22 1 1 66996 20140501121525
+37.59.131.103 1 1 66375 20140504124644
+212.0.212.244 1 1 66347 20140517162945
+192.210.215.152 1 1 66644 20140508062059
+50.115.175.146 2 2 132336 20140521131650
+107.178.216.104 1 1 466 20140519091901
+107.161.81.56 1 1 65874 20140509055748
+23.83.94.108 1 1 65861 20140529055204
+198.20.79.54 2 2 131666 20140518214438
+198.20.81.46 1 1 65858 20140518093128
+198.12.75.122 2 2 131680 20140526004410
+46.105.73.32 2 2 131784 20140525232653
+198.50.136.228 1 1 66377 20140505060850
+162.248.102.157 1 1 65864 20140517174927
+119.97.146.16 2 2 132728 20140529051132
+107.155.79.103 1 1 66463 20140508142459
+177.106.223.125 1 1 66419 20140511102135
+170.130.179.241 1 1 65867 20140529135457
+107.158.229.226 1 1 65867 20140529232707
+107.155.116.157 1 1 65867 20140530030701
+5.254.140.218 1 1 66514 20140525061335
+46.22.166.221 4 4 265654 20140507004350
+5.254.129.9 4 4 264581 20140523144201
+198.44.66.98 4 4 263983 20140519094520
+98.194.130.200 1 1 65874 20140512215604
+204.152.240.30 1 1 67053 20140512164708
+173.0.56.203 1 1 66373 20140504180030
+123.21.159.39 1 1 66457 20140507101302
+192.41.148.220 6 181 2632303 20140521100029
+192.3.61.229 3 3 199356 20140525111410
+192.95.44.45 8 8 528681 20140531211611
+110.89.61.131 1 1 66452 20140526074954
+69.12.70.137 1 1 66371 20140506040403
+192.210.192.143 1 1 65876 20140511054620
+199.223.235.220 1 1 466 20140523091808
+173.212.192.129 1 1 66393 20140515184204
+93.118.69.69 2 2 132744 20140506031359
+107.155.116.69 1 1 66459 20140507040606
+222.255.236.117 1 1 66379 20140501164237
+165.231.8.105 1 1 66514 20140525075729
+188.240.140.53 1 1 66459 20140507073912
+192.3.179.112 1 1 65863 20140528181558
+107.155.75.13 3 3 197592 20140531170905
+173.0.52.104 1 1 66051 20140509205539
+179.209.235.75 2 109 3119904 20140505142215
+5.254.146.218 1 1 65872 20140512133010
+69.12.80.239 1 1 66373 20140504202916
+162.244.10.165 4 4 263428 20140515173540
+91.200.13.41 1 1 65872 20140508180444
+173.208.46.175 1 1 65923 20140531023106
+198.20.82.206 1 1 65800 20140516083421
+192.126.166.70 1 1 65876 20140510210502
+37.59.69.68 1 1 66560 20140517082516
+216.244.77.122 4 4 265932 20140531162911
+85.15.210.4 1 1 66412 20140529232737
+93.86.145.138 3 3 197397 20140523113113
+180.180.229.113 1 1 66467 20140509083307
+63.249.144.73 1 1 65863 20140526103534
+107.155.118.99 1 1 66463 20140508045713
+82.151.57.29 1 1 66476 20140525113921
+198.143.135.109 1 1 65864 20140518015131
+184.154.93.117 1 1 66465 20140510084411
+192.3.61.76 1 1 65870 20140519045303
+37.59.202.82 1 1 65861 20140529051845
+221.196.30.249 1 1 65347 20140514035049
+218.246.185.201 1 1 65979 20140516043157
+23.108.132.44 1 1 65763 20140524135225
+107.178.213.249 1 1 466 20140507095139
+69.12.71.126 2 2 131616 20140527230706
+184.154.164.106 1 1 66467 20140519081238
+173.44.58.121 2 2 132540 20140522204543
+121.205.214.20 1 1 66454 20140527181010
+69.12.79.113 1 1 66455 20140507190605
+36.248.116.29 1 1 66452 20140529175628
+46.4.153.211 3 3 199837 20140524065250
+5.157.51.249 1 1 66373 20140505061608
+125.78.198.99 1 1 66454 20140527043817
+208.80.194.127 3 3 94023 20140514205845
+62.24.252.133 4 4 263134 20140517011948
+173.0.60.214 2 2 131724 20140527114406
+2.95.43.180 1 1 66343 20140516172955
+69.12.71.171 1 1 65753 20140524170322
+46.249.51.148 1 1 65799 20140522022249
+69.12.91.145 1 1 66371 20140506103855
+179.43.135.142 1 1 66644 20140509165151
+183.207.228.12 4 4 265827 20140530044452
+125.39.85.234 1 1 66225 20140530011016
+216.107.159.132 1 1 66458 20140513170622
+162.248.102.201 1 1 66377 20140506100601
+69.175.120.187 1 1 66459 20140507155928
+221.176.23.242 1 1 66757 20140505064517
+107.155.77.238 4 4 263198 20140529113737
+8.36.229.107 1 1 66040 20140529025958
+69.12.81.126 1 1 65858 20140517200112
+37.59.184.182 1 1 65799 20140523054959
+117.174.193.57 1 1 65865 20140530032832
+198.46.136.215 1 1 66459 20140507022323
+199.119.225.221 1 1 65804 20140514172540
+23.94.23.27 1 1 65917 20140531140853
+107.178.221.121 1 1 466 20140505213708
+69.163.47.202 1 1 66389 20140516094119
+198.167.138.106 1 1 66460 20140508230605
+180.180.105.85 1 1 65865 20140527142330
+192.126.166.38 1 1 65757 20140524171832
+220.255.2.215 1 1 66642 20140507235359
+170.130.179.184 1 1 66393 20140515091737
+69.175.85.12 1 1 65858 20140517232127
+192.227.137.39 1 1 66391 20140515181923
+92.60.138.228 1 1 66428 20140526234953
+216.107.159.12 1 1 65798 20140517155051
+192.184.86.154 1 1 66463 20140512010705
+5.153.237.22 1 1 66455 20140507020349
+37.59.88.255 1 1 66504 20140523231326
+173.0.56.153 1 1 65870 20140511040211
+172.245.220.160 4 4 265860 20140510154040
+110.86.167.143 3 3 198866 20140521234358
+107.158.229.228 1 1 65867 20140526160827
+80.241.223.192 1 1 65874 20140514011256
+198.20.81.66 2 2 132846 20140515020331
+69.12.65.32 1 1 65856 20140518204159
+170.130.24.162 1 1 66463 20140513112015
+184.22.20.7 6 6 397270 20140524115543
+198.20.79.50 1 1 66459 20140513182528
+198.23.174.106 1 1 66102 20140531014644
+96.127.135.198 1 1 65798 20140516212814
+23.88.104.132 1 1 66375 20140504110942
+69.12.66.164 2 2 131722 20140528235030
+170.130.111.169 2 2 132930 20140514123647
+5.135.214.225 2 2 132516 20140523070348
+190.105.62.156 1 1 65793 20140530164559
+192.227.240.77 1 1 65649 20140520043203
+198.143.143.150 1 1 65867 20140530043424
+84.50.44.92 2 2 133293 20140516160930
+107.181.70.69 1 1 66373 20140506093811
+8.29.126.22 1 1 66550 20140504043842
+213.238.175.69 2 2 132826 20140504062837
+23.94.99.6 2 2 132903 20140527144656
+195.211.155.37 1 1 65798 20140517042158
+50.115.175.106 1 1 66377 20140502083005
+69.175.14.166 1 1 65800 20140514214717
+198.55.113.42 2 2 132778 20140515032354
+173.0.53.101 1 1 66373 20140505095140
+210.73.220.18 1 1 66098 20140531053752
+176.31.57.12 1 1 65872 20140519002519
+213.238.175.44 5 5 114244 20140522170843
+91.108.180.121 1 1 65865 20140527003021
+204.44.112.214 1 1 66465 20140509212612
+107.178.212.79 1 1 466 20140528091812
+218.104.148.195 1 1 65936 20140524134535
+107.178.222.154 1 1 466 20140506095111
+188.165.121.235 1 1 66046 20140530063029
+196.196.28.250 1 1 66462 20140521020942
+198.100.31.192 1 1 66442 20140501001146
+165.231.20.151 1 1 66387 20140516211303
+23.94.23.77 1 1 65868 20140512102310
+165.231.20.163 1 1 66387 20140517041327
+24.172.34.114 1 1 66418 20140529223850
+211.97.122.29 2 2 132472 20140520235052
+178.32.232.211 1 1 65649 20140520075655
+178.222.125.2 3 3 197591 20140528033111
+64.182.119.244 1 1 65865 20140530101339
+198.50.227.28 1 1 65921 20140531230928
+184.154.201.5 1 1 65647 20140520081546
+107.158.22.81 1 1 65874 20140519030636
+223.85.159.204 1 1 65874 20140511133349
+175.44.30.15 1 1 66447 20140518022447
+178.223.15.144 2 2 131730 20140529194118
+204.44.112.100 2 2 132840 20140510173137
+46.105.162.94 1 1 65921 20140530205430
+69.12.91.241 1 1 66450 20140528191444
+78.46.145.19 5 5 330440 20140514211108
+64.79.111.37 1 1 66455 20140507045014
+46.105.133.39 1 1 65863 20140528110612
+89.65.36.55 2 2 132524 20140522233513
+188.165.89.70 1 1 65863 20140528025803
+69.12.90.128 1 1 66373 20140502223506
+192.3.111.241 1 1 65755 20140524220846
+199.119.225.102 1 1 65804 20140516030119
+96.127.191.186 1 1 66391 20140516020317
+192.210.149.151 2 2 132934 20140509211411
+183.207.228.2 2 2 132824 20140509004314
+107.178.209.87 1 1 466 20140527091804
+211.97.122.38 2 2 132926 20140518231408
+36.248.117.147 5 5 332328 20140530204115
+186.103.169.166 1 1 67015 20140525231729
+183.223.157.81 1 1 65865 20140528060424
+192.227.167.221 1 1 66379 20140504190318
+196.45.145.124 1 1 66926 20140501190127
+110.89.12.111 1 1 66461 20140513211457
+5.39.37.51 1 1 65857 20140525195951
+37.59.240.15 3 3 197535 20140522090645
+107.161.81.10 1 1 66461 20140512002603
+31.6.62.241 1 1 65792 20140517075827
+186.238.51.147 1 1 66464 20140527192744
+173.236.32.107 1 1 66463 20140514020908
+50.115.175.89 1 1 66375 20140502055527
+108.163.255.164 5 5 330875 20140519131856
+204.44.91.97 1 1 66455 20140507025739
+204.44.85.68 1 1 65870 20140514074712
+192.208.185.23 1 1 66459 20140507075141
+198.55.113.44 1 1 65800 20140515200000
+216.107.159.102 1 1 66377 20140506061440
+46.105.251.221 1 1 66377 20140505020041
+192.157.239.55 1 1 66390 20140522071832
+212.83.160.147 9 9 592418 20140526044419
+37.59.88.245 3 3 198663 20140523121703
+69.175.14.163 1 1 66385 20140516195014
+91.108.180.72 2 2 131726 20140526025516
+96.9.148.16 1 1 65643 20140520165000
+62.210.97.42 3 3 198199 20140509230136
+107.161.85.155 1 1 65865 20140530011055
+198.167.136.143 2 2 131734 20140529141502
+91.121.232.214 4 4 263917 20140528024536
+23.82.62.143 1 1 66629 20140529220510
+192.95.38.217 1 1 65572 20140525072102
+198.55.113.24 1 1 65872 20140512055630
+50.115.175.124 1 1 65981 20140516235649
+186.88.37.42 1 1 66003 20140517154012
+204.44.92.149 1 1 66457 20140506202055
+178.32.234.157 1 1 65865 20140529203432
+96.127.155.93 1 1 66375 20140505000114
+192.95.4.41 8 8 530895 20140529172906
+204.44.85.111 1 1 65872 20140513024837
+50.115.175.238 1 1 65874 20140513083320
+192.161.160.209 1 1 66379 20140505161733
+23.94.245.254 3 3 197540 20140517020204
+173.236.32.110 1 1 66463 20140514131659
+89.47.19.192 2 2 132715 20140524151750
+162.248.246.47 8 8 526922 20140530035417
+199.195.140.151 2 2 133833 20140522224915
+107.155.80.90 1 1 66454 20140512122712
+114.33.130.199 1 1 66420 20140528033723
+5.254.132.122 4 4 265732 20140519052146
+173.0.55.12 2 2 132601 20140528123411
+37.72.190.114 2 2 131737 20140530050355
+87.242.224.234 1 1 65798 20140517011917
+66.219.27.156 1 1 66461 20140513095004
+107.178.220.54 1 1 466 20140513161422
+184.154.174.205 1 1 65800 20140517115731
+69.12.88.5 1 1 66441 20140501054040
+69.12.74.174 1 1 65861 20140529122819
+23.94.19.95 1 1 65868 20140511023117
+192.95.0.203 1 1 65753 20140524041649
+23.94.23.99 3 3 197477 20140526183620
+74.207.20.254 1 1 66429 20140518170215
+173.208.103.42 1 1 65801 20140523100602
+69.12.89.166 1 1 66373 20140504185224
+192.227.226.2 3 3 198508 20140524180926
+142.91.62.81 1 1 66461 20140509162438
+148.251.50.43 1 1 466 20140513191521
+46.246.54.132 1 1 66463 20140508180342
+66.219.27.153 1 1 66461 20140513062805
+23.105.208.222 1 1 65865 20140529201458
+192.40.94.31 1 1 66638 20140508062236
+198.50.177.219 1 1 66463 20140508045311
+192.3.182.118 1 1 66452 20140528004305
+192.208.185.185 1 1 65867 20140529181859
+162.218.232.159 2 2 132928 20140510025335
+91.121.35.227 2 2 132752 20140503082212
+198.20.79.140 1 1 65860 20140517192458
+198.50.234.49 1 1 66391 20140502205857
+199.30.54.60 2 2 131739 20140521025632
+67.231.24.177 1 1 67008 20140511113544
+23.232.133.70 1 1 65925 20140525004459
+46.105.163.205 1 1 65919 20140523225416
+69.12.70.15 2 2 132094 20140512235352
+223.84.167.23 1 1 65863 20140530195030
+216.107.159.119 1 1 66467 20140510150740
+93.118.69.122 2 2 132823 20140523090139
+5.135.43.140 1 1 66459 20140512032100
+192.151.152.14 1 1 65802 20140516181422
+36.72.229.206 1 1 66926 20140502114829
+204.44.92.111 2 2 132750 20140505072913
+91.121.237.150 2 2 132845 20140526223148
+173.212.192.85 1 1 66465 20140508220235
+173.232.105.213 1 1 65804 20140516103238
+54.220.41.171 2 2 133427 20140508103904
+81.4.121.45 2 2 132274 20140523040631
+74.221.210.122 1 1 66459 20140507102637
+199.180.128.91 2 2 132782 20140515112622
+46.249.51.146 1 1 65796 20140517152947
+196.196.28.163 1 1 65798 20140517120653
+176.31.3.180 1 1 65861 20140528214005
+96.9.148.36 1 1 65861 20140526181319
+151.237.186.68 4 4 89372 20140513225048
+107.155.120.200 1 1 66456 20140530082248
+107.158.228.209 1 1 66100 20140525015023
+96.47.231.18 1 1 66459 20140508102044
+108.178.13.69 2 2 132774 20140517063601
+192.3.61.11 1 1 66457 20140508105709
+69.12.80.204 1 1 66459 20140508075706
+2.37.113.211 1 1 65861 20140530134740
+199.119.226.58 2 2 132230 20140524200637
+96.127.169.186 1 1 65862 20140518122427
+120.82.10.24 1 1 66213 20140526065048
+69.13.16.63 1 1 66457 20140508163245
+198.27.100.30 2 2 132836 20140508060528
+23.254.134.135 1 1 66465 20140509203628
+217.219.131.141 1 1 66370 20140505111218
+165.231.20.226 1 1 66391 20140515184218
+75.103.10.46 1 1 66389 20140503152143
+173.0.57.24 1 1 66457 20140514043040
+96.227.124.37 1 1 466 20140518201233
+67.202.113.172 1 1 65876 20140510074346
+23.105.208.32 2 2 132537 20140523045636
+199.180.130.93 1 1 65802 20140516121942
+175.42.18.78 4 4 265916 20140530151013
+107.158.229.49 1 1 65874 20140512092910
+23.247.173.98 1 1 65861 20140530071617
+198.167.138.114 1 1 66379 20140505004701
+136.159.104.86 1 77 810916 20140530170546
+136.0.118.176 2 2 132078 20140531160025
+50.2.193.82 1 1 66457 20140511024215
+173.213.96.166 1 1 65862 20140518032739
+69.12.64.124 1 1 65797 20140523224330
+42.121.105.155 1 1 65979 20140514220311
+66.34.4.73 1 1 66455 20140508104625
+171.101.83.192 1 1 65964 20140524023854
+23.94.23.13 1 1 65643 20140521000249
+41.32.120.79 1 1 66461 20140507050348
+94.200.74.194 1 1 67092 20140505035733
+37.59.71.177 2 2 43175 20140522170845
+5.255.73.20 1 1 65867 20140521192801
+192.3.164.186 1 1 65917 20140525013857
+151.237.186.128 2 2 132427 20140523014615
+192.184.85.104 1 1 66442 20140501141305
+23.108.132.42 1 1 65921 20140530162232
+5.254.140.152 2 2 132922 20140512211056
+162.222.183.216 1 1 466 20140502095318
+107.182.23.162 1 1 66377 20140502151647
+107.6.148.148 2 2 132330 20140518215207
+46.246.61.27 6 6 397301 20140531194822
+5.249.161.101 1 1 66445 20140529025829
+74.221.208.156 1 1 66375 20140506141213
+198.20.79.164 4 4 265107 20140517004553
+92.114.82.72 2 2 132348 20140523064104
+85.73.123.254 1 77 810963 20140504032428
+171.96.149.244 1 1 66642 20140506215803
+209.164.89.73 1 1 65863 20140528102743
+50.115.175.168 1 1 66106 20140525125420
+107.182.23.187 2 2 132842 20140509053140
+37.59.219.71 1 1 66450 20140529060409
+176.31.3.250 1 1 65861 20140528055204
+198.50.136.119 1 1 66456 20140526191610
+192.227.253.186 1 1 66465 20140512051026
+69.12.70.54 1 1 65859 20140526230145
+192.3.61.208 3 3 199253 20140526120706
+69.12.67.136 3 3 199293 20140511115753
+192.3.60.253 1 1 65872 20140509131914
+87.242.225.165 1 1 66463 20140508125426
+91.236.75.87 3 3 197593 20140527180920
+173.213.80.174 2 2 131514 20140529174938
+173.254.234.236 1 1 65875 20140521151313
+74.80.148.203 1 1 66463 20140509235433
+198.167.138.113 1 1 66465 20140511193537
+107.158.228.239 1 1 65804 20140516020928
+117.169.230.165 1 1 66451 20140501023137
+107.178.213.223 1 1 466 20140522091941
+170.130.111.53 1 1 65802 20140515100450
+162.244.11.103 1 1 65927 20140526011814
+50.2.195.19 1 1 65868 20140513153736
+192.227.168.61 2 2 132856 20140512055839
+50.115.169.129 2 2 132677 20140523022727
+192.3.61.60 1 1 65856 20140518125526
+162.244.9.70 3 3 197311 20140522023853
+37.59.40.170 2 2 132391 20140524162137
+204.44.85.42 1 1 65794 20140517071001
+23.108.132.6 2 2 131834 20140530230804
+198.143.143.149 2 2 132858 20140516042740
+23.94.38.118 1 1 66459 20140508105556
+121.57.238.138 1 1 66425 20140511075525
+107.161.85.19 1 1 66457 20140507043901
+66.35.75.11 2 2 132916 20140511093601
+188.165.157.30 3 3 197591 20140526015310
+184.82.185.74 3 3 199313 20140518222919
+8.28.16.254 2 2 31807 20140509094325
+74.122.197.130 1 1 65801 20140522033346
+188.208.3.135 1 1 66640 20140508213227
+96.127.135.196 4 4 264637 20140515215452
+81.4.104.183 1 1 66624 20140501134340
+173.0.57.248 1 1 65923 20140525084244
+173.234.250.134 1 1 65759 20140524115523
+173.0.61.157 1 1 66371 20140506201204
+173.44.60.184 1 1 66554 20140505121340
+198.50.136.249 1 1 66447 20140528181115
+23.88.119.177 1 1 66461 20140512142545
+78.129.131.101 2 2 43175 20140513231147
+69.12.75.206 2 2 131622 20140524090913
+75.127.15.138 3 3 197523 20140525205031
+69.30.194.250 1 1 65874 20140519124929
+96.127.190.46 3 3 198045 20140518052227
+192.210.197.121 2 2 132923 20140529090349
+170.130.24.16 3 3 199383 20140514135409
+23.108.132.232 2 2 131684 20140525025959
+172.245.22.178 1 1 66465 20140510143011
+23.105.54.217 1 1 65872 20140512023352
+178.33.202.13 1 1 66447 20140501193613
+199.119.225.118 1 1 65864 20140518133526
+186.232.83.47 1 1 66942 20140503143236
+183.222.250.111 1 1 65929 20140525171534
+188.68.255.114 1 1 65874 20140513170227
+198.143.143.110 2 2 132782 20140517042924
+196.196.32.164 1 1 66449 20140501230310
+94.41.194.236 1 1 65800 20140516011722
+192.95.0.223 1 1 66451 20140521071406
+188.240.133.98 1 1 66391 20140514214053
+136.0.120.101 1 1 65934 20140524185938
+96.127.138.179 1 1 66449 20140501215345
+50.2.223.238 2 2 132918 20140511193723
+165.231.20.52 1 1 65921 20140531200238
+107.178.221.250 1 1 466 20140530091823
+179.154.160.96 1 1 66423 20140511100901
+69.12.64.10 1 1 66550 20140505111627
+165.231.12.217 1 1 65977 20140517133118
+37.187.53.41 8 8 531689 20140531150651
+69.12.68.11 1 1 66371 20140502055617
+69.12.68.68 1 1 65861 20140527020403
+198.175.124.50 2 2 132924 20140509083933
+193.105.154.47 1 1 65801 20140522010207
+69.12.70.253 4 4 263504 20140531121044
+173.0.53.53 1 1 65870 20140519192958
+184.154.146.91 1 1 65802 20140516082534
+88.198.109.4 1 1 65870 20140513051242
+192.227.191.207 1 1 66379 20140505025017
+208.89.208.84 1 1 65800 20140514173724
+69.12.75.87 1 1 66371 20140504144424
+80.79.121.88 1 1 66461 20140510171935
+91.236.74.101 1 1 65874 20140519103738
+74.80.168.245 2 2 132836 20140510032125
+23.94.20.105 1 1 66373 20140502131611
+185.38.251.196 1 1 66346 20140524215413
+192.161.162.54 1 1 66393 20140503154142
+178.32.226.70 3 3 197600 20140527225015
+37.72.190.147 1 1 65872 20140513100301
+5.39.19.71 1 1 65915 20140531181706
+69.12.80.27 1 1 66371 20140504000901
+91.188.124.213 1 1 65874 20140512021024
+165.231.20.252 3 3 198656 20140516034304
+184.22.121.99 1 1 66375 20140504154830
+198.167.136.160 1 1 65651 20140520022336
+198.84.229.222 1 1 66465 20140509213852
+91.188.117.202 1 1 65874 20140511173237
+69.12.64.100 1 1 66371 20140505225755
+192.3.61.241 1 1 66450 20140526105004
+37.239.46.26 1 1 66034 20140528234331
+199.30.24.70 0 18 206379 
+198.12.104.218 1 1 65923 20140531062733
+173.212.192.169 2 2 132934 20140509170210
+202.75.16.18 1 1 66495 20140517033334
+199.116.169.254 2 2 31807 20140514164659
+69.12.91.147 1 1 65858 20140518115951
+69.12.80.11 1 1 66387 20140503121115
+107.178.209.120 1 1 466 20140524091900
+23.88.104.147 1 1 66440 20140501062626
+69.12.64.104 1 1 66455 20140507085959
+165.231.20.104 1 1 66053 20140513184943
+192.126.163.213 1 1 66518 20140525063532
+162.221.184.41 1 1 65802 20140515021349
+50.57.104.33 1 1 66006 20140505035745
+188.208.3.120 1 1 66642 20140509154834
+142.91.62.52 1 1 66459 20140512234738
+117.168.146.203 1 1 66465 20140508131523
+162.248.102.195 2 2 132860 20140511152600
+198.50.212.55 1 1 65863 20140529090452
+192.3.179.108 4 4 265187 20140519081142
+198.12.72.108 1 1 66452 20140529104805
+162.244.11.7 1 1 66373 20140504115716
+46.105.162.69 1 1 66104 20140525031440
+211.97.123.188 1 1 66461 20140512204046
+5.254.138.248 2 2 132752 20140502221959
+198.55.113.82 1 1 66375 20140504035154
+89.47.25.108 1 1 66461 20140509225956
+69.12.83.116 2 2 132907 20140511071829
+198.147.20.161 1 1 65876 20140509055621
+69.12.81.183 1 1 65861 20140528201313
+83.103.115.130 1 1 65873 20140521053950
+27.153.163.132 1 1 66454 20140529003102
+69.12.67.192 1 1 65919 20140530170717
+192.184.91.213 1 1 66377 20140505094510
+222.174.71.46 1 1 65861 20140529121034
+5.254.129.56 2 2 132906 20140513023454
+74.221.211.243 1 1 66375 20140506124123
+74.221.209.250 1 1 66459 20140507200509
+198.175.125.209 1 1 65925 20140531142906
+207.164.11.58 1 1 31341 20140527162753
+108.178.9.28 2 2 131744 20140519143926
+187.49.81.2 3 3 199295 20140511083325
+192.95.0.193 1 1 66461 20140509061918
+23.94.148.64 1 1 66234 20140520104646
+46.249.58.239 1 1 65874 20140509213751
+173.212.192.133 2 2 132925 20140510023741
+74.221.217.179 1 1 66393 20140503085947
+199.180.135.234 2 2 132844 20140507234825
+192.95.54.32 6 6 397309 20140530101240
+142.91.62.175 1 1 66461 20140512040839
+107.155.120.215 2 2 132912 20140526121848
+202.182.52.74 1 1 66353 20140516060206
+204.44.92.35 1 1 66461 20140509031243
+69.12.70.242 1 1 65919 20140531073126
+50.115.171.231 3 3 198761 20140526000136
+115.124.66.250 1 1 65801 20140522150608
+23.90.5.102 2 2 132916 20140511035729
+107.155.79.132 2 2 132926 20140511031356
+203.189.137.195 1 1 66409 20140504161123
+184.154.47.108 1 1 66391 20140514185001
+93.118.68.97 1 1 66452 20140513185011
+192.3.168.125 2 2 132750 20140502165331
+46.105.254.228 1 1 66465 20140510140350
+58.215.52.159 1 1 67012 20140501103500
+23.94.99.50 2 2 132905 20140528015015
+142.91.62.251 1 1 66447 20140501221425
+23.94.245.248 2 2 132846 20140516182811
+165.231.20.125 1 1 66391 20140515193712
+120.192.83.196 1 1 66788 20140507170048
+69.12.70.2 1 1 66451 20140507003424
+222.77.227.154 1 1 66391 20140515000937
+192.227.240.104 1 1 65925 20140530235154
+5.254.134.137 1 1 65874 20140519032342
+38.68.14.136 1 1 66445 20140501000458
+62.4.23.62 1 1 66367 20140506233827
+193.109.165.125 1 1 65804 20140515215401
+192.3.108.173 1 1 65800 20140516215501
+107.182.23.170 2 2 131797 20140531102526
+50.2.223.220 1 1 66455 20140507075940
+172.245.240.59 1 1 66393 20140503192939
+162.244.8.13 8 8 532245 20140525000650
+192.227.237.179 1 1 66379 20140502201150
+69.175.8.196 2 2 132617 20140513080722
+173.0.60.23 1 1 66453 20140507212930
+198.167.136.77 1 1 65860 20140501025644
+173.0.52.30 2 2 132253 20140515023739
+216.107.159.43 1 1 65757 20140524133520
+192.208.185.43 1 1 66463 20140511084316
+93.118.71.64 1 1 66040 20140529164346
+93.118.74.221 1 1 66447 20140501052635
+142.91.62.132 1 1 66375 20140502011852
+165.231.4.72 1 1 66389 20140503050646
+23.94.245.230 1 1 66461 20140512165207
+196.196.28.93 1 1 66236 20140520153642
+170.130.111.251 2 2 131884 20140521060151
+192.99.152.11 5 5 332221 20140512112443
+151.56.178.18 2 91 1840271 20140506110822
+23.94.245.211 1 1 66461 20140513005401
+170.130.111.74 3 3 199353 20140517210811
+92.17.231.35 1 1 66459 20140507181712
+187.84.187.8 1 1 66932 20140506040703
+36.248.119.190 9 9 598202 20140530180250
+173.44.40.235 1 1 65863 20140529095933
+162.244.11.200 2 2 131576 20140504152215
+198.50.223.43 2 2 132841 20140529004910
+199.119.226.100 2 2 132786 20140516013048
+188.208.7.90 1 1 65872 20140510013812
+5.135.34.24 1 1 65870 20140519071146
+172.245.181.171 1 1 66467 20140510074303
+69.12.75.167 2 2 132762 20140504174449
+202.29.211.105 1 1 66432 20140530025640
+96.9.148.17 2 2 131731 20140526225856
+151.237.189.102 1 1 66465 20140513144054
+122.0.23.169 1 1 66911 20140506021628
+198.55.112.69 8 8 529874 20140520082433
+165.231.8.90 1 1 66458 20140521202043
+192.210.144.79 1 1 65865 20140530092454
+36.251.86.115 3 3 199371 20140519215514
+94.23.113.132 4 4 264531 20140523091450
+200.179.96.132 1 1 66420 20140528020216
+173.234.58.205 1 1 65876 20140509082410
+183.223.170.124 1 1 66392 20140522071034
+204.44.85.73 1 1 66371 20140506110702
+36.248.118.232 1 1 66454 20140526030244
+92.237.1.197 1 1 65753 20140524063150
+172.245.181.245 1 1 66465 20140512210739
+221.204.223.250 1 1 66108 20140506094452
+69.175.48.187 2 2 133192 20140517161616
+79.114.81.139 1 1 65865 20140526183445
+173.0.54.61 1 1 65868 20140519180715
+31.6.71.143 2 2 132768 20140522235539
+213.238.175.76 2 2 45065 20140513234000
+108.178.62.13 1 1 65874 20140519065332
+5.135.113.231 4 4 89372 20140522143650
+203.146.82.253 3 3 199339 20140527094829
+192.161.162.180 1 1 66635 20140529194125
+107.155.75.14 1 1 66447 20140501130039
+96.127.190.147 1 1 66377 20140502165812
+93.118.76.6 1 1 66369 20140506063458
+109.230.80.109 1 1 66425 20140508113005
+107.161.81.90 1 1 65921 20140531163410
+173.44.61.135 1 1 66461 20140508095842
+184.154.189.108 1 1 66467 20140508235110
+198.143.135.134 3 3 198658 20140516173337
+173.236.43.251 1 1 66377 20140505023422
+198.20.82.205 1 1 66461 20140513170616
+188.208.3.148 2 2 132922 20140508015705
+46.105.138.79 1 1 65647 20140520065538
+108.166.183.147 3 3 197601 20140530074025
+107.161.85.16 1 1 65863 20140526153205
+188.208.2.105 1 1 66053 20140510031918
+213.162.68.62 1 1 66037 20140518095755
+117.172.98.84 1 1 65863 20140527234735
+69.12.67.204 1 1 65870 20140512170252
+173.213.96.49 2 2 132142 20140531085114
+199.30.51.114 1 1 65872 20140513215352
+165.231.14.155 2 2 132261 20140517035727
+199.19.213.39 1 1 65799 20140522235742
+66.232.217.109 3 3 199963 20140526070952
+89.47.28.235 1 1 65870 20140512171324
+74.221.219.42 1 1 65800 20140516070310
+222.218.157.23 1 1 66480 20140531113228
+192.184.90.154 1 1 66449 20140501065415
+46.105.179.197 1 1 65873 20140521040625
+179.43.136.139 1 1 66377 20140504171001
+173.254.234.182 1 1 65876 20140511224607
+69.12.89.160 1 1 65861 20140529023447
+192.161.162.182 2 2 133270 20140530041515
+108.163.232.141 5 5 330859 20140516082157
+107.181.70.251 1 1 66377 20140502062122
+50.115.166.204 1 1 65802 20140515192731
+107.158.229.37 1 1 66463 20140511052010
+116.255.202.72 2 2 132726 20140530215155
+184.154.22.114 1 1 66459 20140506203701
+165.231.20.78 2 2 131958 20140516092058
+68.145.208.94 5 165 2585911 20140516090537
+170.130.179.153 1 1 65925 20140531061741
+172.245.58.215 1 1 66463 20140512205720
+162.250.145.87 1 1 66463 20140511081416
+196.196.32.178 4 4 265093 20140519222229
+107.155.79.167 1 1 66055 20140510073253
+216.172.144.63 5 5 119829 20140517005734
+69.175.100.70 1 1 65860 20140518094302
+162.248.102.245 1 1 66453 20140518125755
+173.232.105.89 1 1 66387 20140517102350
+107.161.85.83 1 1 66051 20140514061412
+200.42.69.92 1 1 67003 20140508170941
+78.129.131.45 2 2 133106 20140506042541
+192.95.22.193 1 1 65860 20140518112908
+108.178.9.38 1 1 66640 20140510154604
+23.94.23.94 1 1 65751 20140524231557
+196.196.28.115 1 1 66346 20140524234822
+107.161.85.134 1 1 66053 20140511081742
+223.82.57.62 1 1 65870 20140511222350
+46.246.62.9 1 1 66371 20140505034507
+198.143.143.196 1 1 65876 20140513052002
+23.105.208.77 1 1 66042 20140530041708
+23.94.60.27 1 1 66457 20140512204922
+107.178.220.21 1 1 466 20140526091916
+107.178.215.24 1 1 466 20140520091806
+107.158.23.22 1 1 66510 20140531131743
+162.244.12.134 1 1 66375 20140506040554
+23.88.119.178 4 4 263929 20140516230007
+173.232.106.170 1 1 65867 20140526120354
+165.231.4.185 1 1 65863 20140526051750
+192.227.253.237 1 1 66393 20140515141924
+41.230.43.187 1 1 65784 20140502035254
+196.196.28.135 1 1 65874 20140514122736
+192.187.106.2 1 1 65861 20140530042959
+165.231.27.194 1 1 66046 20140527181237
+88.190.203.163 2 2 132752 20140506151616
+199.30.55.191 3 3 198225 20140526155536
+107.155.77.40 3 3 197418 20140530235649
+107.181.70.66 1 1 66457 20140506183054
+107.161.85.205 1 1 65865 20140528095627
+142.91.62.114 1 1 66461 20140507205214
+69.12.88.69 1 1 66457 20140512124245
+5.254.144.15 3 3 199197 20140507010318
+37.247.52.84 1 1 65869 20140521022848
+111.113.17.54 1 1 66514 20140525052415
+165.231.14.47 1 1 66385 20140516222608
+46.105.133.46 1 1 65917 20140523172244
+50.115.173.85 1 1 66388 20140522122518
+117.175.121.79 1 1 65802 20140516083101
+142.91.62.6 1 1 66457 20140511141530
+62.210.38.143 7 7 461273 20140531221038
+220.200.24.102 2 2 132472 20140520231530
+165.231.20.237 1 1 66387 20140516180657
+198.167.136.246 4 4 264538 20140515170458
+172.245.240.54 2 2 132134 20140524105859
+199.180.128.94 2 2 132926 20140514015745
+192.230.61.109 1 1 65801 20140522052845
+192.95.16.174 1 1 466 20140504070710
+173.0.55.234 1 1 66373 20140505055952
+5.135.114.145 1 1 65863 20140526223233
+204.76.196.11 6 109 1226357 20140514143728
+165.231.14.175 1 1 66387 20140517023853
+107.153.85.70 1 1 65863 20140530160215
+5.254.145.253 1 1 66514 20140525132032
+173.255.115.140 1 1 466 20140509194239
+101.99.1.70 1 1 66457 20140513110032
+184.154.135.35 1 1 66465 20140519073615
+199.30.54.154 2 2 132922 20140511131124
+110.86.184.146 1 1 66512 20140530130645
+107.178.114.12 1 1 66463 20140508094900
+76.164.237.107 2 2 131741 20140529120210
+66.118.157.214 1 1 66346 20140524112542
+173.0.62.226 1 1 65797 20140522142338
+107.181.70.106 1 1 65865 20140530144324
+173.0.55.15 1 1 65913 20140523182808
+170.130.179.226 1 1 65869 20140527225519
+188.165.169.111 1 1 66465 20140508072903
+178.19.99.106 1 1 65796 20140517195924
+193.226.64.180 2 2 131672 20140515015754
+31.6.71.243 5 5 330849 20140527184606
+41.46.201.91 1 1 65870 20140512073240
+69.12.75.66 1 1 66566 20140502213007
+173.213.108.16 3 3 199393 20140510223000
+69.175.14.228 1 1 66053 20140519052355
+192.184.86.212 1 1 66556 20140502105243
+188.165.121.249 1 1 66108 20140526001701
+198.23.175.65 1 1 65872 20140513090941
+77.46.202.216 1 1 65800 20140516133045
+173.0.57.29 1 1 66369 20140505162632
+107.155.120.101 1 1 65803 20140522055400
+23.83.94.47 1 1 65751 20140524151616
+198.143.143.206 1 1 66393 20140514215232
+142.4.195.125 1 1 65799 20140522133737
+170.130.111.23 1 1 65802 20140515090500
+173.0.54.235 1 1 65919 20140531062706
+74.221.212.38 1 1 66461 20140508192008
+183.219.213.212 1 1 65867 20140529214010
+5.135.30.170 1 1 65919 20140531073853
+91.229.248.163 1 1 65867 20140527000128
+192.210.144.84 1 1 66451 20140518041005
+165.231.8.226 1 1 65863 20140528173551
+192.227.182.13 1 1 65876 20140519044457
+180.180.99.95 1 1 65874 20140510074350
+192.3.104.254 1 1 66452 20140528072310
+184.154.82.163 1 1 66465 20140518224123
+170.130.111.58 1 1 65798 20140517063733
+23.105.213.127 1 1 65865 20140529234303
+107.158.75.34 1 1 66461 20140512204258
+178.33.55.92 1 1 65861 20140526060153
+46.105.231.49 1 1 65925 20140525183656
+191.235.210.106 2 2 131748 20140513203241
+108.178.15.174 1 1 65862 20140517215147
+192.3.54.143 1 1 66461 20140510105951
+198.27.99.108 1 1 65921 20140531043928
+173.0.55.185 1 1 65872 20140508191941
+5.39.5.97 1 1 65855 20140528235611
+198.55.113.5 2 2 131668 20140514221220
+23.94.243.236 1 1 65860 20140518040727
+74.221.208.136 1 1 66377 20140501191621
+199.119.225.235 1 1 65876 20140514105804
+88.198.237.135 1 1 66391 20140515063443
+23.94.19.56 2 2 132828 20140508221519
+198.143.143.2 1 1 66385 20140517112527
+211.97.123.239 1 1 66461 20140519225417
+192.3.111.238 1 1 66463 20140509024756
+172.245.181.209 1 1 65878 20140519212539
+162.244.10.197 1 1 65874 20140512190033
+178.212.79.10 1 1 65865 20140527122458
+204.44.91.105 1 1 66461 20140510201130
+178.32.224.83 1 1 65921 20140531101337
+192.3.182.15 1 1 65923 20140525152624
+50.117.15.72 2 2 132728 20140524213907
+177.98.135.192 2 101 2497836 20140509210038
+192.3.108.220 1 1 66375 20140502194636
+213.251.170.89 1 1 65865 20140529143502
+198.55.109.189 1 1 66449 20140501142125
+192.227.243.158 1 1 65804 20140515154741
+192.200.31.108 1 1 65865 20140529140117
+5.9.183.204 1 1 65796 20140516060015
+74.221.209.242 1 1 66393 20140503164152
+50.100.64.2 1 77 810916 20140512183541
+107.161.81.92 1 1 66375 20140505075756
+50.31.111.174 1 1 66375 20140504190347
+178.33.67.90 1 1 66459 20140508115333
+96.8.117.145 2 2 132322 20140527142640
+108.163.227.165 1 1 66379 20140505082327
+196.196.32.103 1 1 66459 20140507170216
+23.94.245.202 1 1 66461 20140514023153
+46.105.180.199 1 1 66456 20140527063538
+198.55.113.72 1 1 65800 20140514223842
+177.107.255.63 2 110 3048259 20140507185358
+69.12.65.85 1 1 65859 20140528103833
+142.91.62.214 1 1 66463 20140510044503
+103.11.119.84 1 1 66412 20140528165834
+172.246.254.125 2 2 132252 20140521100857
+189.22.230.212 2 2 134291 20140522215337
+68.64.174.86 1 1 65870 20140512190829
+198.55.113.65 1 1 66389 20140516074728
+192.95.43.193 1 1 65874 20140519065327
+110.86.164.211 1 1 66238 20140520064000
+192.208.185.94 1 1 65874 20140511212745
+107.155.80.212 1 1 65874 20140512042110
+107.178.211.86 1 1 466 20140515113907
+173.234.227.59 1 1 66377 20140502044824
+196.196.28.35 2 2 132688 20140526105822
+69.175.87.10 1 1 66447 20140518081657
+69.12.88.24 1 1 66371 20140502051822
+188.240.135.74 1 1 66556 20140502232931
+209.141.184.228 1 1 66379 20140501234325
+108.178.13.68 1 1 65874 20140519013429
+107.161.85.18 2 2 132316 20140518204343
+5.157.45.67 1 1 67254 20140522235543
+209.236.112.190 5 5 329878 20140525091109
+173.254.234.163 1 1 66467 20140510144459
+198.175.127.74 1 1 66463 20140511211805
+107.155.65.235 1 1 65874 20140513095059
+198.50.171.101 1 1 66458 20140519223223
+162.250.232.71 1 1 66465 20140508203754
+173.0.61.115 1 1 66459 20140508144439
+110.85.70.2 1 1 66448 20140528222219
+36.248.119.88 5 5 332260 20140526051424
+184.82.177.140 1 1 66465 20140509112303
+69.12.77.233 1 1 66459 20140511230316
+89.44.24.1 1 1 66369 20140502142545
+198.50.161.25 3 3 197481 20140529214744
+107.158.241.2 1 1 66389 20140515172300
+107.155.79.113 1 1 65798 20140517211717
+165.231.27.148 1 1 65874 20140511031623
+23.90.4.253 1 1 65868 20140513235739
+191.239.1.173 1 1 466 20140513212716
+198.20.77.70 2 2 132181 20140517060451
+94.23.188.59 2 2 43175 20140513234006
+37.59.217.218 1 1 66461 20140511081633
+69.12.76.130 1 1 65869 20140521171105
+149.255.107.10 1 1 66451 20140518165341
+186.216.161.66 1 1 65923 20140531064421
+91.207.8.61 1 1 66453 20140507033435
+107.181.70.148 1 1 66465 20140508192446
+178.32.168.170 1 1 65865 20140527001516
+27.153.211.146 1 1 66465 20140509192338
+183.93.139.213 1 1 65346 20140525013421
+204.44.83.99 1 1 66373 20140505220946
+69.12.70.98 1 1 66550 20140506012557
+173.213.110.69 1 1 66463 20140508044041
+23.105.211.76 1 1 65865 20140527011415
+208.89.213.80 2 2 132224 20140524160304
+218.107.217.82 1 1 66998 20140502033321
+69.12.89.34 1 1 66453 20140507120309
+5.9.199.34 2 2 131664 20140531212918
+111.161.0.72 1 1 66434 20140530001731
+69.175.14.230 1 1 65698 20140518002611
+183.61.111.201 1 1 66400 20140526063346
+107.150.56.122 3 3 199213 20140507184443
+202.59.160.10 1 1 66414 20140526102146
+46.105.158.52 1 1 66236 20140520171104
+69.12.75.96 1 1 65856 20140518023113
+198.55.109.240 1 1 65865 20140529070405
+31.3.227.165 1 1 65863 20140527051031
+173.208.103.154 1 1 66451 20140501223026
+189.39.124.54 1 1 66423 20140507195726
+198.167.136.168 1 1 65702 20140518001924
+192.227.235.214 1 1 66379 20140503232909
+178.33.75.121 1 1 0 20140528094146
+78.129.131.25 2 2 43175 20140513213248
+77.108.104.26 1 1 66407 20140501055353
+198.50.136.104 1 1 66512 20140531203834
+179.43.135.29 1 1 65799 20140522004314
+96.9.148.39 1 1 65859 20140526004924
+183.223.81.22 1 1 65863 20140526110636
+202.109.163.75 1 1 65865 20140527222416
+23.108.132.28 1 1 66452 20140530011839
+107.182.120.130 1 1 65867 20140526061417
+192.157.245.157 1 1 66467 20140510094438
+199.30.55.193 1 1 65800 20140515113809
+175.44.31.111 1 1 65799 20140522154326
+184.154.48.22 1 1 66447 20140501104848
+91.108.180.30 1 1 65799 20140522114257
+184.154.84.30 2 2 131592 20140517211324
+198.167.137.113 1 1 66461 20140507122230
+192.3.179.71 1 1 66227 20140520052731
+193.104.110.141 1 1 66393 20140516125657
+199.180.134.138 1 1 66467 20140510151018
+162.218.239.218 1 1 65878 20140509151718
+192.184.82.22 1 1 65647 20140520021902
+69.12.80.201 1 1 66389 20140503104238
+198.143.143.198 1 1 66465 20140513172321
+173.0.62.162 2 2 131728 20140518150228
+198.55.112.66 1 1 65647 20140520071046
+36.248.117.13 5 5 332376 20140530220105
+5.135.9.46 1 1 66455 20140513121710
+178.221.130.16 1 1 66541 20140519093010
+192.227.240.46 1 1 65865 20140530063323
+113.53.249.29 1 1 66225 20140529161133
+23.94.99.18 1 1 65859 20140526060214
+173.0.53.100 1 1 65753 20140524111823
+69.30.194.227 1 1 65874 20140519015432
+24.4.141.149 1 1 65861 20140526202830
+192.227.191.234 1 1 65929 20140525075827
+80.79.121.174 1 1 66461 20140512145846
+66.219.22.161 1 1 65874 20140520005857
+37.59.88.234 1 1 65861 20140527173837
+23.108.132.73 1 1 65647 20140520151437
+198.23.248.32 1 1 66375 20140504074616
+69.12.80.152 1 1 66461 20140510043147
+46.105.133.38 1 1 65865 20140526200219
+192.126.155.137 1 1 65867 20140525173503
+50.115.174.182 2 2 132854 20140515220831
+173.232.104.239 1 1 66379 20140505144330
+66.219.27.154 1 1 66461 20140514233632
+107.155.116.10 1 1 65865 20140530113718
+94.23.106.238 7 7 461103 20140530210328
+5.254.137.20 2 2 132948 20140527200307
+112.45.127.214 1 1 65927 20140525013802
+192.208.185.237 1 1 65800 20140517085330
+172.245.59.165 2 2 132836 20140507051715
+192.161.162.8 1 1 66633 20140527012118
+137.186.52.166 4 86 977147 20140501111456
+23.81.63.165 1 1 65919 20140531223754
+110.85.107.172 2 2 66974 20140523230138
+192.161.166.3 1 1 66344 20140524145431
+86.51.26.20 1 1 66032 20140530200502
+23.94.19.20 1 1 65792 20140517103814
+101.55.12.75 1 1 65863 20140527195858
+172.245.240.207 1 1 66451 20140501174918
+192.3.180.194 1 1 65921 20140531005448
+46.246.3.211 1 1 65870 20140513071645
+149.255.101.190 1 1 66379 20140505155829
+31.3.224.166 1 1 65919 20140530183034
+37.59.216.206 1 1 65863 20140529235943
+173.44.59.207 1 1 66452 20140529041512
+198.167.136.12 1 1 65798 20140517101524
+204.44.113.196 1 1 66463 20140508122205
+196.196.28.140 1 1 65874 20140514011603
+107.155.75.20 1 1 66461 20140507234208
+46.119.127.227 1 1 466 20140517155823
+178.216.53.117 1 1 66375 20140506005110
+107.178.214.206 1 1 466 20140516091932
+196.196.28.43 1 1 66461 20140513070920
+208.35.57.49 1 1 66922 20140503181407
+66.222.226.124 2 83 896343 20140530020645
+107.158.228.60 1 1 66463 20140508030845
+196.196.16.4 1 1 66094 20140525010904
+172.245.181.166 1 1 65864 20140517160155
+208.89.208.107 1 1 66458 20140519040830
+107.181.70.55 1 1 66457 20140507101925
+187.49.80.103 1 1 66423 20140511105400
+216.107.159.103 1 1 65876 20140508150456
+5.135.214.253 1 1 66375 20140505064402
+173.0.48.130 1 1 65915 20140523201000
+173.208.103.131 1 1 65929 20140525021020
+27.159.231.71 1 1 66375 20140501142515
+212.83.157.208 1 1 65876 20140509082502
+5.135.114.129 1 1 65921 20140531070649
+93.118.72.160 2 2 131976 20140530103153
+107.161.81.64 1 1 65863 20140529041004
+93.118.69.184 1 1 66050 20140521040404
+124.74.249.10 1 1 66439 20140509084056
+192.126.168.136 1 1 65921 20140524004617
+91.121.46.87 6 6 394777 20140520110645
+37.203.208.182 1 1 66459 20140508004054
+27.159.229.33 1 1 66506 20140523184642
+162.244.8.8 3 3 198974 20140520194644
+107.182.23.250 1 1 66644 20140509144350
+216.107.159.111 1 1 65878 20140509234716
+165.231.12.208 1 1 66556 20140505092505
+5.135.164.18 1 1 65861 20140529191821
+96.127.146.235 1 1 66451 20140517172732
+23.94.99.27 1 1 65859 20140526074249
+204.44.112.144 2 2 132754 20140505152658
+162.244.8.17 1 1 66445 20140501050342
+37.59.247.42 2 2 132352 20140523055532
+23.226.224.137 1 1 66375 20140507014953
+74.221.211.15 1 1 66642 20140508164835
+23.94.245.234 1 1 66461 20140513205015
+116.228.55.217 2 2 131667 20140525201233
+36.81.1.229 1 1 66918 20140504120835
+91.109.5.170 1 1 66455 20140506182045
+66.118.157.135 1 1 65923 20140531183526
+208.89.209.31 1 1 65925 20140525222728
+108.166.183.226 1 1 66379 20140504084905
+37.72.177.158 1 1 65798 20140519041915
+192.3.179.110 3 3 67078 20140517010706
+50.118.149.96 1 1 66452 20140526134436
+140.237.13.84 3 3 199123 20140506072803
+173.213.99.18 1 1 65800 20140515145145
+107.178.114.8 2 2 132924 20140508172610
+173.245.72.21 1 1 66463 20140509152817
+117.173.189.138 1 1 65867 20140528113715
+69.12.67.153 3 3 199117 20140506034123
+23.90.4.171 1 1 65870 20140509211808
+107.178.114.7 1 1 66461 20140510224710
+192.3.61.93 1 1 66445 20140517205252
+5.39.126.78 2 2 132828 20140511033339
+23.231.4.145 1 1 66459 20140511132947
+79.143.82.242 1 1 66809 20140514034431
+172.241.216.142 1 1 65938 20140524183548
+50.115.171.66 1 1 66461 20140507225047
+23.236.50.67 1 1 466 20140501095619
+198.23.175.120 1 1 66462 20140521204915
+69.30.194.229 1 1 65874 20140519122620
+85.202.7.27 1 1 67425 20140523034223
+185.38.251.195 1 1 66377 20140505023210
+173.232.106.182 1 1 65864 20140518233106
+69.12.75.190 1 1 66389 20140503081643
+14.29.117.36 1 1 66379 20140505081049
+110.210.113.231 1 1 65925 20140531183155
+107.161.85.238 1 1 66465 20140518230619
+36.248.117.169 3 3 199536 20140530233427
+198.50.234.47 1 1 66461 20140513175828
+192.95.0.217 1 1 65798 20140515074942
+109.169.5.243 1 1 65872 20140512110641
+149.255.111.70 1 1 65865 20140529060734
+23.90.4.121 1 1 65796 20140515224251
+107.155.117.48 1 1 66377 20140503002357
+212.175.81.10 1 1 66410 20140526071109
+136.0.118.217 4 4 264340 20140531220207
+198.23.158.73 1 1 66461 20140514185209
+69.12.72.245 1 1 66049 20140512123921
+199.180.130.57 2 2 133105 20140513135144
+68.65.248.100 4 4 265838 20140509062944
+107.155.81.238 1 1 65862 20140518234029
+5.175.225.31 1 1 65919 20140530174845
+170.130.179.187 1 1 66389 20140517015051
+165.231.8.11 1 1 66450 20140526021346
+64.120.171.100 1 1 66451 20140518104335
+130.185.159.101 1 1 65867 20140526145946
+108.186.244.177 1 1 66379 20140502155530
+23.108.132.240 2 2 132290 20140523131343
+107.178.215.205 1 1 466 20140517091816
+136.0.120.227 3 3 199303 20140526205914
+187.72.175.250 1 1 67443 20140522214411
+192.95.11.128 2 2 132750 20140503011218
+117.166.168.204 1 1 66458 20140527070347
+188.208.2.222 1 1 66554 20140504114319
+31.25.140.3 1 1 65969 20140515031220
+192.161.160.41 1 1 66238 20140520160905
+198.167.136.11 1 1 65802 20140515174600
+204.44.113.182 1 1 66375 20140505191305
+184.22.68.195 3 3 198784 20140514142054
+23.94.23.92 1 1 65796 20140516093321
+5.254.141.226 1 1 65784 20140506070533
+188.240.140.25 1 1 66044 20140529133326
+5.39.121.98 1 1 66371 20140505055320
+5.9.191.102 7 7 462248 20140512021521
+198.143.143.118 1 1 66465 20140513074708
+192.227.240.135 1 1 66646 20140510103622
+173.208.103.11 1 1 65802 20140516192355
+117.172.160.81 1 1 65865 20140530031734
+107.155.120.208 1 1 66453 20140518013958
+198.50.196.184 1 1 66377 20140505230405
+69.12.76.29 1 1 66448 20140530173003
+184.154.93.116 1 1 66463 20140510175121
+46.105.133.35 1 1 66042 20140528132319
+170.130.111.2 2 2 132622 20140523123603
+50.115.175.113 2 2 131677 20140522110142
+198.23.158.71 1 1 66375 20140502151039
+60.21.136.22 1 1 67014 20140518182459
+198.143.143.180 1 1 65864 20140518153130
+5.135.43.153 1 1 65861 20140526064357
+69.12.76.226 1 1 65870 20140512124300
+108.163.255.35 1 1 65876 20140519052147
+69.12.67.82 1 1 66384 20140523174016
+173.44.58.122 1 1 65796 20140517235143
+178.33.45.42 3 3 198352 20140526071936
+177.177.217.105 2 101 2731852 20140502072540
+220.200.24.59 1 1 66459 20140513035132
+168.63.252.102 2 2 131728 20140528153206
+173.234.232.15 3 3 197509 20140524172750
+180.180.73.58 1 1 65863 20140529060039
+74.115.1.222 1 1 65753 20140524191854
+192.227.160.171 1 1 65876 20140519114641
+23.89.192.153 2 2 132750 20140504092840
+198.167.136.129 2 2 132269 20140516014351
+54.178.194.96 1 1 66452 20140528115326
+23.227.173.14 1 1 66391 20140503085137
+162.250.232.66 1 1 65874 20140514013613
+195.49.151.78 1 1 66342 20140524204038
+162.244.11.141 3 3 197595 20140530075425
+109.64.179.181 1 1 65865 20140529001810
+198.55.113.16 1 1 66389 20140515230303
+222.42.1.132 1 1 65861 20140528155525
+196.196.32.193 4 4 264516 20140515203019
+107.158.23.43 1 1 65865 20140527024213
+23.94.99.203 2 2 132383 20140523043504
+23.94.38.237 1 1 66190 20140520201933
+198.143.143.6 1 1 66461 20140514064608
+213.200.69.106 1 1 67110 20140508064618
+173.248.148.42 3 3 199364 20140530145612
+117.78.13.29 1 1 466 20140525092201
+50.115.171.254 1 1 65923 20140531050508
+192.3.111.225 2 2 131724 20140525042602
+120.192.83.206 1 1 66781 20140511234726
+192.126.168.26 1 1 65874 20140511051221
+176.31.119.118 1 1 66377 20140504174841
+107.161.81.91 1 1 65791 20140531200046
+111.125.212.62 1 1 66418 20140528202030
+211.244.83.230 1 1 31341 20140511215802
+216.107.159.13 1 1 65862 20140518144531
+198.23.174.9 1 1 65869 20140521170150
+107.178.220.152 1 1 466 20140514160043
+202.84.35.73 1 1 66940 20140503043427
+173.234.250.73 1 1 65865 20140530101132
+69.12.77.179 1 1 66455 20140507064515
+5.254.144.85 1 1 66459 20140514123844
+192.227.165.35 1 1 66393 20140503153551
+23.105.213.81 1 1 65921 20140531193019
+74.221.223.88 1 1 66461 20140508045908
+196.196.32.199 1 1 66375 20140506150424
+5.157.55.10 1 1 65868 20140513024736
+89.44.24.140 1 1 65861 20140528075632
+196.196.28.77 1 1 65874 20140519031708
+173.0.54.232 1 1 65797 20140522103245
+69.12.80.147 1 1 66447 20140518073616
+162.221.184.46 1 1 66390 20140523225735
+50.115.175.214 1 1 66393 20140503052546
+23.94.99.53 2 2 132894 20140525205422
+204.44.113.42 1 1 66375 20140502031716
+23.94.245.201 1 1 65978 20140523205333
+96.227.75.226 1 1 65863 20140528080917
+201.90.234.57 1 1 66985 20140501032735
+198.143.143.58 1 1 65802 20140516150401
+173.0.62.211 2 2 131838 20140526224846
+202.166.205.80 1 1 66412 20140526193817
+107.178.214.97 1 1 466 20140529091913
+178.32.234.141 1 1 66463 20140508124834
+117.26.116.36 1 1 66461 20140514052240
+196.196.28.51 1 1 66463 20140519161823
+46.37.165.76 1 1 65861 20140528181037
+89.47.18.46 1 1 66049 20140509122310
+107.161.81.102 1 1 66375 20140506033042
+115.228.109.150 1 1 65867 20140526062037
+87.98.161.163 5 5 330839 20140529093815
+118.21.169.140 2 85 904942 20140508005222
+173.234.232.4 1 1 65863 20140529060819
+93.118.77.143 1 1 66044 20140527155812
+93.158.203.102 2 2 132251 20140511080544
+5.255.90.68 1 1 65868 20140512115246
+198.50.192.252 1 1 66463 20140512184426
+107.155.120.57 1 1 66456 20140527133508
+69.175.14.165 3 3 198205 20140519012925
+173.44.40.217 1 1 65925 20140525070418
+5.135.214.246 1 1 65800 20140515121143
+189.49.248.39 2 88 1456063 20140513122344
+5.255.91.7 1 1 66369 20140502151233
+165.231.27.211 2 2 132826 20140504135135
+192.95.55.85 1 1 66450 20140527224253
+208.89.209.130 1 1 65876 20140510153652
+201.243.51.103 1 1 67144 20140506072247
+23.94.245.243 1 1 66461 20140514052445
+198.55.109.137 1 1 65876 20140519125834
+171.106.241.84 1 1 65865 20140529031551
+96.127.135.197 1 1 66391 20140516021045
+204.44.82.51 1 1 66373 20140504004456
+183.220.44.165 1 1 65927 20140525104444
+209.161.99.162 1 1 65923 20140531221456
+198.23.248.127 1 1 66456 20140512212118
+46.249.51.147 1 1 65800 20140516182621
+173.254.234.141 1 1 66379 20140505112445
+107.182.115.47 2 2 132677 20140523103607
+204.44.112.216 2 2 132339 20140512105024
+2.37.113.30 1 1 65751 20140524120346
+173.234.227.238 1 1 66379 20140502075158
+109.241.90.133 2 2 132390 20140525015824
+5.178.66.94 3 3 198713 20140521074228
+206.47.87.100 4 88 1804011 20140501113653
+192.227.160.159 1 1 65869 20140527120343
+178.33.105.253 1 1 66377 20140502093507
+37.59.164.95 1 1 65923 20140525132045
+96.127.135.75 1 1 66461 20140508202830
+69.163.40.170 1 1 65874 20140519013857
+192.95.0.222 1 1 66459 20140508095611
+199.30.49.5 2 2 131715 20140525200751
+178.33.68.48 1 1 65923 20140525055308
+14.18.17.166 1 1 66817 20140508012608
+27.150.246.193 2 2 133527 20140523052509
+69.12.64.170 1 1 66373 20140504174817
+66.118.157.78 1 1 65874 20140519141158
+181.48.203.138 1 1 66928 20140506045252
+191.17.124.9 2 2 31854 20140504215656
+221.176.14.78 1 1 66250 20140514023519
+64.79.111.77 1 1 66455 20140506235046
+37.72.189.170 1 1 66375 20140502152703
+177.129.88.39 1 1 66924 20140506080241
+192.249.58.218 1 1 66375 20140506132939
+140.113.218.140 1 1 64761 20140523225144
+198.23.158.78 1 1 66375 20140504200347
+198.143.143.142 1 1 66393 20140514180812
+46.246.32.66 1 1 66373 20140504234403
+5.254.139.120 5 5 332102 20140509170417
+79.133.196.51 8 8 527030 20140530212957
+170.130.62.132 1 1 66638 20140507033130
+108.163.232.139 2 2 131600 20140517112647
+184.154.15.70 1 1 65860 20140518084208
+192.227.253.170 1 1 66393 20140515074251
+204.44.82.40 1 1 65800 20140504012053
+173.0.57.3 2 2 132910 20140514061414
+74.221.223.93 1 1 65796 20140517001132
+178.32.226.71 3 3 198382 20140523115421
+199.30.51.115 1 1 65874 20140519135700
+5.39.5.98 1 1 66367 20140504174324
+107.161.83.148 1 1 66456 20140512103508
+204.44.92.220 1 1 66375 20140505053556
+184.154.22.43 1 1 66385 20140517053140
+50.31.111.249 1 1 65755 20140524132242
+23.226.225.83 1 1 65647 20140520163620
+85.137.227.172 1 1 65802 20140515132022
+117.175.109.174 1 1 65867 20140526114220
+178.32.226.86 5 5 330173 20140525133113
+173.0.59.27 1 1 65868 20140512191723
+177.157.123.167 2 121 4102211 20140507221911
+5.135.90.182 1 1 66455 20140507072835
+107.158.229.42 1 1 66465 20140510065016
+173.0.61.77 1 1 66457 20140508170108
+96.9.148.15 1 1 65795 20140522040218
+107.155.81.78 2 2 132093 20140528080001
+180.250.43.88 1 1 66466 20140525114736
+107.161.81.75 1 1 66461 20140511182038
+58.20.127.106 1 1 66633 20140508004116
+23.94.23.18 4 4 264067 20140523134245
+123.110.4.215 1 1 64757 20140531165905
+23.83.94.51 1 1 65859 20140530042527
+5.254.143.48 3 3 199350 20140530080338
+69.12.79.202 1 1 66389 20140503161450
+184.154.146.92 2 2 132854 20140516082616
+173.0.61.11 1 1 65861 20140528013537
+88.227.3.148 1 1 66455 20140507090423
+46.29.126.78 1 1 65861 20140529152030
+172.245.32.136 2 2 132266 20140523150053
+96.127.140.13 2 2 132912 20140518203149
+192.227.243.73 1 1 65798 20140517193736
+165.231.20.157 1 1 66463 20140513201045
+69.12.64.113 2 2 132914 20140507164813
+172.245.136.37 1 1 65874 20140512162325
+199.180.135.123 1 1 65876 20140512124540
+176.31.73.147 1 1 65860 20140518175329
+198.50.136.113 1 1 65865 20140530041713
+23.232.133.60 1 1 65863 20140529181949
+204.44.92.17 1 1 66371 20140505183933
+201.116.216.149 1 1 66451 20140501043355
+170.130.111.139 1 1 65804 20140515082139
+68.65.206.122 3 3 199387 20140510184252
+5.254.139.234 5 5 333062 20140523211231
+46.249.58.178 3 3 198101 20140528124038
+173.213.82.123 1 1 66516 20140525055315
+198.143.143.245 2 2 132782 20140516221416
+46.246.36.30 3 3 199305 20140521205458
+198.23.174.110 1 1 65793 20140531212717
+108.174.198.243 1 1 65759 20140524192719
+199.119.227.170 2 2 132815 20140524092501
+192.184.95.148 1 1 66454 20140529111724
+64.120.171.102 1 1 66451 20140518150609
+170.130.24.161 1 1 66463 20140513141709
+96.127.147.222 2 2 132551 20140515110433
+188.255.3.100 1 1 66308 20140524090428
+192.126.168.130 1 1 66635 20140530092543
+173.232.105.92 2 2 132926 20140513082555
+188.208.9.229 1 1 65858 20140501215916
+107.178.212.115 2 2 932 20140521092629
+192.3.182.119 1 1 66452 20140530214711
+203.172.243.118 1 1 66686 20140511015439
+178.32.165.173 1 1 66451 20140518031931
+107.181.70.168 1 1 66459 20140507021924
+198.23.248.117 1 1 65876 20140509130107
+107.181.70.11 1 1 65799 20140523000812
+69.12.84.73 1 1 65751 20140524224328
+198.143.143.254 3 3 198586 20140516181407
+192.227.253.180 1 1 65867 20140526222324
+46.249.58.116 1 1 65863 20140530013911
+178.32.55.40 4 4 263446 20140530091930
+117.0.166.89 1 1 66350 20140524223426
+74.80.149.11 1 1 66373 20140505154332
+80.0.167.156 1 77 810916 20140517195808
+149.255.111.200 2 2 132916 20140510193612
+195.225.118.41 1 1 66463 20140512141558
+74.221.209.26 1 1 66461 20140512144559
+192.99.25.145 1 1 65865 20140527123207
+142.91.62.232 1 1 66461 20140513074602
+176.31.90.88 1 1 65870 20140514153922
+173.208.103.239 1 1 65804 20140515125748
+204.44.112.62 1 1 66373 20140505160904
+192.3.61.98 1 1 66459 20140519005243
+123.183.211.9 1 1 66815 20140509052107
+5.254.129.149 1 1 66445 20140529103156
+108.174.198.123 4 4 265866 20140510071400
+69.12.74.71 1 1 65868 20140512062322
+199.30.25.22 0 6 40067 
+192.3.111.220 1 1 65863 20140530132400
+198.12.104.219 2 2 132928 20140510063131
+175.42.25.181 1 1 65872 20140513133637
+79.18.88.125 2 104 2895492 20140526125654
+50.115.168.156 1 1 66463 20140513133201
+198.23.174.24 1 1 65863 20140529044033
+192.99.170.20 5 5 331678 20140531214539
+173.212.192.68 1 1 66375 20140506031125
+192.95.0.198 1 1 66389 20140504004613
+46.105.135.167 1 1 65865 20140529204906
+173.212.192.78 1 1 65862 20140518153640
+5.135.112.56 1 1 66042 20140527091453
+198.20.79.163 1 1 66389 20140514183557
+165.231.22.243 1 1 65923 20140530184710
+198.55.112.12 1 1 66373 20140506165544
+170.130.111.160 1 1 65982 20140522051322
+192.95.12.172 1 1 66452 20140526083418
+100.2.227.89 3 3 197479 20140527040919
+198.27.118.81 1 1 66375 20140505145724
+117.175.212.228 1 1 65929 20140525134259
+23.95.97.102 1 1 65919 20140531044549
+89.47.18.204 1 1 66051 20140509141932
+173.234.232.164 2 2 131682 20140515215315
+93.118.68.29 1 1 66452 20140513053235
+183.223.159.139 1 1 66385 20140523003425
+188.240.133.17 1 1 66456 20140513085703
+107.161.85.184 1 1 66556 20140505234547
+46.249.51.135 1 1 66461 20140508033825
+107.161.85.177 1 1 66055 20140510201304
+36.76.247.5 1 1 66476 20140525160219
+93.118.79.211 2 2 132920 20140510024623
+192.40.94.188 1 1 66832 20140523030517
+107.155.81.211 1 1 65649 20140520162904
+192.200.31.218 1 1 65865 20140530174130
+173.0.54.198 1 1 66373 20140505053937
+184.82.222.49 1 1 66463 20140509032234
+5.39.39.131 1 1 65751 20140524154359
+37.77.81.241 2 2 132832 20140508210502
+37.72.190.2 1 1 65751 20140524071710
+165.231.8.238 1 1 66452 20140526152155
+178.221.125.21 1 1 65757 20140524143218
+180.178.99.201 1 1 66946 20140515220731
+165.231.14.250 2 2 131748 20140513182445
+41.216.168.194 1 1 66420 20140529112126
+118.97.237.77 1 1 66407 20140501014644
+216.107.159.203 1 1 65800 20140517222318
+114.40.180.33 8 139 1359201 20140503080552
+180.149.97.1 2 97 2274730 20140509120446
+107.161.81.111 1 1 65649 20140520081209
+69.12.74.32 1 1 65917 20140530181430
+114.80.91.166 1 1 66431 20140513135557
+23.94.245.235 1 1 65872 20140514103957
+64.182.215.68 1 1 65925 20140525121316
+5.39.39.128 1 1 65867 20140521034241
+64.182.215.73 1 1 65872 20140512164430
+74.80.148.204 1 1 66461 20140508043118
+192.227.253.218 1 1 66465 20140514141353
+136.0.118.63 1 1 66038 20140529120313
+198.50.190.148 1 1 65865 20140529181256
+198.143.167.43 1 1 66463 20140514004739
+198.50.189.123 7 7 464337 20140524060013
+172.245.181.148 1 1 65878 20140519080759
+201.68.252.210 2 102 2436675 20140503203510
+46.249.58.188 1 1 66461 20140510182927
+165.231.27.80 1 1 66621 20140518162359
+67.220.144.90 1 1 65872 20140512163801
+108.178.4.67 1 1 66445 20140501093148
+69.12.72.166 1 1 66445 20140501013919
+204.44.85.88 2 2 131740 20140511084807
+107.161.83.43 1 1 66100 20140531150542
+111.90.179.46 1 1 65863 20140527170208
+108.27.236.42 1 1 65786 20140504133751
+50.2.193.233 1 1 66373 20140504193827
+162.244.9.240 6 6 395655 20140528161552
+192.126.166.2 1 1 65796 20140517074348
+69.12.84.107 1 1 65858 20140518183717
+23.247.173.107 1 1 65863 20140529151343
+89.44.25.65 1 1 65870 20140510143124
+151.237.186.221 1 1 66467 20140509231153
+69.12.91.131 1 1 65858 20140518151626
+92.29.12.71 1 1 65870 20140510151635
+199.119.225.88 1 1 66556 20140504055807
+173.236.30.108 1 1 65876 20140519023049
+198.55.113.2 1 1 65870 20140514122526
+192.95.0.219 1 1 65861 20140529003313
+198.167.137.196 1 1 66465 20140513030546
+210.101.131.231 1 1 66243 20140526050409
+184.154.47.110 1 1 65798 20140517134248
+61.148.10.18 1 1 66373 20140502011638
+198.55.113.97 2 2 132850 20140515035431
+68.65.210.180 2 2 132920 20140509211329
+178.33.146.216 2 2 131678 20140519143030
+173.232.106.141 1 1 65938 20140524183814
+50.115.168.128 1 1 66463 20140515013307
+74.115.1.186 1 1 66373 20140505094822
+69.12.67.143 2 2 132916 20140509095754
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20140501 80 430 9745532 67
+20140502 83 366 11152452 66
+20140503 62 293 7089215 51
+20140504 66 148 4999060 64
+20140505 87 194 8632027 85
+20140506 79 168 6889824 78
+20140507 205 1045 23762401 96
+20140508 110 193 8081471 104
+20140509 98 292 10704964 93
+20140510 88 88 5831422 88
+20140511 81 81 5262322 79
+20140512 95 247 7646464 92
+20140513 132 715 21123117 109
+20140514 89 191 6305131 75
+20140515 103 103 6746313 95
+20140516 112 197 7879821 106
+20140517 100 263 8388046 89
+20140518 101 101 6550346 98
+20140519 91 91 5812199 89
+20140520 81 81 5148371 72
+20140521 59 141 5291997 58
+20140522 99 99 6068142 82
+20140523 146 146 9548554 97
+20140524 100 100 6530837 99
+20140525 88 88 5621543 85
+20140526 110 212 9831143 99
+20140527 91 91 5911862 88
+20140528 90 90 5751667 86
+20140529 115 115 7534270 112
+20140530 133 308 10377597 123
+20140531 90 90 5678551 87
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 4
+5mn-15mn 11
+15mn-30mn 13
+30s-2mn 18
+2mn-5mn 13
+0s-30s 2629
+30mn-1h 24
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 609
+/phpinfo.php 1318 86817682 1247 1243
+/project/ 204 6623274 21 47
+/phpinfo.php/RK=0/RS=6enmJZmyhQjMj7P.EDdx3YIJnI0- 158 10498946 155 157
+/ 81 33086 73 46
+/phpinfo.php/RK=0/RS=lhU8_YczMjIrC6aBWdwl0pQEiDc- 70 4650024 67 67
+/phpinfo.php/RK=0/RS=FF5JqW3J7WBkbHZ63u.32ZmtDlY- 59 3923776 45 45
+/drupal7/ 35 787032 15 15
+/phpinfo.php/RK=0/RS=l1qmkqo8j03IJwiJTGmAyNrnQJs- 32 2124864 30 30
+/phpinfo.php/RS=^ADARtRwmTff19oV5ycS7aZXdC4GBBI- 24 1595212 22 22
+/phpinfo.php/RK=0/RS=6E1kkc5CSISmaQPvLEVEzYTx7tk- 16 1063663 14 14
+/phpinfo.php/RK=0/RS=1Ls9oeU.dC3h9hPZ7Q1MV8B7dVU- 16 1062885 15 15
+/phpinfo.php/RK=0/RS=6eD0Shn12hwBemMitdAj3Xr3uWc- 15 996452 15 15
+/phpinfo.php/RK=0/RS=Hw4mRg_KAhtro4ddoBKqzAGKyQk- 15 997373 15 15
+/phpinfo.php/RK=0/RS=hy5h4rZXUhJiiQDGHcOtcCDAulU- 14 930294 14 14
+/phpinfo.php/RK=0/RS=pBSYzFYWRc1rQIlfhrciXtwPGXw- 12 796774 11 11
+/phpinfo.php/RK=0/RS=qKv3J7turNssCFZaUts26Uncx3o- 11 730871 11 11
+/phpinfo.php/RK=0/RS=lEJpFcqoC_38c48wRysxDLVXEAY- 10 664278 10 10
+/phpinfo.php/RK=0/RS=O.XWpK10wa70c_hsZ9ZLokJTt_s- 10 664656 8 8
+/phpinfo.php/RK=0/RS=oEyvqbfubeT.2Hmiz.iQaUdGqMI- 9 598662 8 8
+/phpinfo.php/RK=0/RS=3ui8K9KdnOnBGGWi.j6v790gH2Y- 9 598931 7 8
+/phpinfo.php/RK=0/RS=9iXkTFxJwNpBeSlXPfzJNS6HB5M- 9 598176 6 6
+/phpinfo.php/RK=0/RS=XTMezvvIT1sgbko3NGh49_k1Pgk- 8 532363 7 7
+/phpinfo.php/RK=0/RS=iVc92y7hVvgIgxKjM_H8e9PJcZI- 8 532526 7 7
+/phpinfo.php/RK=0/RS=jIdscROREFTZIkE810KcSDm_uZE- 8 531689 8 8
+/phpinfo.php/RK=0/RS=FPTzdTqvjnoVhVc4TuRYdsd9XVg- 8 535209 8 8
+/phpinfo.php/RK=0/RS=05zvMGg6pzWi8g9jP_BIB_v7_b0- 3 199875 3 3
+/phpinfo.php/RK=0/RS=BrzcKP3V6fO31LF1M2XRy8P6DfY- 2 132766 2 2
+/phpinfo.php/RK=0/RS=484ucPVheBsJOWOiW5XeJ4FLjds- 1 66447 1 1
+/phpinfo.php/RK=0/RS=yZtfoUpt9.EsczOg5..W7p8fafQ- 1 66455 1 1
+/phpinfo.php/RK=0/RS=qkXWB0rP_hwDehuw95tUGpXFRss- 1 66373 1 1
+/phpinfo.php/RK=0/RS=aZVgz40ZFnQvl.JBAXacTyOLrYw- 1 66454 1 1
+/phpinfo.php/RK=0/RS=3Hoz936vsfzSFYqPuitTxY8Ixpk- 1 66642 1 1
+/phpinfo.php/RK=0/RS=SnQk8k6woBGDICzz9.ofHOUmnr0- 1 66450 1 1
+/phpinfo.php/RK=0/RS=kTsd61M9RxJ6G6cIY339FP57FTY- 1 66389 1 1
+/phpinfo.php/RK=0/RS=jjQANqyDURrOtoEZWAFobuG33u0- 5 331279 5 5
+/phpinfo.php/RK=0/RS=gg78pcTsvUfUhc5VzO0BPqzrMRs- 1 66377 1 1
+/project/overlay-ajax/page_top 1 4711 0 0
+/phpinfo.php/RK=0/RS=zWyGtA_LsAWr.vNRb4xGyzEtSPw- 5 332057 5 5
+/phpinfo.php/RK=0/RS=jBVnAO0E4FGJ54aUgnjvlh6Ej3o- 1 66342 1 1
+/phpinfo.php/RK=0/RS=13bjkFirUwd0vdz1opCemFnVPdI- 1 66393 1 1
+/phpinfo.php/RK=0/RS=vspnkN7ZtL5UY_X7PD7Yo0KqTPw- 1 66638 1 1
+/phpinfo.php/RK=0/RS=ySdGZu.J7k2E7w1ci0FNnR2YIPs- 1 66375 1 1
+/phpinfo.php/RK=0/RS=MNU91WGsY5VlzGjiPheS5rS5bP8- 1 66371 1 1
+/phpinfo.php/RK=0/RS=ERKmHebQXvlt9.ChYFmTJkJXCyQ- 1 66379 1 1
+/phpinfo.php/RK=0/RS=3CwPkxiOhpEl24GKuS4hfMJRsrI- 1 66570 1 1
+/phpinfo.php/RK=0/RS=CK3O7oPtciakdt.5JH1lPZFCt8w- 1 66624 1 1
+/phpinfo.php/RS=^ADAixgjV5rkvFF.uQuroyHJvak_l5o- 2 132752 2 2
+/phpinfo.php/RK=0/RS=CWMtAAlrM9kvtJmZ7lWVh2YMdXA- 1 66377 1 1
+/phpinfo.php/RK=0/RS=mCPwxr1bqgovFq7QXZ9aDn3fU3s- 1 66463 1 1
+/phpinfo.php/RK=0/RS=39kKOwJ.OLjrhXFHuIloWFTOMb8- 1 66463 1 1
+/phpinfo.php/RK=0/RS=FxCF9e_fJ42yyFQTBigIlk1RiXY- 5 332376 5 5
+/phpinfo.php/RK=0/RS=xoSQS.Z.WbzO_VrYrPFoW89k3uU- 2 132912 2 2
+/phpinfo.php/RK=0/RS=CCKXphSzZIg9spWrXm9S62VmmlI- 1 66459 1 1
+/phpinfo.php/RK=0/RS=GonoMCpyIo5._LB0CjAYXgIq0UU- 1 66461 1 1
+/phpinfo.php/RK=0/RS=1WNOd1E7eDs4wvb_TgTDkeWqd0A- 4 265762 4 4
+/phpinfo.php/RK=0/RS=YkmMNjw8QSZGgrnk6wcGU.fxqWY- 1 66457 1 1
+/phpinfo.php/RK=0/RS=oeMsEyqyf.BBWBNviato1APDa4M- 1 66390 1 1
+/phpinfo.php/RK=0/RS=AMzmmZ7wrj_FIHmKU_C.5CSc118- 1 66465 1 1
+/phpinfo.php/RK=0/RS=hLP.MRpbSb3bVUmQV96ZiXsiBEQ- 4 265846 3 2
+/phpinfo.php/RS=^ADAk8_jrjghIC1hF4BxnWqr_dBk1PM- 7 465885 7 6
+/phpinfo.php/RK=0/RS=D.D8FUsQm.7ZsJjHZzgCMIYfJUk- 1 66391 1 1
+/phpinfo.php/RK=0/RS=CXAoAXIoeMXXPeISmfyYrSmMPOw- 1 66393 1 1
+/phpinfo.php/RK=0/RS=MFWT0Y9UEreDq4cz8R5JPFZo.is- 1 66375 1 1
+/phpinfo.php/RK=0/RS=gL4iNgOo47jQivGD0409ZloRBUs- 1 66387 1 1
+/phpinfo.php/RK=0/RS=gWL0FeqAfX3lThXgUx1fiur8IXk- 1 66461 1 1
+/phpinfo.php/RK=0/RS=21y6EKGBQRd2jNRBA7uC8epkfD0- 1 66457 1 1
+/phpinfo.php/RK=0/RS=6k3pcE9mF0TuGMSmOC185wtnLnM- 1 66461 1 1
+/phpinfo.php/RK=0/RS=YwqjCmUYgqa0YfSGvuFSWg0gDjw- 1 66373 1 1
+/phpinfo.php/RK=0/RS=dW3R5wJ31vfCJ8FcMwA58Fg1hVc- 1 66638 1 1
+/phpinfo.php/RK=0/RS=oTxrJA9bxDXGSdjehbYwLYwA12E- 2 132578 2 2
+/phpinfo.php/RK=0/RS=5kek3rDvVYMhbvFThDRFBRL9zIY- 1 66461 1 1
+/phpinfo.php/RK=0/RS=IeSA_TfxLynJfYRieWbFkXa3FkE- 1 66377 1 1
+/phpinfo.php/RS=^ADA8LoKZmpnLQ9JhZnASVR5SL9ss.0- 3 198916 2 1
+/phpinfo.php/RK=0/RS=1rLJFuFn2qqL77DQd3vMUDF1._4- 1 66373 1 1
+/phpinfo.php/RK=0/RS=cGCUZ0pF.ARfgXZvNl9kFBBZAD0- 1 66459 1 1
+/phpinfo.php/RK=0/RS=yO8sF1HqIPDIZOrGJ63eo7s52l4- 1 66455 1 1
+/phpinfo.php/RK=0/RS=M9az_xR9CkUsGkCV9J3RpwVBr1I- 1 66373 1 1
+/phpinfo.php/RK=0/RS=iVOgI70tURNJZGrTmh1MNjYHSyo- 1 66375 1 1
+/phpinfo.php/RK=0/RS=pWgGT9yfnm23PacqyfBoRwqTDcc- 1 66377 1 1
+/phpinfo.php/RK=0/RS=irfRk2xYMw9oSElMUhJPrKV3UFI- 6 401618 6 6
+/phpinfo.php/RK=0/RS=0kPYaXXknFQ7Rj7Q7elGa_yZfWs- 1 66379 1 1
+/phpinfo.php/RK=0/RS=WNp33XRVN5Er2XwI4bIw1uCgT.c- 1 66452 1 1
+/phpinfo.php/RS=^ADAUr_16ZegW.STdQg6PMnHwA8bpCY- 2 134038 2 2
+/phpinfo.php/RK=0/RS=lYWdojdETGrGYP6zoXinujkLJIQ- 2 132633 2 2
+/phpinfo.php/RK=0/RS=X5DNi6axS0h3p0o7ikKNVzcR2m8- 3 199382 3 3
+/phpinfo.php/RK=0/RS=I4G3vqVh0tOl5sSwkWe75tmMZMQ- 7 464428 7 7
+/phpinfo.php/RK=0/RS=dHrmUytIWhyhde8BYld7SxV8lJ4- 3 199425 3 3
+/phpinfo.php/RK=0/RS=06BPNg3kSTTYNBxcpkodjSD7PcM- 1 66375 1 1
+/phpinfo.php/RK=0/RS=I.QfrSWM8oSqZC11jvPFD3cX3WE- 1 66377 1 1
+/phpinfo.php/RK=0/RS=MQLzkketxZfS3Tlajt41_29PS2I- 1 66461 1 1
+/phpinfo.php/RK=0/RS=FBDsURiP6kJhf7kV6xh9OOpJ5EY- 1 66459 0 1
+/phpinfo.php/RK=0/RS=IpuzLynyUz5Ac14UQYfSo6ZnNPA- 1 66391 1 1
+/phpinfo.php/RK=0/RS=Sr6eVu88FPihNocT9buKHruXD3c- 1 66461 1 1
+/phpinfo.php/RK=0/RS=Me1Yb2NwTT8mSjFNw7naUHZgtqQ- 1 66998 1 1
+/phpinfo.php/RK=0/RS=IyJdn34nH9APodF4WKCIZdpmUWY- 1 66461 1 1
+/phpinfo.php/RK=0/RS=SKs9N3z6yL3ZhZp_iMnXnzx.9DI- 1 66455 1 1
+/phpinfo.php/RK=0/RS=N1QDagO96iUdod0v8veYvpupL5k- 1 66516 1 1
+/phpinfo.php/RK=0/RS=hnmpalqvu95nFLp91A5labTKync- 1 66232 1 1
+/phpinfo.php/RK=0/RS=dbUISrXZIPPk.9cpmRyHsqUjLNs- 6 398496 6 6
+/phpinfo.php/RS=^ADA8pz4Jx3x5_7Vx.tldf3zCxrJj_k- 1 66380 1 1
+/phpinfo.php/RK=0/RS=RaAEMIu6v2jNARnk.Z0U0pr0G64- 1 66550 1 1
+/phpinfo.php/RK=0/RS=sjP.tDRDX7rM08Nnhm88q1uKKws- 1 66379 1 1
+/phpinfo.php/RK=0/RS=S0Ju.0YZsXvZjU9VXA9wv2v7a4Y- 1 66642 1 1
+/phpinfo.php/RK=0/RS=9hI6w.J2RoVUDJFftNahUngDXjw- 1 66458 1 1
+/phpinfo.php/RK=0/RS=bQ5_fXoYcV6c9WbfNZHKIt7NgWk- 1 66461 1 1
+/phpinfo.php/RK=0/RS=Ljn4qi5pOKknNZtlrWysZ4DOXAo- 1 66371 1 1
+/phpinfo.php/RK=0/RS=QOaKOguhbEXnCbs181e3VENjxdc- 1 66375 1 1
+/phpinfo.php/RK=0/RS=p4Ihi1xzeEjXKD75rIbnWCqT2H0- 1 66455 1 1
+/phpinfo.php/RK=0/RS=c1Id6ZSp09_QyIzmekUSI.Qzoic- 1 66461 1 1
+/phpinfo.php/RK=0/RS=7wqCIbQIuiouRQjeFPgP68fjqOQ- 1 66377 1 1
+/phpinfo.php/RK=0/RS=SykCs7bGUdYYpmG7Oylm5O2dhsA- 1 66465 1 1
+/phpinfo.php/RK=0/RS=jbsCGUaoOvNR6ewfR2qMwslTsss- 1 66373 1 1
+/phpinfo.php/RK=0/RS=1wd3Loy0aLqIvnzQuzVZqH_kK88- 1 66450 1 1
+/phpinfo.php/RK=0/RS=LGLCmBrpswPfzcrP1n57lyRFRFA- 1 66377 1 1
+/phpinfo.php/RK=0/RS=hgmFG0Wg0gx9yP8W1H91N.laTMY- 1 66377 1 1
+/phpinfo.php/RK=0/RS=6CquMqzhfdD7XQWr0dq.lv84_0c- 1 66375 1 1
+/project/overlay-ajax/page_bottom 2 0 0 0
+/phpinfo.php/RK=0/RS=c3OEbjDTY2SOm0IskWRpIkSxzYM- 1 66375 1 1
+/phpinfo.php/RK=0/RS=Fvhdxsu6aXrXeDznIUohGl5jLq8- 1 66465 1 1
+/phpinfo.php/RK=0/RS=ZjwAPIngY4ZSvyh1c0twrxFsOWI- 1 66461 1 1
+/phpinfo.php/RK=0/RS=TK4V_dBNTVybeJzpxvQH7ElRCZs- 1 66934 1 1
+/phpinfo.php/RK=0/RS=haQ99lS_0rLOaT.Ex76BNMDGkdo- 1 66467 1 1
+/phpinfo.php/RK=0/RS=f2TG4I8Zr98j7BYsOmc4WD2Xdmo- 1 66377 1 1
+/phpinfo.php/RK=0/RS=94AcYTZqUDitm4Q2UfKLFLkH1_A- 1 66452 1 1
+/phpinfo.php/RK=0/RS=JTOYAy44nVncd5UfFKogoRdO_Dg- 1 66456 1 1
+/phpinfo.php/RK=0/RS=pxhalGfAfcjXsK6zFyVLpjensRk- 2 132841 1 2
+/phpinfo.php/RK=0/RS=bh3UUhVLblm4T6qT7U1JxPTSJII- 1 66510 1 1
+/phpinfo.php/RK=0/RS=F6Ul.pQobeGlgktuSHro5lhDQHk- 1 66461 1 1
+/phpinfo.php/RK=0/RS=QQZfmeRy1j3twMxDcM7xKOyEPPA- 5 332287 5 5
+/phpinfo.php/RK=0/RS=2.17lo9vRMS8vmdvIx5BLsFELE4- 1 66373 1 1
+/phpinfo.php/RK=0/RS=PmBM71F9tb_7CyzoT_9Rh4Qv_f4- 1 66461 1 1
+/phpinfo.php/RK=0/RS=wzNuEgVikjUwR1m0WTQ7eQ87PY8- 1 66393 1 1
+/phpinfo.php/RS=^ADAh5OEC6eIZGoDex48RnNsK.DOnCo- 1 66364 1 1
+/phpinfo.php/RK=0/RS=XCif8qd1NNc9dw84Y2ywaefwUuk- 1 66456 1 1
+/phpinfo.php/RK=0/RS=DT3q9n23snBRRdXPgJLG6gWrpws- 1 67014 1 1
+/phpinfo.php/RK=0/RS=Y3UoEduSRLgeb.ewCA_BPK_Z8mg- 7 464630 6 6
+/phpinfo.php/RK=0/RS=412MzUCJSTlr5eGeENz0VL2Qmtw- 1 66455 1 1
+/phpinfo.php/RK=0/RS=IXDz4YtvYU8yvR0sXxxkGAJbbqs- 5 332137 5 5
+/phpinfo.php/RK=0/RS=LwuaMaB.OT0HAzQQ4BWubopHLiw- 1 66377 1 1
+/phpinfo.php/RK=0/RS=.MBC1I9jeyyOfPYZTiQ7mM2AHug- 1 66463 1 1
+/phpinfo.php/RK=0/RS=FFszYUJ.Hex6pY_5UuGlA85dQzg- 1 66642 1 1
+/phpinfo.php/RK=0/RS=_jQyiqDXm1fUXHGW2OJTOameI7Y- 1 66373 1 1
+/phpinfo.php/RK=0/RS=WmtdbsoNmyPjUdDGtmHxRmsrZv4- 1 66452 1 1
+/phpinfo.php/RK=0/RS=fA7Hle42A4LqI85qw6mfBtZU5EI- 1 66387 1 1
+/phpinfo.php/RK=0/RS=iTMDghJQp0SegsYpNuTfaiif4Fc- 1 66459 1 1
+/phpinfo.php/RS=^ADAbSsh7LeHCYEbIez1OE18hIWKCwo- 2 132890 1 2
+/phpinfo.php/RK=0/RS=5wX_YsL5zelItXMHUEwjfkMM06M- 1 66375 1 1
+/phpinfo.php/RK=0/RS=yiWUgSM6UgmjWT9vvyYO1Y_RLfI- 7 464977 7 7
+/phpinfo.php/RK=0/RS=X51JWSemW9.rfOMh0KPgax4W4MI- 1 66371 1 1
+/phpinfo.php/RK=0/RS=tOq19Zbu_I2DnjNNhLYJ6Bx5Pfg- 1 66445 1 1
+/phpinfo.php/RK=0/RS=IT0Mn2gsiV4_NVoaLD2BnwRQqM0- 1 66387 1 1
+/phpinfo.php/RK=0/RS=xOkSyGQJKPBQAGgekXIVgIRk.co- 2 132717 2 2
+/phpinfo.php/RK=0/RS=gIMHxlWtfH.TOQaADkTlEsM.A1M- 1 66377 1 1
+/phpinfo.php/RK=0/RS=ie9CoHBhJxuo3mnuxojXqGHrM9M- 1 66459 1 1
+/phpinfo.php/RK=0/RS=0FtiOwr5w9NJWcH_8nhEqmDzz4c- 6 399187 6 6
+/phpinfo.php/RK=0/RS=FZjgMIDdWns0ORznZxyP.KZ41Fk- 3 199536 3 3
+/phpinfo.php/RK=0/RS=pXFg2M1DUtTLZKbd6ANHOBwQIDI- 1 66377 1 1
+/phpinfo.php/RK=0/RS=8SXYCF.XRl0BaF49xvUTu6Su2mw- 2 132905 2 2
+/phpinfo.php/RK=0/RS=9XOjDRZzwpiTUzdjRaQ0z8zXRPQ- 2 133301 2 2
+/phpinfo.php/RK=0/RS=5RryDAcVra.HHrb4RPGzjkTpwvM- 2 132820 2 2
+/phpinfo.php/RK=0/RS=hp7MyTcyOxkRVifU6qwVRGpfD8Y- 1 66674 1 1
+/phpinfo.php/RK=0/RS=kuRU341Jhu4yUk5kVXL9jXw8VL4- 1 66459 1 1
+/phpinfo.php/RK=0/RS=mt3FXiXegczrNSR47mRHXj4f478- 1 66377 1 1
+/phpinfo.php/RK=0/RS=SKUzTVzcfUKB6E3mrInZUM9jMRI- 1 66463 1 1
+/phpinfo.php/RK=0/RS=N9e9zIO7eXRlCUTGq3c45A31KHQ- 1 66452 1 1
+/phpinfo.php/RK=0/RS=fPDbu2DR3mAa56o3BPFnSpbQyf0- 1 66459 1 1
+/phpinfo.php/RK=0/RS=EqRrze2p772Ec_Q_Sw1gbtndb0k- 1 66342 1 1
+/phpinfo.php/RK=0/RS=OjrQi1rYdaVFTHPs5HO.F8tNRYk- 1 66461 1 1
+/phpinfo.php/RK=0/RS=hLKQnMMEuSLinNXLV1LWDmtL.8w- 1 66459 1 1
+/phpinfo.php/RK=0/RS=fZPRQ6cUVAaYYqHUf93tfr6.v3c- 1 66447 1 1
+/phpinfo.php/RK=0/RS=HVZUazn6w6Smp_Dn.bot7UmWMWQ- 1 66560 1 1
+/phpinfo.php/RS=^ADA0F9AJqHAujmi9jDLezzkHzceOrQ- 1 66443 1 1
+/phpinfo.php/RK=0/RS=F2_uKDl.SJNWuvXzLDBH4xJrpTc- 1 66375 1 1
+/phpinfo.php/RK=0/RS=Jn6lMKRD.hSuRX_.MDf7Mqu0_FU- 1 66461 1 1
+/phpinfo.php/RK=0/RS=f7td2.EbRk42Kem47kxce6...i8- 1 66369 1 1
+/phpinfo.php/RK=0/RS=2tOiGU8jPL3I3puz9AenCTFFJE4- 1 66393 1 1
+/phpinfo.php/RK=0/RS=9c.Ku3Io0Ep0gr_xsKbw8kGjV78- 1 66371 1 1
+/phpinfo.php/RK=0/RS=R0K89NGnH6FGecbu00r4cv7BizE- 1 66377 1 1
+/phpinfo.php/RK=0/RS=.EPkcXgsWS6IFBAPcTGtc4Rqpxo- 1 66373 1 1
+/phpinfo.php/RK=0/RS=V.eUn6DO1_4H7MPbEozbHJmjWK0- 1 66375 1 1
+/phpinfo.php/RK=0/RS=_qaGRCh0UOHUrdEt_xIMQaelGIU- 1 66375 1 1
+/phpinfo.php/RK=0/RS=h8yoa2JhAcmOShC64ba9SDmmAgs- 1 66453 1 1
+/phpinfo.php/RK=0/RS=w4tKMY2vB78xj1o9TadtbK_Ge6s- 1 66638 1 1
+/phpinfo.php/RK=0/RS=wtsOJEfKtjlPa1q3xrK4ww8MbZM- 1 66465 1 1
+/phpinfo.php/RK=0/RS=6UC8rqfTM0UsTnDVTK8qBuRYNg0- 1 66387 1 1
+/phpinfo.php/RK=0/RS=mOtvfVGaUOUdE7.7me7sh3gjzVM- 3 198859 1 2
+/phpinfo.php/RK=0/RS=cbbDfiFxa3qRDx4UUUVcibUqmo0- 1 67008 1 1
+/phpinfo.php/RK=0/RS=XPxjnziJNeGYSbIbd9o29toNhkI- 1 66463 1 1
+/phpinfo.php/RK=0/RS=ANWvoIN.5lby6glCeUN1G4.6EkU- 1 66451 1 1
+/phpinfo.php/RS=^ADAvUd_t59nOCiMcK9h90izxpg6SIw- 1 66456 1 1
+/phpinfo.php/RK=0/RS=ZcbVNmR6fF0XOfDkqX0fEUUs7o4- 1 66465 1 1
+/phpinfo.php/RK=0/RS=6tVZhBuVcFQX5jDvJ2Sfws4OQHM- 1 66640 1 1
+/phpinfo.php/RK=0/RS=efD_5_YiWRxY9g_G06maqn5cU9w- 1 66638 1 1
+http://cscecalgary.com/phpinfo.php 4 264065 4 4
+/phpinfo.php/RK=0/RS=kJQMRCDpHBdYaHYiHPYgVtleRI0- 1 66393 1 1
+/phpinfo.php/RK=0/RS=lPwmbgPLpw2JgEWiQ0TaY4Zeowc- 1 66506 1 1
+/phpinfo.php/RK=0/RS=tOGYQkkWEQMlbP2F7AkduU4BiVw- 1 66459 1 1
+/phpinfo.php/RK=0/RS=mdk.8kLZf44bF7Dlec67x9RHogw- 4 266380 4 4
+/phpinfo.php/RK=0/RS=eictONVRFbb4MAaG4FFMRg9XvTA- 1 66377 1 1
+/phpinfo.php/RK=0/RS=jO.iJ4BPGCH0BLemkjExLULpZ38- 1 66452 1 1
+/phpinfo.php/RK=0/RS=uqSu5t35z6.XjaOV9iiFAQbziqQ- 1 66377 1 1
+/phpinfo.php/RK=0/RS=Fyz8Hvvo0WfTX92gQFxfigWGSok- 1 66379 1 1
+/phpinfo.php/RK=0/RS=inkB4tcPOIVszzIh5KR18LQoAAE- 1 66463 1 1
+/phpinfo.php/RK=0/RS=pk15P9kaWuYs4BrIKEcy7Tq_4dg- 2 132914 2 2
+/phpinfo.php/RK=0/RS=JewzeJYDlgL4y6vW2N14A9NJF98- 1 66386 1 1
+/phpinfo.php/RK=0/RS=BMZMO1uK2ICJsuWrM99yYMKSRCo- 1 66377 1 1
+/phpinfo.php/RK=0/RS=U792nO1QGdG5zGuoCt2Wh6QaVK0- 1 66457 1 1
+/phpinfo.php/RK=0/RS=SzrxTSra8eH8Bhq_RhWHt2cLlcg- 1 66556 1 1
+/phpinfo.php/RK=0/RS=s1KIu8cQHXyON3pA9kHx.PpV9OU- 4 265680 4 4
+/phpinfo.php/RK=0/RS=GqhDw9x2XYCWUAgsner7dWhtw_M- 1 66375 1 1
+/phpinfo.php/RK=0/RS=kUzan.KaPcm7S3wf7y7PDgULgyQ- 1 66375 1 1
+/phpinfo.php/RK=0/RS=kV2ISad7kY1XYb3Mu.Ovp8mLGl8- 1 66449 1 1
+/phpinfo.php/RK=0/RS=zMjJx3qJvH4dtfga6YLc795iXes- 1 66391 1 1
+/phpinfo.php/RK=0/RS=_X5vMHMSdVWfDbglz18XxBR3_ag- 1 66379 1 1
+/phpinfo.php/RK=0/RS=Y1pfvwu38L6PajnMKwl596QqQP4- 3 199391 3 3
+/phpinfo.php/RK=0/RS=QDCZhZz0JfvBfQc13mYeuQONRoo- 1 66377 1 1
+/phpinfo.php/RK=0/RS=V.3vQO2tpoYx_5Gw4s4UWPv8N7w- 4 265642 3 3
+/phpinfo.php/RK=0/RS=qE8CatCVtewjlmUfdBG95117rkE- 5 331999 5 5
+/phpinfo.php/RK=0/RS=52duh8OH4OVHa7JHSXd9hx2I6Ok- 1 66463 1 1
+/phpinfo.php/RK=0/RS=6D3Cz11lrWSzs9Ygn6bPBRnf8PM- 2 132837 2 2
+/phpinfo.php/RK=0/RS=XP11zww.T8J5eefHZmsezwC2_EU- 1 66463 1 1
+/phpinfo.php/RK=0/RS=ar2JIqif6CpLLcAivo.elgk5NDs- 1 66457 1 1
+/phpinfo.php/RK=0/RS=1GjqX9VZFO5snFHHhe9M61528Fw- 1 66389 1 1
+/phpinfo.php/RK=0/RS=S7kvGD8YWgMY2I6mgiucC5Shggc- 1 66461 1 1
+/phpinfo.php/RK=0/RS=XnDNVGhaqf0IaCu7pguyBH2SLEw- 1 66463 1 1
+/phpinfo.php/RK=0/RS=88NenwCK655vHxq7WvpvdS4dSXY- 1 66371 1 1
+/phpinfo.php/RK=0/RS=t53vAS4V.wwnH1CwUY7NT81Nq.0- 1 66463 1 1
+/phpinfo.php/RK=0/RS=VPt0s1GbuP6BQgCjqReX438OMTA- 1 66375 1 1
+/phpinfo.php/RK=0/RS=_FO6B1Vm2VsO1THoV04LYrHZqlI- 1 66461 1 1
+/phpinfo.php/RK=0/RS=L3gRwX4nUHPkxOs4wW8T1S65KrQ- 1 66809 1 1
+/phpinfo.php/RK=0/RS=UfZJvyhpsY3CzM0XX0ugVkiJbCs- 1 66448 1 1
+/phpinfo.php/RK=0/RS=nfzUcCe0uS21TkkYfMHnK7ewkFk- 1 66387 1 1
+/phpinfo.php/RK=0/RS=M.cYuibWCGKOHf1eV1xnD_E1ums- 1 66461 1 1
+/phpinfo.php/RK=0/RS=WWBGlN0a2BSHQGrr4qcjBaIPAuw- 1 66375 1 1
+/phpinfo.php/RK=0/RS=UXECjq1vKIV23mtU_OEougsnkEA- 1 66371 1 1
+/phpinfo.php/RK=0/RS=RrgtLW2cZJWKc7rGvclhVR7fD8k- 1 66467 1 1
+/phpinfo.php/RK=0/RS=0n5tvm1WFuWHvh9VBETdxPOG_Y8- 5 332139 4 5
+/phpinfo.php/RK=0/RS=4GQVOHtDoRSKaiA3r1PvUfCThG8- 1 66451 1 1
+/phpinfo.php/RK=0/RS=89w3b03MEjJchStfOWS6mWoJnnQ- 1 66467 1 1
+/phpinfo.php/RK=0/RS=FAo4f1XjzpVD0snKu25wqU2FkSE- 1 66371 1 1
+/phpinfo.php/RK=0/RS=rMPkoCMY1pPALcEZNe2XKWGm_mg- 1 66451 1 1
+/phpinfo.php/RK=0/RS=IyKuWz87hRB215yrCKCF052DgX0- 1 66461 1 1
+/phpinfo.php/RK=0/RS=Y.TdW_RdMayHp8aKcYm7J_czteE- 1 66377 1 1
+/phpinfo.php/RK=0/RS=nl5ffXdR1jlryaTDxLv4axQUdgk- 1 66465 1 1
+/phpinfo.php/RK=0/RS=2dx6EMZnPuD2JSHWKhjpRYx01Uo- 1 66457 1 1
+/phpinfo.php/RK=0/RS=.KzGDof62SFVKM9AyAqOOqqCLm0- 1 66453 1 1
+/phpinfo.php/RK=0/RS=dyo0IkZrLO8cCrtEs25EJg4cssI- 2 132912 2 2
+/phpinfo.php/RK=0/RS=guNHal6an2r2C0Y7pdnyPjpXMGM- 1 66457 1 1
+/phpinfo.php/RK=0/RS=EpSjTZ2bt2OMl9j78K_3BZTF0uc- 1 66457 1 1
+/phpinfo.php/RK=0/RS=UEaokE_9OTPRDjw8Go4eaMttwG8- 2 133098 2 2
+/phpinfo.php/RK=0/RS=XkF64BB37TII2fvNKrK6dXLtn74- 1 66371 1 1
+/phpinfo.php/RK=0/RS=VTCvL7vEZTd.gPwXjgx9862wF0g- 1 66391 1 1
+http://cscecalgary.com/phpinfo.php/RK=0/RS=FPTzdTqvjnoVhVc4TuRYdsd9XVg- 1 66686 1 1
+/phpinfo.php/RS=^ADAhRfkB2gJGXnz9BuqKv2An8eKsVk- 2 132882 2 2
+/phpinfo.php/RK=0/RS=mE3jM_lMTbx89V_y_VuwZuFaCtM- 1 66514 1 1
+/phpinfo.php/RK=0/RS=uEV0Y3BPMCdYlDZEzhDWB7o0NF8- 1 66379 1 1
+/phpinfo.php/RK=0/RS=lX.GkQZWrpscR8xlKTXcFbQ0Lfg- 1 66447 1 1
+/phpinfo.php/RK=0/RS=oIkm9Jo4VgEoow_NMW9s0kYd14o- 1 66447 1 1
+/phpinfo.php/RS=^ADApmWOvaWU98hHW3lueWiMPAs_z.Y- 1 66456 1 1
+/phpinfo.php/RK=0/RS=SBn2lL7nv3iUZw3TSmMgxCI4r94- 1 66371 1 1
+/phpinfo.php/RK=0/RS=koJoHHuBjJF6RDbFSu78LMPHpAk- 1 66389 1 1
+/phpinfo.php/RK=0/RS=qJzP.3sKPGMLBf.xhI126hzD6j4- 1 66461 1 1
+/phpinfo.php/RK=0/RS=2EpqsB1Aben5GRF4s1svKmwSWjs- 1 66369 1 1
+/phpinfo.php/RK=0/RS=mLMucPQWiRzfKz_JzkB666P4XMI- 1 66461 1 1
+/phpinfo.php/RK=0/RS=da.YWaifHfQh5DkjUU3bBfHQ70c- 1 66926 1 1
+/phpinfo.php/RK=0/RS=dXEegfolBBhw7NhSCQCLqbe9Jr8- 2 132848 2 2
+/phpinfo.php/RK=0/RS=BXmH8Rmj2PJMNCdgsBwtbe1b3Fc- 3 199367 3 3
+/phpinfo.php/RK=0/RS=gMpDVBdmNht.WekaALU.dLUHF9k- 1 66463 1 1
+/phpinfo.php/RK=0/RS=3FvllIrYd_G6NmohQNnFuLTTEQ0- 1 66453 1 1
+/phpinfo.php/RK=0/RS=JF9M8YRdJK.Su5Qf574csIxzc2E- 2 132924 2 2
+/phpinfo.php/RK=0/RS=NTPuBCyq4JKyy5LboR4tb1EqNF8- 1 66344 1 1
+/phpinfo.php/RK=0/RS=axnQJNOohYSDOVXjuM2hkSgQc14- 1 66448 1 1
+/phpinfo.php/RK=0/RS=UaFbP1wvwAnVJH.UTKy3Cudi3vw- 1 66389 1 1
+/phpinfo.php/RK=0/RS=9.oIpKaQcf6eJkpDHxzNuX7mW5Q- 1 66459 1 1
+/phpinfo.php/RK=0/RS=CH5XDKrl3Aud2FnXj6dwWMwc3wg- 1 66379 1 1
+/phpinfo.php/RK=0/RS=F562DM1F.un5h8kpw.AwNqUil6w- 1 66459 1 1
+/phpinfo.php/RK=0/RS=LboN1zLAq1g7l2o1w6kR8B.mX7o- 1 66393 1 1
+/phpinfo.php/RK=0/RS=ZaG9yylU07iucEvoHPzG9XxX94A- 1 66455 1 1
+/phpinfo.php/RK=0/RS=MgWADAQbdxadPSizzvL8XaSf1SY- 1 66461 1 1
+/phpinfo.php/RK=0/RS=T9F3tJaWrPfhCfD.KbYY7CkcMos- 1 66379 1 1
+/phpinfo.php/RK=0/RS=JytYO7LMNNgb319CoZkEoNW18Dw- 1 66465 1 1
+/phpinfo.php/RK=0/RS=KD7tcdOdE5lTKDPmoDEPp17wca0- 2 132839 2 2
+/phpinfo.php/RK=0/RS=C1ieGA07isKBBg38iGv5hFYoMxA- 6 400898 6 6
+/phpinfo.php/RK=0/RS=bsEGLqC5Mnh.W1fpithopPMyR8I- 1 66462 1 1
+/phpinfo.php/RK=0/RS=dinxTj50qo1amIS28lcem2fUCyI- 1 66459 1 1
+/phpinfo.php/RK=0/RS=CH01WCf_9u2LWu7nOCICmq_4_IY- 1 66455 1 1
+/phpinfo.php/RK=0/RS=xFH9WiQlLsy_pYSk8wartnvdfRI- 1 66377 1 1
+/phpinfo.php/RS=^ADA7ez5wl8U0OWLaarm_g5s3jmCIt0- 6 398364 6 6
+/phpinfo.php/RK=0/RS=JU_qdqHcLzfathoTX8T4AE0IB80- 1 66375 1 1
+/phpinfo.php/RK=0/RS=5JUAG7tLk9lQsgw.Tm2A7DdRTis- 1 66459 1 1
+/phpinfo.php/RK=0/RS=GJQSz9bfL7Ns1Z5e5aUkUcxvWh0- 1 66465 1 1
+/phpinfo.php/RK=0/RS=cahYbjAZOe3tpiHHsLv4G.NE1ug- 1 66392 1 1
+/phpinfo.php/RK=0/RS=PWfabnBTd3SL7jd1lBmiCBJTJAI- 1 66455 1 1
+/phpinfo.php/RK=0/RS=YRqjD0mjKs1zejHfezzU6.Ck4gA- 1 66455 1 1
+/phpinfo.php/RK=0/RS=Hn55yRp1JIMU7HRiIO28Ax3Y96g- 6 398854 5 5
+/phpinfo.php/RK=0/RS=mImAEN7Uo2f_8pFDaolDNq6TCL8- 1 66461 1 1
+/phpinfo.php/RK=0/RS=UCg7RX6fdEhrtPDhiTiyd8DyzTg- 1 66447 1 1
+/phpinfo.php/RK=0/RS=yECthS7cidUsWtsvj0oX.DZEkjo- 1 66377 1 1
+/phpinfo.php/RK=0/RS=dToYd7GsCwl82Y5RIXashtI8vnc- 1 66455 1 1
+/phpinfo.php/RK=0/RS=yYodop9D1uDr7bP.Lms7EAadRfg- 2 132889 2 2
+/phpinfo.php/RK=0/RS=bkM0i8AwCl1vPIgiMmIRoUMxgBg- 3 200282 2 2
+/phpinfo.php/RK=0/RS=_bkGCz1kdrQxCFhxbAK16DfBh9U- 1 66457 1 1
+/phpinfo.php/RK=0/RS=sRaFkb7A9QAjAevXXcdyzUi5kmI- 3 199227 3 3
+/phpinfo.php/RK=0/RS=G3e1AeWM_dRvetgEklu2vTfLLR0- 1 66781 1 1
+/phpinfo.php/RK=0/RS=fDwSbNnf3ZaNYPZUvt_D7WScZJs- 1 66457 1 1
+/phpinfo.php/RK=0/RS=0XS.Vaa6.lZS.DDHibs0myvwhLY- 1 66371 1 1
+/phpinfo.php/RK=0/RS=s4vSdtMcRBcH.lqtJADNeIg3v4Q- 1 66452 1 1
+/phpinfo.php/RK=0/RS=LZvVFShfT8NHyEhIQznXlrv_mOE- 1 66375 1 1
+/phpinfo.php/RK=0/RS=SLboGwa7UreMLJqjPdk_S9N3r7U- 3 199151 3 3
+/phpinfo.php/RK=0/RS=Rwqw_yv.PYmOZQkD5PBRsiRYGWY- 3 199133 3 3
+/phpinfo.php/RK=0/RS=XDWv4PhHqOc2ql62v.ferltad8k- 1 66367 1 1
+/phpinfo.php/RK=0/RS=qUQ5nPLATFniHqrduZvaMOioGjE- 1 66459 1 1
+/phpinfo.php/RK=0/RS=hcDwyxFJUjvoo80yRij7PNGZtRQ- 1 66461 1 1
+/phpinfo.php/RK=0/RS=4zOXdAz6g0WC3GZjNHHtM1bYLao- 3 199365 3 3
+/phpinfo.php/RK=0/RS=cOTHLwUPhXO7Z1_A1Tnec1Y8878- 7 464925 6 6
+/phpinfo.php/RK=0/RS=2lmGUMJ5uJn9otNzIMo5ZQOD3g0- 3 199284 3 3
+/phpinfo.php/RK=0/RS=rfqmKOVPvdegy.dBXhVycU2ktWs- 1 66463 1 1
+/phpinfo.php/RK=0/RS=xQoPWxhCCZJgkq8yg5ezjiERW_c- 1 66554 1 1
+/phpinfo.php/RK=0/RS=YrzewB75E7Lc1lg.VUQ64IUSNO0- 1 66389 1 1
+/phpinfo.php/RK=0/RS=Sul_aRE._3hz2PcZBFYIe1rRa9Q- 1 66457 1 1
+/phpinfo.php/RK=0/RS=10QCY48UjVhjvIv.MrwJ0Jv09zA- 1 66457 1 1
+/phpinfo.php/RS=^ADAkwZ00dMJ4IUfa7Rt9THMGYmylwc- 7 467098 7 7
+/phpinfo.php/RK=0/RS=dBONOWhAMl4rbB0axyBGfUoXjG0- 5 332637 5 5
+/phpinfo.php/RK=0/RS=wSgs6QXFaEhgMK1ZBaQ4NiJN9pM- 1 66459 1 1
+/phpinfo.php/RK=0/RS=qNZ6_XAlU6wyz.X_WchZhgSHRcc- 2 132836 2 2
+/phpinfo.php/RK=0/RS=dGg4pQfwzWKaKPvcm1EDOmXfjN8- 1 66452 1 1
+/phpinfo.php/RK=0/RS=zi2D23T8ggBN40F6XOJPIDnP.bE- 1 66465 1 1
+/phpinfo.php/RK=0/RS=eyxeD60G89Fbd09w7lIMS_0R2Es- 1 66375 1 1
+/phpinfo.php/RK=0/RS=vbQ5mo82nVF_Av8CF9g2gVJRoy0- 1 66377 1 1
+/phpinfo.php/RK=0/RS=48h5nBLjxv0auaCqtYIJHaF2fYw- 1 66456 1 1
+/phpinfo.php/RK=0/RS=r88adaS7BKqvnswuM_BDoDxkg6M- 1 66453 1 1
+/phpinfo.php/RK=0/RS=sA3h8gNx8Vr84rkJ00Jwcq3migc- 1 66375 1 1
+/phpinfo.php/RK=0/RS=pjTfL1dSBSTd5gcOJEyKCsUtgJ8- 4 266534 4 4
+/phpinfo.php/RK=0/RS=DHD2RGiGWt.DKzFz24AJo0EifKE- 1 66447 1 1
+/phpinfo.php/RK=0/RS=MmbLon5G1ILMzzXvjlSDs3JQ2Ng- 2 132472 0 0
+/phpinfo.php/RK=0/RS=I9HDz06xlUWjrcv2_59qaZkXQ3s- 1 66389 1 1
+/phpinfo.php/RK=0/RS=oX4Tp4lhDfA7cs4yNKaJYz84ODA- 1 66463 1 1
+/phpinfo.php/RK=0/RS=4xUBr6AWYTxDPZ4dhORzgitdQ.k- 1 66465 1 1
+/phpinfo.php/RK=0/RS=Q6aLiudnu9tLFq_XIL9j_6MHbTU- 1 66461 1 1
+/phpinfo.php/RK=0/RS=_GV4rZULe4IXReVB3agrnmhlnTQ- 1 66373 1 1
+/phpinfo.php/RK=0/RS=2XkEsqXLMYUiMTQgSNhERqIZjjA- 1 66377 1 1
+/phpinfo.php/RK=0/RS=wKKBAkw.ydzQO1YwycIw4cakWOY- 1 66391 1 1
+/phpinfo.php/RK=0/RS=JqdDpJi1iRZQHDCDxaYyyCZQDnw- 1 66373 1 1
+/phpinfo.php/RK=0/RS=EDsShCdX.nK4TmOTKvL28yS.tmQ- 1 66445 1 1
+/phpinfo.php/RK=0/RS=B.IqnFbwTHU.qHzxY1wUBaq496I- 2 132820 2 2
+/phpinfo.php/RK=0/RS=DQTuEyo7o_9Ke1JiQoGIPVk9QCI- 6 398383 6 5
+/phpinfo.php/RK=0/RS=4sboanaeWZ1EYWk5SOygaqwETn8- 1 66459 1 1
+/phpinfo.php/RK=0/RS=INwgPQveyTm6I9c6zHYN2pLQ_XU- 1 66373 1 1
+/phpinfo.php/RK=0/RS=w6chHxYL_v3LaJLiyKsNJ7sXMCw- 1 66455 1 1
+/phpinfo.php/RK=0/RS=EmxiTbm5wW5X3I4YO6S3TBr6.f4- 1 66463 1 1
+/phpinfo.php/RK=0/RS=k3v2RRrV8QaJmRsr88ncVCUZFA4- 1 66642 1 1
+/phpinfo.php/RK=0/RS=CV35SmP79gL8BvYzE5xjjRSr6PU- 3 199828 3 3
+/phpinfo.php/RK=0/RS=MDVWv3QQkHd1alTCRUM4FLjqg10- 1 66459 1 1
+/phpinfo.php/RK=0/RS=yf5UwtK5zTtTe4B0pJp8gdLn8fk- 4 265752 4 4
+/phpinfo.php/RK=0/RS=X1cmD.WesFSF0bZ8mmkSR.wwr0o- 1 66558 1 1
+/phpinfo.php/RK=0/RS=FuCUswk7axWPuAhXgLAS9IzGIc0- 1 66459 1 1
+/phpinfo.php/RK=0/RS=W7nF4nHZ.7Ch5LF7rV2fsF6Tc10- 1 66393 1 1
+/phpinfo.php/RK=0/RS=5MvpFC4XgKWiLyHR8arryElMu1I- 4 265840 4 4
+/phpinfo.php/RK=0/RS=utk5PpcONfGu802tR5IbXJ9p0ik- 1 66373 1 1
+/phpinfo.php/RS=^ADA7JsrXq5h0vNMij5VDPoSeShLTQU- 5 332239 5 5
+/phpinfo.php/RK=0/RS=mELJPdG3NhuYF4q1u0MNWQIbKGQ- 1 66371 1 1
+/project/rss.xml 1 8450 0 1
+/phpinfo.php/RK=0/RS=VCDifaiKLQSwwsVX2NqzLanzzPY- 1 66461 1 1
+/phpinfo.php/RK=0/RS=GBzjZnAhbu2dDIi34FbxEWdHo98- 1 66455 1 1
+/phpinfo.php/RK=0/RS=.lYaP0dANQ75xJzT8xsYkfUfhxQ- 1 66449 1 1
+/phpinfo.php/RK=0/RS=NutaRuR8XNcpICLPZDR4yEPwUfQ- 1 66461 1 1
+/phpinfo.php/RK=0/RS=2u_U9m9aT9Rx_BsE46Ka5pA7hJA- 1 66375 1 1
+/phpinfo.php/RK=0/RS=Qqk7JYYsuD64iPuqKuF7PES8.TI- 1 66463 1 1
+/phpinfo.php/RK=0/RS=a.iPIL7ouFs5ubjqwxSk0izgJ3Y- 1 66463 1 1
+/phpinfo.php/RK=0/RS=89PInyiUiJqDIp6HwdANO0Zn0Ko- 1 66459 1 1
+/phpinfo.php/RK=0/RS=STdoI896mz1LNwShDAPWeDMkmjQ- 1 66461 1 1
+/phpinfo.php/RK=0/RS=Lx.OQ2EKFaDL8owtGh0WVNoms8E- 1 65346 1 1
+/phpinfo.php/RK=0/RS=qtuzmzyrcU0xep7Oc5PUz9zOaz0- 1 66465 1 1
+/phpinfo.php/RK=0/RS=4iGRlHhYsu5w9wyaRcpB2LcUYsI- 2 132918 2 2
+/phpinfo.php/RK=0/RS=z.woeJYp.nla0rydi7UFLnPYip4- 1 66375 1 1
+/phpinfo.php/RS=^ADAyvUYaM4aBtuiIgK.WJ68Dh9ce84- 3 198980 3 3
+/phpinfo.php/RK=0/RS=nhAoT5Egw_p9dISObM_VTQIvoCk- 1 66461 1 1
+/phpinfo.php/RK=0/RS=uU99ryQ74NVrSsl6rZ31bbDl5X4- 1 66456 1 1
+/phpinfo.php/RK=0/RS=wvDhyPL.6Q5asNTkcZ6GfoFukYE- 1 66449 1 1
+/phpinfo.php/RK=0/RS=TczAp8AvWh8NhkVeSuQvW48Ypjs- 2 132756 2 2
+/phpinfo.php/RK=0/RS=jxUlPI4WvLf7WvpCVPKcWA4aFHY- 1 66461 1 1
+/phpinfo.php/RS=^ADAdAGI8_F5ybb28VJwsJpCQ3FD_Dc- 6 398726 6 6
+/phpinfo.php/RK=0/RS=D8Kw1IgImHFDCzqHhUOr_tVk8ec- 1 66375 1 1
+/phpinfo.php/RK=0/RS=MQ8OIl6HUk_cVqowcmKMSzG.Ea8- 1 66463 1 1
+/phpinfo.php/RK=0/RS=tIuSpx1KvCCFRT5l0oqFpOYPOmk- 3 199731 1 3
+/phpinfo.php/RK=0/RS=1octll03Aoon0POABKlaIixjr0s- 1 66373 1 1
+/phpinfo.php/RK=0/RS=FyqmFu3.H0v3vpE4uLAi6du68gM- 3 199321 3 3
+/phpinfo.php/RK=0/RS=KDnluswm_hv9ZW_LmtE0FOWQzp4- 3 199262 3 3
+/phpinfo.php/RK=0/RS=sK3uguyJbjJiRvMrjfL5Sk5evJo- 2 132852 2 2
+/phpinfo.php/RK=0/RS=AgYUR1kE_DnN5ZsCmj9d8jbaCPs- 1 66457 1 1
+/phpinfo.php/RK=0/RS=8CehgHtn88FkCEe.vTQoIMXH4NM- 1 66452 1 1
+/phpinfo.php/RK=0/RS=L_ciFiAmJbnz7H7SSesc1VsdnOE- 1 66556 1 1
+/phpinfo.php/RK=0/RS=BGKgeR6qcwiCBHZGnQFxFd366kM- 1 66459 1 1
+/phpinfo.php/RK=0/RS=aJQfdlCqI1Xn5TzJUBbZJ2d3uDw- 1 66375 1 1
+/phpinfo.php/RK=0/RS=7sMVmtU3TK7QzUyCb0WNAHiIiEo- 1 66373 1 1
+/phpinfo.php/RK=0/RS=aWLp3Mla3BRCv2QUWvWvtGzp.5E- 1 66455 1 1
+/phpinfo.php/RK=0/RS=5TNUq8HVPzcP3mfNtMfKI3XFE7E- 2 132924 2 2
+/phpinfo.php/RK=0/RS=6QdIlNyOMMOHqK3CsRmPxV4E_f8- 3 199474 3 3
+/phpinfo.php/RK=0/RS=JhLTgk2y.WbKfvgJXP38USa.1yc- 1 66463 1 1
+/phpinfo.php/RK=0/RS=VvHapsmgFimrQBRs.78YJ915Hg4- 1 66463 1 1
+/phpinfo.php/RK=0/RS=WkOkcpm6ETFr8VGkGnwwfpLA0bo- 1 66373 1 1
+/phpinfo.php/RK=0/RS=o4gAdGl8mb1WYgSqXGFkg.HUPQo- 1 66346 1 1
+/phpinfo.php/RK=0/RS=ayEjlhQp0wLh7FReugHGKjMdcDw- 1 66455 1 1
+/phpinfo.php/RK=0/RS=cU10JJ3VC4NwfsmkKNoy0PxkfT4- 1 66467 1 1
+/phpinfo.php/RK=0/RS=dR8l4fM5..48FuEB1QDJlIStuOI- 1 66452 1 1
+/phpinfo.php/RK=0/RS=_kUAhhC2qUZ6bMeGdYi5MHZeJkY- 2 133638 2 2
+/phpinfo.php/RK=0/RS=GsFsqrEtmsWeZBQyRxgekfr6w1M- 1 66386 1 1
+/phpinfo.php/RK=0/RS=fl.5lTcYvsRt6MocMOd7YhaDS7M- 1 66373 1 1
+/phpinfo.php/RK=0/RS=S6T0hiBbh9sLVn0Wwh1lIeFheoY- 1 66455 1 1
+/phpinfo.php/RK=0/RS=exfKBMP91KD8FTBH3iyOXRBmD1o- 1 66449 1 1
+/phpinfo.php/RK=0/RS=39JSd1N9Noi_QRKyiOK2tIzY3TA- 1 66452 1 1
+/phpinfo.php/RK=0/RS=jfUJ2UKhT7vIFEwwuqWrPJR1MSU- 1 66467 1 1
+/phpinfo.php/RK=0/RS=3dfx3MWkFaGr.t8MP4_PZBMle9c- 1 66461 1 1
+/phpinfo.php/RK=0/RS=YfU6rHqHM2Dhf4D0ky76.mSpdPA- 1 66445 1 1
+/phpinfo.php/RK=0/RS=XLyXtYOxPEBs599s3XGcYMVQGq0- 1 66459 1 1
+/phpinfo.php/RK=0/RS=trjcBV7SJ8UracuIqGMVQl7RIes- 4 265821 4 4
+/phpinfo.php/RK=0/RS=gSddDfZHqIm_.HctVWBsJhCT10A- 1 66373 1 1
+/phpinfo.php/RK=0/RS=uLLA9of5lwkNQ1lJBCnAmbMH8Is- 1 66456 1 1
+/phpinfo.php/RK=0/RS=UNr6UrMzBVg9bA_7OB7Sy74PwcM- 1 66465 1 1
+/phpinfo.php/RK=0/RS=XmsjJZ8jXhAbkraBK_Ai.8FzE68- 1 66452 1 1
+/phpinfo.php/RK=0/RS=XUADrJr5yo51To7PPKOljwsEz4o- 1 66238 1 1
+/phpinfo.php/RK=0/RS=cuddJl7ICQ0_sCY_VPZzG48mxrw- 1 66377 1 1
+/phpinfo.php/RK=0/RS=S7k6ok7YVYQdGTdQFuUspWLZxlE- 3 199258 3 3
+/phpinfo.php/RK=0/RS=nlawjS2hG_bTLGi30YVBpbanh30- 1 66375 1 1
+/phpinfo.php/RK=0/RS=6r33ozoT6CXNFvXjzf3Euc0epHM- 1 66459 1 1
+/phpinfo.php/RK=0/RS=qXYqWOlyCejLISEY0nKWVEIYTrw- 1 66459 1 1
+/phpinfo.php/RK=0/RS=GE0AjGeQqulcb4nIo1P_rU8VbtU- 3 199387 3 3
+/phpinfo.php/RK=0/RS=cLclHPxE7QVenuAp_mgHiPL7q0s- 1 66377 1 1
+/phpinfo.php/RK=0/RS=tXuZOAr1iIqmve7a3BkpxedhUWs- 1 66459 1 1
+/phpinfo.php/RK=0/RS=O8e1FKxv9OQDdpLe7aJHN96gXso- 6 398275 6 6
+/phpinfo.php/RK=0/RS=INZiL5ZEmoYtnf968SACuaK0NVk- 4 265310 2 2
+/phpinfo.php/RK=0/RS=bwniwJwgiEZ4xwzpCyQ6NR2z_ZE- 1 66461 1 1
+/phpinfo.php/RK=0/RS=KiAQjv6NAmbbggNDQMOOnCMciS4- 1 66922 1 1
+/phpinfo.php/RS=^ADA2glrsIVd2JavbWxL1UBqh3bBsEI- 4 266768 4 4
+/phpinfo.php/RK=0/RS=sMgAPoDqsCW6MYzv_dXeId_HxB0- 1 66447 1 1
+/phpinfo.php/RK=0/RS=x11Za_H9r15X414g7TGVQDX_Q1k- 1 66373 1 1
+/phpinfo.php/RS=^ADAPczEUMPY.pVpkaSN_8ubDcWAm1I- 1 66454 1 1
+/phpinfo.php/RK=0/RS=VQEOzgzLBpv9i4HJe1Z8QFCCvJg- 1 66455 1 1
+/phpinfo.php/RK=0/RS=18MC1o3_4LV4X1NTstQIjQhq5iY- 1 66375 1 1
+/phpinfo.php/RK=0/RS=jHRorbQX0k9sVY5hY9MrnNo0zQ8- 1 66373 1 1
+/phpinfo.php/RK=0/RS=eeLTYVtdL7VgAahF8mzipBXgJUU- 1 66379 1 1
+/phpinfo.php/RK=0/RS=AzyRdwDKtfu51rl2LJfEqz5HNtw- 1 66375 1 1
+/phpinfo.php/RK=0/RS=sFZIUY.YrslM3liev2LvubwcWM0- 7 464821 7 7
+/phpinfo.php/RK=0/RS=Qw1ZnZjiHgLWeAYlw9OLYtZbnHA- 1 66391 1 1
+/phpinfo.php/RK=0/RS=v75B0IbUAt8b9.K9T14GN5HCuYs- 1 66375 1 1
+/phpinfo.php/RK=0/RS=6jKvINjN8mBS52qCguznINiQyKk- 2 132892 2 2
+/phpinfo.php/RK=0/RS=vViPJV2EXeLmTNh.6U4dl2rcNws- 1 66387 1 1
+/phpinfo.php/RK=0/RS=XBOsC4FmzuiN.krfIIsIrLPPbPU- 3 199387 3 2
+/phpinfo.php/RK=0/RS=Ji6.wMyTWs38MSHH4rPD9O6IRUw- 2 132924 2 2
+/phpinfo.php/RK=0/RS=.ZA9SffZZfqAW1KvaFiR6004jzs- 3 199287 3 3
+/phpinfo.php/RK=0/RS=iXNv73DwSWo.1hBkwpKjiFEwRIE- 3 199297 3 3
+/phpinfo.php/RK=0/RS=60Lm1ciZHvaryOO2vWdDQUduw20- 1 66387 1 1
+/phpinfo.php/RK=0/RS=w5R6y0o1Ye0mp7NZcmIpWmT5Mls- 1 66461 1 1
+/phpinfo.php/RK=0/RS=eUxOcga4KadnJA9x0qg0BO.9Xm4- 1 66443 1 1
+/phpinfo.php/RK=0/RS=Z5JWQ50NRyQHen7l0oY0cfx.gB8- 1 66447 1 1
+/phpinfo.php/RK=0/RS=iJEMipj7QA_jyV7.L0YQaOazqYY- 1 66388 1 1
+/phpinfo.php/RK=0/RS=z6XFd8KvU6E156ojFP7fJSOPG88- 1 66452 1 1
+/phpinfo.php/RK=0/RS=Bj0.TXSRzN97KwXAnXAzI5.GgQ8- 2 132916 2 2
+/phpinfo.php/RK=0/RS=fM_xdc.SePw7agPd3V9TCP.kZoE- 1 66452 1 1
+/phpinfo.php/RK=0/RS=_9v4av9UeSD_fI.VaBUJeZLb18U- 1 66463 1 1
+/phpinfo.php/RK=0/RS=UQ_Icik_wvaO0XNbQTGKQl9W92I- 1 66367 1 1
+/phpinfo.php/RK=0/RS=xUsCYXAzop0dKCH7jd_J_R1bQkg- 1 66461 1 1
+/phpinfo.php/RK=0/RS=I1KM2m202UL8wuqvqM5bl0ONzC8- 1 66373 1 1
+/phpinfo.php/RK=0/RS=iNfrhg5MYyngn4ag_PX9kM4PO4g- 2 132926 2 2
+/phpinfo.php/RS=^ADA_f3IdNHBBd2S7V8Gv668VtIz0vU- 3 199356 3 3
+/phpinfo.php/RK=0/RS=OKMN.umoI2x5bEMZaY4DqmxYO3M- 4 265756 4 4
+/phpinfo.php/RK=0/RS=9UzMIXY48opL6ibULGWSJbNAWnM- 1 66375 1 1
+/phpinfo.php/RS=^ADAsvvtmwMFEor7q3_Dh3AREM_mFRs- 5 332036 4 5
+/phpinfo.php/RK=0/RS=EAuW83K32vXENLFUQuQ0ETH4azc- 1 66377 1 1
+/phpinfo.php/RK=0/RS=J.YVk5i_3ulqhTZ8OdV8X4_XjXA- 6 398603 6 6
+/phpinfo.php/RK=0/RS=UDlc40y0aO6xywsVhJadUWKor4k- 2 133495 1 1
+/phpinfo.php/RK=0/RS=DZHLExUrO9pUiAR.WJ7jgsyt2qY- 1 66377 1 1
+http://cscecalgary.com/phpinfo.php/RK=0/RS=nxBWVh8v_hGEo.gTqNJh2C5pRac- 1 66666 1 1
+/phpinfo.php/RK=0/RS=7ix852Fq1TZUouEwwxcCQLVIQR0- 1 66375 1 1
+/phpinfo.php/RK=0/RS=HDR_oejYApfLE_tlvZxEJ.x.zvI- 1 66387 1 1
+/phpinfo.php/RK=0/RS=.i299H.CDfHmEOG.2aEnQWHjzSA- 1 66373 1 1
+/phpinfo.php/RK=0/RS=vWt1qpw.o1F6jb6rQ26GzOY69x0- 1 66449 1 1
+/phpinfo.php/RK=0/RS=i45hckARJdG0SVUbnYHHcU6iB8s- 1 66465 1 1
+/phpinfo.php/RK=0/RS=9wuTs8QeR2sRK0KdfIhjA6I6paM- 1 66375 1 1
+/phpinfo.php/RK=0/RS=XF3eVDLUKJXS6Pb_fnsKW0ZEh.0- 3 199385 2 2
+/phpinfo.php/RK=0/RS=9gyqmYhv21vLER4CPr4DOIVRaHY- 1 66568 1 1
+/phpinfo.php/RK=0/RS=jkYk4jvKp8mLlvNTkVyD78KDKjE- 1 66556 1 1
+/phpinfo.php/RK=0/RS=yxukCNhU2MzaV8vjHGokbJVDlyM- 4 266371 4 2
+/phpinfo.php/RK=0/RS=N4otueaDMbX5Rj_1aoIGkLl63jU- 1 66465 1 1
+/phpinfo.php/RK=0/RS=CgzOzMZVkyjXSFQ4ZTE7EMsRAc8- 3 199381 3 3
+/phpinfo.php/RK=0/RS=miV381DEX5KvMO69EC_eGOrgDhU- 1 66346 1 1
+/phpinfo.php/RK=0/RS=9VAP7EIS8ca4BRQj2Ks4wshH2aI- 1 66453 1 1
+/phpinfo.php/RK=0/RS=66LYbk6ntXIQ2E2vPUST8U_.iww- 1 66463 1 1
+/phpinfo.php/RK=0/RS=NLw2z6tTjVAQGr6R_iAOYuoJkbc- 1 66379 1 1
+/phpinfo.php/RK=0/RS=jvGuVjJSa_4GK84sUHJ6OE7yNLQ- 1 66373 1 1
+/phpinfo.php/RK=0/RS=HuD4UjYFGwqiopVZSXxHEM61Sss- 1 66459 1 1
+/phpinfo.php/RK=0/RS=F0QozXpPWZy1ghPDxoX9jx0uki8- 1 66465 1 1
+/phpinfo.php/RK=0/RS=UuRxqvg_n_i25sUXOaNOta7xwck- 1 66448 1 1
+/phpinfo.php/RK=0/RS=d2ZW3Vx34lylzkELCe666hpuOtI- 1 66389 1 1
+/phpinfo.php/RK=0/RS=s10.WtqF7_jsNCkUb4dcHpAJyBw- 1 66369 1 1
+/phpinfo.php/RK=0/RS=oV_djdLgepsQVVh.3bBo7gfvoc8- 1 66457 1 1
+/phpinfo.php/RK=0/RS=CyFveK9UWa9EvBZSxVMVZvbTlng- 1 66449 1 1
+/phpinfo.php/RK=0/RS=x2XdXfJ16SZjya1KGK6yDS4Rk_o- 4 265758 4 4
+/phpinfo.php/RK=0/RS=G9cIyrJHVpuC8O8xGfqODE9lNHc- 7 466079 5 5
+/phpinfo.php/RK=0/RS=oWdMYESMWUTaMTml2sQMgVT_TM8- 1 66236 1 1
+/phpinfo.php/RK=0/RS=wk_OeVNRg7n5m3wHqBfxGGcKqeQ- 1 66373 1 1
+/phpinfo.php/RK=0/RS=TTIt1Pk6UpiT1qP5OY8N5W.tbkU- 1 66454 1 1
+http://cscecalgary.com/phpinfo.php/RK=0/RS=E41lJxEgayadmi3qidNIvdQtPUU- 1 66607 1 1
+/phpinfo.php/RK=0/RS=0XE6n4MEoffZTsB.pm6gluRufjw- 1 66373 1 1
+/phpinfo.php/RK=0/RS=fSHotbdGT3ixRj_gdmaqrn98dQ4- 1 66375 1 1
+/phpinfo.php/RK=0/RS=ygzsnhozJYxoXnQOVQFUZqwwLFI- 1 66373 1 1
+/phpinfo.php/RK=0/RS=ZrVQXQpNtUws1qLjPfGaf6Fe0P4- 1 66389 1 1
+/phpinfo.php/RK=0/RS=4TI.bCDZpDczMpyCPtqU0Arm5Ek- 1 66377 1 1
+/phpinfo.php/RK=0/RS=7jOL1TEAfCU1gjx7Fuwc_p8w7bs- 1 66384 1 1
+/phpinfo.php/RK=0/RS=wrvIM1ywODxio3nuo2WJT0Z5zto- 2 132917 2 2
+/phpinfo.php/RK=0/RS=Wsz8cTaeTlaW.BwZLjsdcnr73Ms- 1 66377 1 1
+/phpinfo.php/RK=0/RS=XAT1z3UR9JHuNhxh2dpDDAfdHno- 1 66459 1 1
+/phpinfo.php/RK=0/RS=CT8oEJxYbe091k_xRan7Fysrm_8- 1 66389 1 1
+/phpinfo.php/RK=0/RS=h63VjMyk2b3OtT__uLWn6DkdHkA- 1 66375 1 1
+/phpinfo.php/RK=0/RS=BMhN3MEF7.5se_m8SI_oPUBbIX8- 1 66455 1 1
+/phpinfo.php/RK=0/RS=ART6mAZYE3.hpYypobF1vjxE6c0- 1 67012 1 1
+/phpinfo.php/RK=0/RS=6ta8W8_P6fJ6lcKuXjeYUSnbiJ4- 1 66454 1 1
+/phpinfo.php/RK=0/RS=pUgF8ReQE0m27InxO1OiYnVasSw- 1 66371 1 1
+/phpinfo.php/RK=0/RS=teZf8Lo1aVYsNVNNQ0b6.f0TsW8- 2 132838 2 2
+/phpinfo.php/RK=0/RS=XOqJNhyDUflzm_d4eNkt6kUDCo4- 1 66395 1 1
+/phpinfo.php/RK=0/RS=U8_crT1seQOxsls.wF4ptUcOjPA- 2 132470 2 2
+/phpinfo.php/RK=0/RS=q1CHB5pU_3DnYG1mRiLjEgbHph8- 1 66550 1 1
+/phpinfo.php/RK=0/RS=q1HQ.CxjFEbXonl3qliBgwEieF0- 1 66996 1 1
+/phpinfo.php/RK=0/RS=5ujv5o5qAIRGnr06a995GJ0U9y8- 1 66371 1 1
+/phpinfo.php/RK=0/RS=TZRqq13YrPM8Z8Q0PeL2KtAIXpo- 1 66455 1 1
+/phpinfo.php/RK=0/RS=Zuc60806hVGD51xBVo5pKJ7hmco- 1 66373 1 1
+/phpinfo.php/RK=0/RS=r0aNmBLq_scR3RMZtU5AszT9t7E- 1 66451 1 1
+/phpinfo.php/RK=0/RS=Whh4sID9tsOT3pb5hJPOpChVQ2o- 1 66463 1 1
+/phpinfo.php/RK=0/RS=5hvypM.gtLfZ5toXpxVhgIcj2ks- 1 66393 1 1
+/phpinfo.php/RK=0/RS=PYJNDHDkihCzQWN5.YPZl0x3vFE- 2 132574 2 2
+/phpinfo.php/RK=0/RS=.KwfjYugP5MCja9CWvqjpxtVivo- 1 66377 1 1
+/phpinfo.php/RK=0/RS=f_RicWhM94d4nzExJwgA.59ejn4- 1 66375 1 1
+/phpinfo.php/RK=0/RS=zX_3KPrR.XQgZwUw8JsFPKj8Mgs- 1 66459 1 1
+/phpinfo.php/RK=0/RS=qpMfeeA.Xx1dw5rpZIL.e6ZyOks- 2 132924 2 2
+/phpinfo.php/RK=0/RS=cH9eXQGpASRTr70hA56F6fJRXsk- 1 66375 1 1
+/phpinfo.php/RK=0/RS=Rvlf2Wz0L45MXIGrmbfdozSj4jQ- 1 66459 1 1
+/phpinfo.php/RK=0/RS=W7BFGLz5ywOONb3dzb77iTTI6tY- 2 132824 2 2
+/phpinfo.php/RK=0/RS=qRVfsCepHgadm4aXPDzfXWIf0jg- 1 66556 1 1
+/phpinfo.php/RK=0/RS=ekS882UJ0WOFVPAFVs6auyhStO4- 1 66626 1 1
+/phpinfo.php/RK=0/RS=jPTTAHnlHO1uzOCkG7Ewvpky8Es- 1 66379 1 1
+/phpinfo.php/RK=0/RS=3n1es20O1zzD9tr1XmVuf7Cyxs0- 1 66377 1 1
+/phpinfo.php/RK=0/RS=3i.3XDChYiHM3LnZG6k_7Mi3ALU- 1 66373 1 1
+/phpinfo.php/RS=^ADAmOOIRoflGtBctGrkfwMiJd4sltM- 5 332191 5 4
+/phpinfo.php/RK=0/RS=6nxrOVhWHFIz3wqRnNp_Xj2RMLE- 8 530895 7 7
+/phpinfo.php/RK=0/RS=785C1jGJG00IrtqXJzdDCtHF1cI- 1 66369 1 1
+/phpinfo.php/RK=0/RS=of0WDrAxJQd9zEAPg5FCNNQT6HM- 1 66461 0 1
+/phpinfo.php/RK=0/RS=h7ZoH4Ld.wMmqQIZXqbteccszQk- 1 66461 1 1
+/phpinfo.php/RK=0/RS=AReOTO42q.tLGK1MvaqsSnovvvc- 1 66393 1 1
+/phpinfo.php/RK=0/RS=4ovH0.pyPY03a79Fpuw8ZQ9TOtc- 1 66384 1 1
+/phpinfo.php/RK=0/RS=IXLG6gNiWU.WtadmHU6Pjm7Klto- 1 66461 1 1
+/phpinfo.php/RK=0/RS=6z3Qmw76fesUwn7MbRgDULbARY0- 1 66461 1 1
+/phpinfo.php/RK=0/RS=pGq74o22X5kiJhPgoWIOwKfFmJs- 2 132838 2 2
+http://cscecalgary.com/phpinfo.php/RK=0/RS=484ucPVheBsJOWOiW5XeJ4FLjds- 1 66612 1 1
+/phpinfo.php/RK=0/RS=Jjy4_rpWuJLk8NX8LXS_r3RodZM- 5 332943 5 5
+/phpinfo.php/RK=0/RS=JDCLwP1WpN9.FSU0kV0gEqivTos- 1 66369 1 1
+/phpinfo.php/RK=0/RS=YNJ2hi5P7AE30SMVFCQ1tCuUU7Y- 1 66461 1 1
+/phpinfo.php/RK=0/RS=gr.uCMZxnH7X_njxHVtxccveehs- 1 66461 1 1
+/phpinfo.php/RK=0/RS=E9Q7DNKhcCWpD7CF05FRj8C1hms- 3 199364 3 3
+/phpinfo.php/RK=0/RS=SzNNYgdRZTjGolc9SwDyWmI4MrM- 1 66373 1 1
+/phpinfo.php/RK=0/RS=rR93uWkv2kV20sXk_ievCgf8_Jg- 1 66459 0 0
+/phpinfo.php/RK=0/RS=qTRXn4oEzF9fK00vw_ifXbHGVaw- 1 66375 1 1
+/phpinfo.php/RK=0/RS=R5Eexez1IHd3THg3k54KvLzY.Uw- 1 66514 1 1
+/phpinfo.php/RK=0/RS=OOmFvwsZh_D9weVm7y3yr_AUz44- 1 66459 1 1
+/phpinfo.php/RK=0/RS=PUTcPw10ZXJ_4r5Vc4ZujA_0.qk- 1 66373 1 1
+/phpinfo.php/RK=0/RS=k78ksNg9ckdMKU1vuagd57ASp7Q- 1 66375 1 1
+/phpinfo.php/RK=0/RS=wuIwXF0ykgM6zUb47PKXef.dSGQ- 1 66390 1 1
+/phpinfo.php/RK=0/RS=ijD8kcUHYSr_YyTkMRk2dKN.M8g- 2 133834 2 2
+/phpinfo.php/RK=0/RS=SvT39ctOiaN.TJ.yqLtovEgi53w- 1 66465 1 1
+/phpinfo.php/RK=0/RS=FT6J6Zzuiig1eaVW7zfGOo9Zt.s- 1 66455 1 1
+/phpinfo.php/RK=0/RS=B15UypQmtp6vQ7Zy0w.6Y3UWd30- 1 66346 1 1
+/phpinfo.php/RK=0/RS=RHPxICbNApkeZd4aVBc.aq78xMw- 1 66461 1 1
+/phpinfo.php/RK=0/RS=8P81M5_3d2rme6vaBz7IYdsI88g- 1 66375 1 1
+/phpinfo.php/RK=0/RS=M0UgtrCNruyz.GQOZhB6C6H9qL8- 1 66457 1 1
+/phpinfo.php/RK=0/RS=JO9H9ByClk6MfHxN4.cGl1Y4fGA- 1 66371 1 1
+/phpinfo.php/RK=0/RS=3rZ8mq4NGGHW7gYfpljg5mr8S4A- 1 66459 1 1
+/phpinfo.php/RK=0/RS=adCIjKlJEl3PAdeXdwbSy3imzHU- 1 66465 1 1
+/phpinfo.php/RK=0/RS=X03bjI4X0KK3RqbnxF.6Xo0VlHo- 1 66389 1 1
+/phpinfo.php/RK=0/RS=MuSXQjYfuAzbJ9.bCgsBFkvLFbA- 1 66375 1 1
+/phpinfo.php/RK=0/RS=gEuPqoFAVyCZ3ao9xIjsmPjh4DU- 1 66389 1 1
+/phpinfo.php/RK=0/RS=839NvcGslDx5eQMeK9hmIxRoZ6w- 7 464958 6 6
+/phpinfo.php/RK=0/RS=Ki9AeqmxCs.D4UEi_pM45sR6ZT8- 1 66236 1 1
+/phpinfo.php/RK=0/RS=PLveZAEAIAELGVMT0VkPK60Z08Q- 1 66463 1 1
+/phpinfo.php/RK=0/RS=VewsowInefz88Ms7_kLrqrqXNwU- 1 66371 1 1
+/phpinfo.php/RK=0/RS=ZoIiNvp_Cp5D4MoCXELcLlJd.ac- 1 66385 1 1
+/phpinfo.php/RK=0/RS=wmC.mMfEsG.VCsHeTHNmrE8pIOI- 2 132746 2 2
+/phpinfo.php/RS=^ADACfazM08.lRmRGnOVwSjDsJTv7Dc- 1 66621 1 1
+/phpinfo.php/RK=0/RS=yDmz4jzMJYWWF8m8m.P2KhsngUE- 1 66455 1 1
+/phpinfo.php/RK=0/RS=OC_8GeXsry1wOQHTsLe9w4CU6eo- 2 133982 2 2
+/phpinfo.php/RK=0/RS=FOFzhBdGzy0b2lLr4pTfS9x_3lc- 1 66395 1 1
+/phpinfo.php/RK=0/RS=WuSQIaoeatXTnRYNw_gVUCBVZkY- 1 66465 1 1
+/phpinfo.php/RK=0/RS=l8g8_LA0p4KrlpNCxxJSZzbXeL8- 1 66377 1 1
+/phpinfo.php/RK=0/RS=GZL5gmmN3eM28ai.9S6Ee76wdJg- 1 66461 1 1
+/phpinfo.php/RK=0/RS=czb.czHMJosHVuPgXW5wc_8oDeM- 1 66371 1 1
+/phpinfo.php/RK=0/RS=u1JIba0.HvZgOzixRby0bGPAOsk- 1 66629 1 1
+/phpinfo.php/RK=0/RS=z8IAF5lOR8JAF34mG3DX.I6HvEc- 1 66369 1 1
+/phpinfo.php/RK=0/RS=.AYcb3CdBbIwvGMvoJniNsCRN64- 1 66389 1 1
+/phpinfo.php/RK=0/RS=PlY0StEO4TlQMSfXrcxcWP4OMmI- 2 132914 2 2
+/phpinfo.php/RK=0/RS=9TWQJMI.g5PdDYspAMC4hKa3wlQ- 5 332096 5 5
+/phpinfo.php/RK=0/RS=V.l5.gospybDqv7H.Up608Rc.IM- 3 199295 3 3
+/phpinfo.php/RK=0/RS=QkrhIrHntqEH.toMj4dxwL4oCTs- 3 199313 3 3
+/phpinfo.php/RK=0/RS=zDRxPV4ZHW1RbeVK7kGAnApBaqc- 1 66463 1 1
+/phpinfo.php/RK=0/RS=_VnGx9drN5f_AE3N8K4Ez5SaVzg- 1 66459 1 1
+/phpinfo.php/RK=0/RS=bXwgbN.Tt2OXpo3GaYw5UN5jpto- 5 332090 5 5
+/phpinfo.php/RK=0/RS=pI44FjaZZ1OOXbWy31DIklQHeQE- 1 66391 1 1
+/phpinfo.php/RK=0/RS=35wvxaYMNxAr6HmmnsUDyz4C.i8- 1 66371 1 1
+/phpinfo.php/RK=0/RS=tOLgZPpM88pVZa9xUuHYYGGYgFc- 1 66377 1 1
+/phpinfo.php/RK=0/RS=QS0YfURfnNMQAYnkTgalbIvKyRQ- 1 66238 1 1
+/phpinfo.php/RK=0/RS=0fLMs1zlNanqf3lkunomcdktsPI- 1 66373 1 1
+/phpinfo.php/RS=^ADAwZ5XaFMIX_jp4syzYYvqHT4SC3Q- 2 132900 2 2
+END_SIDER

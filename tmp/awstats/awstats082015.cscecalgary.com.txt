@@ -1,0 +1,336 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201508 will be lost/reset.
+# Last config file used to build this data file was /home/cscecalg/tmp/awstats/awstats.cscecalgary.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2681                
+POS_VISITOR 7507                
+POS_DAY 8524                
+POS_DOMAIN 3316                
+POS_LOGIN 3695                
+POS_ROBOT 3850                
+POS_WORMS 4147                
+POS_EMAILSENDER 4278                
+POS_EMAILRECEIVER 4421                
+POS_SESSION 8657                
+POS_SIDER 8835                
+POS_FILETYPES 4556                
+POS_DOWNLOADS 4751                
+POS_OS 4799                
+POS_BROWSER 4976                
+POS_SCREENSIZE 5279                
+POS_UNKNOWNREFERER 5353                
+POS_UNKNOWNREFERERBROWSER 5502                
+POS_ORIGIN 5646                
+POS_SEREFERRALS 5783                
+POS_PAGEREFS 5947                
+POS_SEARCHWORDS 6434                
+POS_KEYWORDS 6624                
+POS_MISC 2344                
+POS_ERRORS 6710                
+POS_CLUSTER 3551                
+POS_SIDER_404 6840                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150901011138 102 24661 9597423879630
+FirstTime 0
+LastTime 20150831192130
+LastUpdate 20150901183055 102 0 101 0 0
+TotalVisits 27                  
+TotalUnique 24                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 24                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 84 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 80 97 466
+1 1 1 466 65 83 466
+2 0 0 0 58 67 27588
+3 0 0 0 39 47 22424
+4 0 0 0 45 60 22818
+5 19 19 398533 41 49 62103
+6 0 0 0 47 54 0
+7 5 5 2330 53 62 0
+8 0 0 0 52 61 0
+9 1 1 466 66 79 0
+10 6 152 1636374 52 68 5141
+11 12 157 2468453 65 77 24244
+12 1 1 76238 73 91 932
+13 2 2 932 73 87 0
+14 0 0 0 44 55 0
+15 1 1 466 67 89 0
+16 0 0 0 35 47 466
+17 1 1 76421 51 67 47042
+18 9 81 913735 44 69 28554
+19 7 78 775238 68 86 1997
+20 2 2 932 49 62 0
+21 5 81 927683 138 206 4898
+22 0 0 0 52 69 0
+23 0 0 0 45 53 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 13
+ca 25 393 5077032
+us 19 90 1178919
+ua 16 87 797076
+cn 3 3 68760
+pt 1 1 466
+al 1 1 76797
+zz 1 1 466
+nl 1 1 466
+mx 1 1 466
+fr 1 1 466
+de 1 1 76421
+gb 1 1 466
+bg 1 1 466
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+spider 17 150044 20150831214522 0
+bot[\s_+:,\.\;\/\\-] 3 23750 20150831214220 0
+php 1 466 20150831215915 0
+slurp 1 466 20150830123510 0
+crawl 1 466 20150831163718 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+css 232 757365 0 0
+php 3 229456 0 0
+png 83 1996067 0 0
+html 69 984039 0 0
+jpg 60 1038532 0 0
+js 123 1219352 0 0
+gif 12 1053456 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+linuxandroid 21 21
+winlong 2 2
+winxp 3 3
+win2000 1 1
+winnt 1 1
+linux 152 10
+win7 395 27
+win2003 5 5
+Unknown 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 14
+msie6.0 10 10
+chrome39.0.2171.93 21 21
+msie11.0 73 1
+chrome36.0.1985.143 1 1
+firefox39.0 75 4
+firefox40.0 73 2
+chrome44.0.2403.157 165 14
+msie7.0 2 2
+firefox26.0 1 1
+chrome37.0.2062.120 3 3
+msie10.0 82 8
+Unknown 2 2
+chrome32.0.1700.107 1 1
+safari 73 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+NerdyBot 20150831091932
+Xenu_Link_Sleuth/1.3.8 20150831191843
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+NerdyBot 20150831091932
+Xenu_Link_Sleuth/1.3.8 20150831191843
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 32 32
+From1 0 0
+From2 4 4
+From3 18 18
+From4 18 528
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 2 2
+bing 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 11
+http://cobaltpro.ru 3 3
+http://klinikanikonova.ru 3 3
+http://chcu.net/porno-video-2015/ 2 2
+http://domik-derevne.ru 2 2
+http://success-seo.com/try.php 2 2
+http://www.banibistro.ru 1 1
+http://pizza-imperia.com 1 1
+http://hvd-store.com 1 1
+http://burger-imperia.com 1 1
+http://www.ucalgary.ca/EN/Civil/csce_calgary/ 1 1
+https://dg-s.ru 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 2
+csce+calgary 1
+csce+calgary+section 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 3
+csce 2
+calgary 2
+section 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+403 1566 62103
+302 3 0
+500 76 0
+301 4 972
+404 29 2436
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 9
+/ 2 http://sfd-chess.ru/
+/robots.txt 10 -
+/wp//wp-login.php 1 -
+/csce_test/sites/default/files/csceFiles/CSCE-CalgaryMembership-GRaSP.pdf 3 -
+/wordpress//wp-login.php 1 -
+/blog//wp-login.php 1 -
+//wp-login.php 1 -
+/phpinfo.php 3 http://cscecalgary.com/
+/project/sites/all/themes/media-responsive-theme/images/arrows.png 7 http://www.cscecalgary.com/project/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 24
+167.114.174.182 15 15 329307 20150831054756
+68.146.5.41 12 88 991068 20150829212050
+209.82.65.90 8 82 1694147 20150831111951
+46.118.126.38 6 6 2796 20150831072414
+46.118.118.173 4 4 1864 20150831192130
+194.28.172.10 4 75 791484 20150830101501
+173.183.196.101 2 73 773374 20150831191614
+207.34.120.71 2 77 844890 20150831104435
+120.198.237.5 2 2 45840 20150831054552
+178.137.92.63 2 2 932 20150831114950
+199.30.228.157 2 73 773374 20150830110322
+142.90.254.171 1 73 773553 20150830185626
+104.197.121.111 1 1 466 20150831091932
+188.83.11.249 1 1 466 20150831051952
+217.21.146.209 1 1 76797 20150831185651
+185.62.188.14 1 1 466 20150830135016
+77.247.181.163 1 1 466 20150831154301
+79.98.109.196 1 1 466 20150831010705
+201.130.15.245 1 1 466 20150830202303
+66.176.172.168 1 1 0 20150831191843
+211.137.39.21 1 1 22920 20150831054751
+188.165.206.188 1 1 466 20150831191146
+82.211.55.137 1 1 76421 20150830175627
+45.57.166.86 1 1 76238 20150831120024
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 3
+20150829 12 88 991068 2
+20150830 12 226 2416696 8
+20150831 48 268 3870503 17
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+5mn-15mn 4
+0s-30s 21
+2mn-5mn 1
+30s-2mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/ 34 92805 18 14
+/drupal7/ 18 398067 3 3
+/project/ 17 493167 3 7
+/phpinfo.php 3 229456 3 3
+END_SIDER

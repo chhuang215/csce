@@ -1,0 +1,22 @@
+Return-path: <root@server24.websitehostserver.net>
+Envelope-to: cscecalg@server24.websitehostserver.net
+Delivery-date: Mon, 12 Sep 2016 16:18:01 -0500
+Received: from cscecalg by server24.websitehostserver.net with local (Exim 4.87)
+	(envelope-from <root@server24.websitehostserver.net>)
+	id 1bjYc5-001MCr-I2
+	for cscecalg@server24.websitehostserver.net; Mon, 12 Sep 2016 16:18:01 -0500
+From: root@server24.websitehostserver.net (Cron Daemon)
+To: cscecalg@server24.websitehostserver.net
+Subject: Cron <cscecalg@server24> cd /home/cscecalg/public_html/drupal7; php /home/cscecalg/public_html/drupal7/cron.php > /dev/null
+Content-Type: text/plain; charset=UTF-8
+Auto-Submitted: auto-generated
+X-Cron-Env: <LANG=en_US.UTF-8>
+X-Cron-Env: <SHELL=/usr/local/cpanel/bin/jailshell>
+X-Cron-Env: <HOME=/home/cscecalg>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=cscecalg>
+X-Cron-Env: <USER=cscecalg>
+Message-Id: <E1bjYc5-001MCr-I2@server24.websitehostserver.net>
+Date: Mon, 12 Sep 2016 16:18:01 -0500
+
+/usr/local/cpanel/bin/jailshell: line 0: cd: /home/cscecalg/public_html/drupal7: No such file or directory

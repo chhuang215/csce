@@ -1,0 +1,2506 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201407 will be lost/reset.
+# Last config file used to build this data file was /home/cscecalg/tmp/awstats/awstats.cscecalgary.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2009                
+POS_TIME 2689                
+POS_VISITOR 23462               
+POS_DAY 91090               
+POS_DOMAIN 3645                
+POS_LOGIN 4874                
+POS_ROBOT 5029                
+POS_WORMS 5414                
+POS_EMAILSENDER 5545                
+POS_EMAILRECEIVER 5688                
+POS_SESSION 92057               
+POS_SIDER 92271               
+POS_FILETYPES 5823                
+POS_DOWNLOADS 6076                
+POS_OS 6124                
+POS_BROWSER 6311                
+POS_SCREENSIZE 7113                
+POS_UNKNOWNREFERER 7187                
+POS_UNKNOWNREFERERBROWSER 7524                
+POS_ORIGIN 7694                
+POS_SEREFERRALS 7836                
+POS_PAGEREFS 8002                
+POS_SEARCHWORDS 8606                
+POS_KEYWORDS 8841                
+POS_MISC 2352                
+POS_ERRORS 8995                
+POS_CLUSTER 4730                
+POS_SIDER_404 9147                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20140801000659 62 15527 13689966460455
+FirstTime 20140701001038
+LastTime 20140731231111
+LastUpdate 20140801180849 62 0 61 0 0
+TotalVisits 3465                
+TotalUnique 1703                
+MonthHostsKnown 0                   
+MonthHostsUnknown 1713                
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 27 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 179 447 15987891 132 147 267378
+1 183 473 19399592 149 159 725194
+2 143 144 10343094 116 204 372406
+3 142 220 10622712 112 145 550317
+4 183 270 13470134 123 227 868329
+5 170 246 12663157 136 148 1740581
+6 162 339 13965450 130 140 173850
+7 168 289 12507733 124 199 638729
+8 176 327 13601646 115 174 576012
+9 215 560 17037291 135 228 445940
+10 208 630 17705852 141 162 577087
+11 184 614 19413368 124 172 472934
+12 183 470 17122935 134 141 166631
+13 172 384 16606289 144 220 426206
+14 159 279 14992195 111 113 243862
+15 145 198 10572522 115 129 88484
+16 167 578 16899446 127 132 387206
+17 188 625 18206846 129 138 213392
+18 167 290 11468577 121 123 182284
+19 194 428 14751402 143 226 753972
+20 172 251 12646548 107 116 191896
+21 169 360 14771613 111 118 83378
+22 176 177 11817007 126 151 279850
+23 167 322 12970607 129 134 633398
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 66
+us 1488 1680 102964515
+fr 603 603 41867847
+cn 590 590 43694366
+de 312 312 23551628
+pl 248 248 10694786
+sa 117 224 11541500
+ca 104 1374 19206022
+fi 100 100 7433317
+br 88 1303 23983255
+gb 59 153 4998464
+ro 54 54 4072670
+ph 47 124 3736774
+se 35 128 4434602
+ru 34 406 10225804
+th 29 193 4463418
+ee 20 20 1477755
+eu 19 19 1270506
+ua 18 18 1183717
+id 16 92 1878605
+at 14 14 918720
+ir 14 184 2457627
+it 13 399 7812244
+mu 12 12 864622
+in 9 94 1398662
+ch 8 8 600976
+rs 3 3 208056
+tr 4 4 307312
+hn 1 1 76901
+my 1 1 30246
+mx 6 96 2076410
+tn 1 1 66401
+dk 1 1 76460
+kh 1 1 76730
+lb 2 41 189756
+co 3 3 219279
+kw 2 2 32328
+af 1 1 76416
+do 1 1 76348
+gr 1 1 77521
+ht 1 1 65890
+za 7 7 514419
+iq 4 4 296452
+lu 1 1 76114
+pe 2 2 154026
+ve 8 8 592223
+pt 6 135 2579798
+eg 4 172 1788434
+kr 2 2 108668
+no 1 1 77007
+lv 7 7 0
+ma 3 3 229344
+hk 4 4 293592
+cz 2 2 76936
+by 1 1 65818
+lt 2 2 143371
+hr 1 1 76789
+sd 2 2 154030
+cl 2 2 154096
+jp 6 6 78752
+tw 8 8 598123
+au 4 4 305836
+vn 1 1 76426
+zw 1 1 66439
+nl 6 6 296386
+ar 6 28 275910
+lk 1 1 76462
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+googlebot 439 5539643 20140728102144 0
+bot[\s_+:,\.\;\/\\-] 247 3112901 20140731201723 0
+spider 10 145028 20140729215812 0
+no_user_agent 1 76069 20140710085030 0
+msnbot 1 466 20140729224035 0
+netcraft 1 466 20140710153902 0
+crawl 1 466 20140725093418 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+css 2067 6810924 0 0
+png 480 8674024 0 0
+php 2877 214981068 0 0
+html 596 11607878 0 0
+xml 2 18516 0 0
+js 1175 9796534 0 0
+jpg 693 23776736 0 0
+Unknown 697 52065907 0 0
+gif 334 21812320 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 13
+linuxandroid 77
+blackberry 1
+winlong 401
+winxp 1024
+winnt 1
+linux 207
+winvista 169
+win7 4413
+winme 1
+macosx 2567
+winunknown 1
+win2003 7
+Unknown 52
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 45
+safari7.0 1
+msie6.0 4
+firefox4.0.1 1
+firefox26.0 1
+firefox18.0 1
+chrome31.0.1650.63 108
+opera9.80 97
+chrome28.0.1500.72 185
+msie8.0 186
+chrome32.0.1700.102 1
+firefox13.0.1 139
+chrome26.0.1410.65 1
+chrome13.0.782.112 123
+msie7.0 39
+chrome10.0.648.204 1
+msie9.0 86
+Unknown 37
+firefox27.0 1
+blackberry 1
+chrome34.0.1847.131 1
+firefox21.0 462
+chrome35.0.1916.141 77
+chrome27.0.1453.110 120
+chrome28.0.1500.71 751
+firefox30.0 366
+msie5.5 1
+chrome32.0.1700.107 1380
+safari6.0.5 272
+mozilla 278
+safari6.0.4 119
+chrome24.0.1312.60 1
+chrome35.0.1916.153 2233
+netscape5.0 4
+firefox14.0.1 2
+firefox22.0 342
+firefox5.0.1 104
+msie10.0 96
+netscape4.0 8
+safari6.0.3 141
+firefox3.6.12 1
+msie 1
+safari5.1.9 115
+chrome27.0.1453.116 1030
+firefox15.0.1 1
+firefox16.0.1 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Mozilla/5.0_(compatible;_WebMasterAid/1.0;__http://wmaid.com/explore/) 20140713224243
+nutch-1.4/Nutch-1.4 20140731091120
+Mozilla/4.0_(compatible;_Synapse) 20140712220641
+wsr-agent/1.0 20140703194749
+NerdyBot 20140731092147
+Mozilla/4.0 20140730233756
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+nutch-1.4/Nutch-1.4 20140731091120
+wsr-agent/1.0 20140703194749
+NerdyBot 20140731092147
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 103 158
+From1 0 0
+From2 9 9
+From3 62 62
+From4 3998 8692
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 8 8
+search 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 9
+http://semalt.semalt.com/crawler.php 44 44
+http://www.schulich.ucalgary.ca/Civil/csce_calgary/ 6 6
+http://www.schulich.ucalgary.ca/Civil/csce_calgary/index.html 5 5
+http://wmaid.com/explore/cscecalgary.com/ 2 2
+http://9.kambasoft.com/2.php 1 1
+http://schulich.ucalgary.ca/civil/csce_calgary/ 1 1
+http://youtube-downloader.savetubevideo.com/youtube-downloader.php 1 1
+http://musicas.kambasoft.com/2.php 1 1
+http://www.ucalgary.ca/EN/civil/csce_calgary/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 3
+granger+whitelaw+avia 2
+easylifeapp+profile 2
+online+reputation+management+akado 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 9
+profile 2
+whitelaw 2
+avia 2
+granger 2
+easylifeapp 2
+reputation 1
+akado 1
+online 1
+management 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 87 1839138
+302 32 0
+206 7 197117
+500 2 25932
+301 85 20655
+404 2906 53369
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 209
+/php 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=cOTHLwUPhXO7Z1_A1Tnec1Y8878- 6 http://cscecalgary.com/
+/ 1 -
+/phpinfo.php/RK=0/RS=FF5JqW3J7WBkbHZ63u.32ZmtDlY- 29 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=R9DERaEPxKpuDTgSKKaTrJykVBI- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=FB0pSwHBW93NRGLLykL5Qdup724- 2 http://cscecalgary.com/
+/admin.php 2 -
+/phpinfo.php/RK=0/RS=VGWSgXcEaSIopgF3ZwuV6H.4h_4- 1 http://cscecalgary.com/
+/csce_test/misc/drupal.js 1 -
+/csce_test/sites/default/files/csceFiles/CSCE%20Calgary%20Section%20By-Laws.pdf 1 -
+/phpinfo.php/RK=0/RS=ooZzYCualTPSL5U7nT66a3RECic- 1 http://cscecalgary.com/
+/csce_test/sites/all/modules/colorbox/styles/default/colorbox_style.js 1 -
+/phpinfo.php/RK=0/RS=3ui8K9KdnOnBGGWi.j6v790gH2Y- 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=aZVgz40ZFnQvl.JBAXacTyOLrYw- 1 http://cscecalgary.com/
+/csce_test/sites/all/themes/media-responsive-theme/media.css 1 -
+/phpinfo.php/RK=0/RS=CipiglFYLik7FFbHcXQTTqNiNMk- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=94OvU4B.BgLH0wuCIRM_G09k8yw- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=114D6uh4s8FIZxIXDkPBWu20Uqs- 10 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=wdzOLkwmr3tZFjdOz45Nre1VZ9s- 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=6E1kkc5CSISmaQPvLEVEzYTx7tk- 15 http://cscecalgary.com/
+/csce_test/sites/all/modules/google_cse/google_cse.css 1 -
+/phpinfo.php/RK=0/RS=13bjkFirUwd0vdz1opCemFnVPdI- 2 http://cscecalgary.com/
+/phpinfo.php/RS=^ADARtRwmTff19oV5ycS7aZXdC4GBBI- 31 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=9iXkTFxJwNpBeSlXPfzJNS6HB5M- 61 http://cscecalgary.com/
+/drupal7//RK=0 2 http://cscecalgary.com/
+/csce_test/sites/all/libraries/nivo-slider/nivo-slider.css 1 -
+/csce_test/sites/all/modules/back_to_top/css/back_to_top.css 1 -
+/project/sites/all/themes/media-responsive-theme/images/arrows.png 28 http://www.cscecalgary.com/project/
+/phpinfo.php/RS=^ADAixgjV5rkvFF.uQuroyHJvak_l5o- 7 http://cscecalgary.com/
+/project/sites/bk/backup_migrate/scheduled/test.txt 10 -
+http://cscecalgary.com/phpinfo.php 14 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=Ks6hP.6zUNnUYpFTPczf12MgpE0- 30 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=FxCF9e_fJ42yyFQTBigIlk1RiXY- 78 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=KDbfddizExhaIEzArCuG4OFVR98- 1 http://cscecalgary.com/
+/csce_test/sites/all/modules/panopoly_theme/css/panopoly-featured.css 1 -
+/csce_test/sites/all/modules/back_to_top/js/back_to_top.js 1 -
+/phpinfo.php/RK=0/RS=.59DpQkenIArDhED_8_eMTnMDeQ- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=oeMsEyqyf.BBWBNviato1APDa4M- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=O.XWpK10wa70c_hsZ9ZLokJTt_s- 8 http://cscecalgary.com/
+/phpinfo.php/RS=^ADAk8_jrjghIC1hF4BxnWqr_dBk1PM- 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=93ctpLI.nCMUZaeV_ihRDZazKXs- 10 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=oEyvqbfubeT.2Hmiz.iQaUdGqMI- 7 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=yR2S.dpCOPcxN9FUVP7Vz89Oilc- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=fzUepQu8sOOcfW0B.j4g7LrUmfs- 2 http://cscecalgary.com/
+/phpinfo.ph 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=qpNGVNCQFVJx9AfBCY0j9ccx1zU- 1 http://cscecalgary.com/
+/csce_test/sites/all/modules/panels/js/panels.js 1 -
+/csce_test/sites/all/modules/admin_menu/admin_devel/admin_devel.js 1 -
+/phpinfo.php/RK=0/RS=tREAFKAnbw8jF4SovAdnBFMhBOw- 1 http://cscecalgary.com/
+/drupal7/sites/default/files/pennylane12us8.jpg 2 -
+/phpinfo.php/RK=0/RS=jc3.BP6RCxyiEWl1A41ZMUsfEN8- 1 http://cscecalgary.com/
+/administrator/ 1 -
+/phpinfo.php/RK=0/RS=Gw.NGrvOoYKbIJ4DDVFkcqCuG2g- 1 http://cscecalgary.com/
+/csce_test/misc/ui/jquery.ui.widget.min.js 1 -
+/default.php 3 http://cscecalgary.com/default.php
+/wp-login.php 2 -
+/csce_test/sites/all/modules/views_slideshow_xtra/views_slideshow_xtra.js 1 -
+/phpinfo.php/RK=0/RS=A4u4EaqfTW45KNXno2tyU8kY_LI- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=Es5prmPtdmf9eORwUJWtzKFIrp8- 1 http://cscecalgary.com/
+/phpinfo.php 2041 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=vSVEm1p7iU.6y9dPHdGv6e2m_mU- 1 http://cscecalgary.com/
+/csce_test/sites/all/modules/views_slideshow_xtra/views_slideshow_xtra_example/css/views_slideshow_xtra_example.css 1 -
+/csce_test/misc/ui/jquery.effects.core.min.js 1 -
+/csce_test/sites/default/files/csceFiles/CSCE-CalgaryMembership-GRaSP.pdf 1 -
+/phpinfo.php/RK=0/RS=DQTuEyo7o_9Ke1JiQoGIPVk9QCI- 3 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=6enmJZmyhQjMj7P.EDdx3YIJnI0- 1 http://cscecalgary.com/
+/csce_test/sites/default/files/csceFiles/SectionHandbook-2009.pdf 1 -
+/phpinfo.php/RK=0/RS=V.3vQO2tpoYx_5Gw4s4UWPv8N7w- 5 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=5j9Z6BWbiYtMDDLVSIc4.yhplm4- 1 http://cscecalgary.com/
+/csce_test/sites/all/libraries/colorbox/jquery.colorbox-min.js 1 -
+/phpinfo.php/RK=0/RS=G9cIyrJHVpuC8O8xGfqODE9lNHc- 3 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=Y7eZHYJH8CdzZfifLN4ZWdliVG4- 1 http://cscecalgary.com/
+/csce_test/sites/all/modules/panopoly_core/css/panopoly-jquery-ui-theme.css 1 -
+/csce_test/sites/all/modules/views_slideshow_xtra/views_slideshow_xtra_overlay/css/views_slideshow_xtra_overlay.css 1 -
+/phpinfo.php/RK=0/RS=1BU7ksBUlNj_pBLiqsZJnmshgTw- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=qE8CatCVtewjlmUfdBG95117rkE- 3 http://cscecalgary.com/
+/csce_test/sites/all/modules/views_slideshow_xtra/views_slideshow_xtra.css 1 -
+/phpinfo.php/RK=0/RS=ZVEYy1jOW9irU6p.0mbGeH.pd8g- 1 http://cscecalgary.com/
+/phpinfo.php/RS=^ADAeRIs2o6lyyp8vJ0ClX64pUeqg5k- 3 http://cscecalgary.com/
+/csce_test/modules/system/system.theme.css 1 -
+/phpinfo.php/RK=0/RS=ocOLWbVyEqZVHWXN9MO7K9fWFKY- 1 http://cscecalgary.com/
+/project/sites/all/modules/panels/js/panels.js 1 -
+/phpinfo.php/RK=0/RS=APz42QgobAQ35Re1yo_cQ0Hnzzc- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=lhBKMegBNUUdX4Z9gpBOuOsUcTk- 1 http://cscecalgary.com/
+/csce_test/sites/all/modules/lightbox2/css/lightbox.css 1 -
+/csce_test/modules/node/node.css 1 -
+/phpinfo.php/RS=^ADA7JsrXq5h0vNMij5VDPoSeShLTQU- 4 http://cscecalgary.com/
+/csce_test/sites/all/modules/panels/css/panels.css 1 -
+/administrator/index.php 1 -
+/csce_test/sites/all/modules/views_nivo_slider/views_nivo_slider.css 1 -
+/phpinfo.php/RK=0/RS=0trF9MlywFzu0lhWbsm9fSGwey0- 1 http://cscecalgary.com/
+/wp-trackback.php 1 -
+/phpinfo.php/RK=0/RS=0n5tvm1WFuWHvh9VBETdxPOG_Y8- 1 http://cscecalgary.com/
+/csce_test/sites/all/modules/panopoly_core/css/panopoly-dropbutton.css 1 -
+/phpinfo.php/RK=0/RS=6ta8W8_P6fJ6lcKuXjeYUSnbiJ4- 21 http://cscecalgary.com/
+/csce_test/sites/all/themes/media-responsive-theme/js/custom.js 1 -
+/csce_test/sites/all/modules/google_cse/google_cse.js 1 -
+/phpinfo. 4 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=X_vn_xW.yz35z0l1vPAUG19WWiM- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=9kVk.IxBg_JgCItaBHEei72vP4w- 1 http://cscecalgary.com/
+/csce_test/sites/all/modules/ctools/css/ctools.css 1 -
+/news/wp-trackback.php 1 -
+/csce_test/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.accordion.min.css 1 -
+/phpinfo.php/RK=0/RS=kZ3cgVDRI9hW0McWP4jANVgKErE- 8 http://cscecalgary.com/
+/csce_test/misc/ui/jquery.ui.tabs.min.js 1 -
+/phpinfo.php/RK=0/RS=uU99ryQ74NVrSsl6rZ31bbDl5X4- 1 http://cscecalgary.com/
+/csce_test/modules/system/system.menus.css 1 -
+/csce_test/sites/all/modules/lightbox2/js/lightbox.js 1 -
+/phpinfo.php/RK=0/RS=1Ls9oeU.dC3h9hPZ7Q1MV8B7dVU- 5 http://cscecalgary.com/
+/csce_test/sites/all/modules/panopoly_core/css/panopoly-fonts.css 1 -
+/phpinfo.php/RK=0/RS=r0aNmBLq_scR3RMZtU5AszT9t7E- 2 http://cscecalgary.com/
+/robots.txt 92 -
+/phpinfo.php/RK=0/RS=TczAp8AvWh8NhkVeSuQvW48Ypjs- 3 -
+/csce_test/sites/all/modules/colorbox/js/colorbox.js 1 -
+/phpinfo.php/RK=0/RS=sF5sQSXMx0TqDsbt2yNunZCFrrU- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=O9TjPhxC8.ydZJJO21eLgrFlfRA- 1 http://cscecalgary.com/
+/csce_test/sites/all/modules/date/date_repeat_field/date_repeat_field.css 1 -
+/csce_test/sites/all/modules/date/date_api/date.css 1 -
+/blog/wp-trackback.php 1 -
+/csce_test/sites/all/modules/panopoly_theme/css/panopoly-accordian.css 1 -
+/phpinfo.php/RK=0/RS=mE3jM_lMTbx89V_y_VuwZuFaCtM- 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=FyqmFu3.H0v3vpE4uLAi6du68gM- 1 http://cscecalgary.com/
+/csce_test/sites/all/modules/views_nivo_slider/views_nivo_slider.js 1 -
+/phpinfo.php/RK=0/RS=aZpJ6kibfvMwJXHdHxbIgdK5GvM- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=63DM9qtmariroB441tU15_1OFsU- 5 http://cscecalgary.com/
+/csce_test/sites/default/files/csceFiles/Sponsorship%20Options%202013-14%20FINAL.pdf 1 -
+/csce_test/misc/jquery.once.js 1 -
+/csce_test/sites/all/themes/media-responsive-theme/style.css 1 -
+/phpinfo.php/RK=0/RS=LhsXkNtVeBA.I9hL21yg7QyySQs- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=RaY9yhHpGC4KFVODTzweVVM57Sc- 1 http://cscecalgary.com/
+/phpinfo.php/RS=^ADAmOOIRoflGtBctGrkfwMiJd4sltM- 5 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=Bl6tDf8OhTdW3Jb5Uz9gzsizfxU- 15 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=6nxrOVhWHFIz3wqRnNp_Xj2RMLE- 3 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=qJzP.3sKPGMLBf.xhI126hzD6j4- 2 http://cscecalgary.com/
+/csce_test/sites/all/modules/views_slideshow_ddblock/js/formoptions.js 1 -
+/drupal7/ 1 http://cscecalgary.com/
+/phpinfo.p 5 http://cscecalgary.com/
+/csce_test/sites/all/modules/views_slideshow_xtra/views_slideshow_xtra_overlay/js/views_slideshow_xtra_overlay.js 1 -
+/csce_test/sites/all/modules/colorbox/js/colorbox_inline.js 1 -
+/csce_test/modules/field/theme/field.css 1 -
+/phpinfo.php/RK=0/RS=rk4vDQ7N.btiMJuz.jVaaA.7L0k- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=k1GHKaXwDTETan06djcyY.F_Qjw- 8 http://cscecalgary.com/
+/cgi-bin/ 1 -
+/phpinfo.php/RK=0/RS=XTMezvvIT1sgbko3NGh49_k1Pgk- 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=iVc92y7hVvgIgxKjM_H8e9PJcZI- 19 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=E9Q7DNKhcCWpD7CF05FRj8C1hms- 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=ejmZJVEJuJB6oAE9LgVfwBYkKxc- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=Y3UoEduSRLgeb.ewCA_BPK_Z8mg- 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=hlgjT8ukWvU731nlQ0p9l54K63E- 1 http://cscecalgary.com/
+/test1/ 2 -
+/phpinfo.php/RK=0/RS=iWprC6efH5zF3To4DJ3m0tWN9kg- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=SEb3.hS.hBoXAlIbG2HLUcqP09c- 1 http://cscecalgary.com/
+/drupal7/sites/default/files/The_Peace_Bridge_in_Calgary_an_HDR_photo.jpg 2 -
+/ph 4 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=F7dYX2ecXDBMAbhn1XB7U71XKd8- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=6L0pQlrpLrYkRMfD8rmDxmzj54M- 13 http://cscecalgary.com/
+/csce_test/sites/all/libraries/nivo-slider/jquery.nivo.slider.pack.js 1 -
+/csce_test/ 3 -
+/phpinfo.php/RS=^ADAbSsh7LeHCYEbIez1OE18hIWKCwo- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=6v0x2oHx8VH.KP9QqsDwLPh8O4E- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=vB6nce3Wx1OaquT0VuvoLJG5WhA- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=yiWUgSM6UgmjWT9vvyYO1Y_RLfI- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=l1qmkqo8j03IJwiJTGmAyNrnQJs- 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=n2A260vJs3eRnpxchZy5ozcbTws- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=xOkSyGQJKPBQAGgekXIVgIRk.co- 8 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=h.rxAZtsTGvYXKcfAY_VRNUcHG0- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=KD7tcdOdE5lTKDPmoDEPp17wca0- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=zR1ouzHzeDm2zxBLzcvJetXS2C0- 1 http://cscecalgary.com/
+/csce_test/sites/all/modules/colorbox/styles/default/colorbox_style.css 1 -
+/phpinfo.php/RK=0/RS=FZjgMIDdWns0ORznZxyP.KZ41Fk- 30 http://cscecalgary.com/
+/csce_test/misc/ui/jquery.ui.core.min.js 1 -
+/phpinfo.php/RK=0/RS=839NvcGslDx5eQMeK9hmIxRoZ6w- 3 http://cscecalgary.com/
+/phpinf 2 http://cscecalgary.com/
+/csce_test/modules/user/user.css 1 -
+/phpinfo.php/RK=0/RS=W6K4Sw2yXgE3i1GM540BUVicjWE- 7 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=cahYbjAZOe3tpiHHsLv4G.NE1ug- 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=w3ia6.JRNhHtrwm_bDcLYarKoto- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=zeFs9Q9jKywIR_sfgOQtn7rMINg- 1 http://cscecalgary.com/
+/csce_test/misc/ui/jquery.ui.accordion.min.js 1 -
+/csce_test/sites/all/modules/ckeditor/ckeditor.css 1 -
+/phpinfo.php/RK=0/RS=hquHHPki2aCNhS6JuKKK7i7Mo58- 1 http://cscecalgary.com/
+/phpinfo.php/RS=^ADAFmhNGFt4llDowKX8jk1zY98XJ60- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=Hn55yRp1JIMU7HRiIO28Ax3Y96g- 2 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=ZVI9YiqjaqChulMuOTeR._hxM.s- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=u1664M7y4X12hFCh0bJAV6QVze4- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=X47Yr3iAng03PriEJw0eSG6fqe0- 32 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=8Qk6FyGE3V_T.m3ys8POPMzdWZM- 3 http://cscecalgary.com/
+/csce_test/sites/all/libraries/nivo-slider/themes/default/default.css 1 -
+/csce_test/sites/all/modules/message/message_example/css/message_example.css 1 -
+/csce_test/sites/all/modules/panopoly_theme/js/panopoly-accordion.js 1 -
+/phpinfo.php/RK=0/RS=_CtY9kZt_1swWjxeq.J.8JdQYKQ- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=M0FzH5TcpfShTTguXinIiOYKa1s- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=6eD0Shn12hwBemMitdAj3Xr3uWc- 13 http://cscecalgary.com/
+/wp 1 http://cscecalgary.com/wp
+/phpinfo.php/RK=0/RS=lMm2_fI3M41PpgP7rVTfNePQIHk- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=k9sIYFRPO0cqjtmvQvzidWoa3Bk- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=k_icstSmOr5chnXZ.bVGACKNJTE- 1 http://cscecalgary.com/
+/csce_test/modules/search/search.css 1 -
+/csce_test/sites/all/modules/date/date_popup/themes/datepicker.1.7.css 1 -
+/csce_test/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css 1 -
+/wp/wp-trackback.php 1 -
+/csce_test/modules/system/system.base.css 1 -
+/csce_test/sites/all/modules/views/css/views.css 1 -
+/csce_test/modules/system/system.messages.css 1 -
+/phpinfo.php/RK=0/RS=P8iwUloBgPrEVnUwYhSwAcQaoiY- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=hXo7Z5U853hdf5JjtVM5Qs6rzvw- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=zksaPxWSoGuRE4WFRMKBPeXOW2U- 1 http://cscecalgary.com/
+/phpinfo.php/RK=0/RS=vCoq_ggqSFKw96yuqrsmjF6dZUA- 1 http://cscecalgary.com/
+/phpinfo 3 http://cscecalgary.com/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1713
+46.4.103.83 189 189 14439222 20140731214141
+79.133.196.51 109 109 2491210 20140731095747
+94.23.106.238 78 78 5928442 20140731033801
+192.99.195.101 74 74 5645150 20140731202728
+54.183.62.50 71 71 4683726 20140717125645
+188.165.89.102 62 62 4716610 20140728011409
+162.244.10.209 62 62 4760400 20140730175259
+192.187.100.154 53 53 3986904 20140730090728
+5.9.183.205 50 50 3705946 20140720064253
+5.9.187.234 47 47 3581852 20140730065135
+195.154.188.187 38 38 892188 20140730180220
+212.129.33.124 35 35 2673873 20140731191733
+198.100.154.232 28 28 2097332 20140730165929
+79.133.217.242 27 27 601669 20140731170507
+195.154.166.20 26 26 1987166 20140731015754
+72.46.131.202 26 26 1988004 20140718125608
+5.39.5.147 26 26 1822887 20140714015202
+192.95.39.229 25 25 1793992 20140731101704
+192.95.54.32 25 25 1911414 20140714164205
+37.59.80.41 25 25 1888732 20140731195014
+91.238.134.52 24 24 1768157 20140720012905
+94.23.32.134 24 24 1849558 20140725052626
+192.95.12.172 23 23 1718374 20140731122658
+54.215.250.113 23 23 1758604 20140714053954
+178.19.99.26 22 22 1680728 20140730235520
+173.213.96.55 1 1 76350 20140724112637
+173.0.60.245 1 1 76422 20140728080125
+198.23.174.74 1 1 76420 20140720195037
+36.248.119.43 1 1 65816 20140703080903
+188.208.6.69 1 1 76422 20140731011945
+37.59.150.187 1 1 76460 20140717203317
+69.58.178.56 2 2 932 20140719085911
+36.248.119.49 2 2 154096 20140721141455
+204.44.85.219 1 1 76454 20140716115104
+23.94.19.107 1 1 65886 20140704231613
+210.101.131.232 1 1 76806 20140731053632
+198.50.132.52 1 1 76422 20140720084848
+113.57.252.105 1 1 76881 20140725215035
+36.248.116.127 4 4 308332 20140707171633
+146.148.34.33 1 1 466 20140725120900
+178.33.131.106 1 1 76352 20140724104406
+120.202.249.203 1 1 76464 20140711142251
+64.79.111.114 1 1 76458 20140713105545
+198.23.152.189 1 1 76462 20140718014951
+146.148.45.160 1 1 466 20140718092325
+212.129.27.74 1 1 76422 20140731160737
+177.2.109.234 1 1 76905 20140726175458
+128.73.25.141 1 1 76418 20140727083421
+107.182.115.241 4 4 284534 20140723061918
+192.99.131.122 1 1 76352 20140729141443
+69.12.64.45 3 3 229256 20140724140635
+192.99.207.240 1 1 76238 20140723005644
+23.94.20.124 1 1 76422 20140730201934
+185.25.48.99 7 7 460998 20140705164021
+150.70.173.37 1 1 466 20140707003128
+121.205.241.95 1 1 66479 20140704124559
+159.224.160.157 3 3 78033 20140725053725
+173.255.112.149 1 1 466 20140716092319
+188.240.142.243 1 1 77052 20140720212019
+173.213.83.148 1 1 76978 20140725065751
+108.59.87.62 1 1 466 20140706092254
+186.1.246.2 1 1 77001 20140711183547
+60.190.138.149 1 1 65967 20140703070647
+36.248.118.100 1 1 77052 20140728020105
+202.98.123.126 1 1 65868 20140705001225
+107.178.210.170 1 1 466 20140715094417
+188.165.68.160 1 1 76352 20140725134450
+107.178.103.241 2 2 152890 20140721052933
+50.115.171.36 3 3 208170 20140709172725
+88.198.110.130 1 1 466 20140711122523
+36.248.117.71 4 4 308342 20140714055249
+37.59.179.205 1 1 76424 20140730234247
+69.12.81.65 1 1 76454 20140707182205
+117.26.196.200 2 2 153958 20140726020257
+23.232.143.92 1 1 76422 20140731071041
+167.160.115.55 1 1 76460 20140714224212
+94.23.188.33 2 2 142338 20140708021638
+104.128.23.227 2 2 152852 20140730164048
+107.158.228.173 3 3 208098 20140708235358
+218.191.111.129 1 1 75326 20140726221053
+69.12.73.99 1 1 76346 20140725010201
+173.232.105.211 1 1 76308 20140722112415
+92.222.233.139 1 1 76352 20140725022054
+128.199.218.99 1 1 76700 20140725105152
+106.49.80.242 1 1 76479 20140722134538
+167.160.107.76 1 1 76460 20140707062834
+175.42.19.211 2 2 132810 20140701154716
+162.221.229.8 1 1 76951 20140723231324
+5.255.90.52 1 1 65812 20140704170334
+178.32.43.58 8 8 177463 20140717220539
+23.232.151.24 1 1 76422 20140722093327
+114.34.200.158 1 1 75324 20140721203851
+186.103.171.76 1 1 77091 20140723164705
+155.94.136.69 1 1 76424 20140720033129
+91.121.232.196 2 2 152812 20140726021014
+147.52.49.90 1 1 77521 20140723021753
+23.94.99.45 1 1 65812 20140703113047
+107.182.23.178 5 5 113074 20140723191057
+23.95.115.123 1 1 76350 20140723194457
+5.9.202.132 1 1 76454 20140713023652
+107.155.77.190 1 1 76460 20140711155352
+111.201.24.127 1 1 76667 20140713133018
+36.248.118.111 4 4 306948 20140721183823
+69.12.79.88 1 1 77046 20140730132602
+5.254.146.16 2 2 153956 20140722124830
+74.117.238.157 1 1 76462 20140718031926
+192.240.201.127 1 1 76354 20140725204141
+175.42.19.71 1 1 66403 20140701115336
+27.150.196.254 6 6 462090 20140731064738
+172.245.136.191 1 1 77054 20140728131934
+107.153.85.139 1 1 76460 20140713113847
+211.244.83.234 1 1 31862 20140712151912
+204.130.130.197 1 1 66469 20140706224154
+107.161.82.113 1 1 65896 20140706050842
+204.44.91.231 1 1 76458 20140719095846
+117.169.1.187 1 1 76599 20140731040631
+188.240.139.10 1 1 76460 20140711002726
+175.42.16.47 1 1 76978 20140725162123
+183.228.88.211 1 1 76424 20140721232028
+189.208.4.175 3 3 229336 20140731115818
+93.118.72.30 1 1 76422 20140720191812
+192.40.91.180 1 1 76633 20140715233118
+23.232.133.249 1 1 76535 20140723121553
+23.94.48.130 1 1 76422 20140730030838
+173.208.39.145 1 1 76605 20140730023007
+111.11.184.45 1 1 76611 20140719224620
+192.255.79.17 1 1 65816 20140702082923
+198.23.175.81 1 1 76424 20140720095920
+107.155.77.246 1 1 76456 20140715210428
+117.175.115.18 1 1 76352 20140729054217
+89.47.31.24 1 1 76454 20140712001437
+69.12.91.220 1 1 77084 20140717234552
+223.83.58.33 1 1 76420 20140721093957
+192.126.164.100 1 1 76356 20140723125318
+49.146.251.17 2 2 32328 20140714032118
+188.240.138.123 1 1 76773 20140709124156
+211.144.81.66 2 2 143471 20140721143420
+175.42.18.150 12 12 924764 20140722003705
+69.12.81.251 1 1 76974 20140725081801
+23.94.148.22 1 1 76458 20140709041457
+118.97.95.182 1 1 76820 20140718134701
+201.18.145.149 1 1 76911 20140726035747
+162.212.57.229 1 1 76462 20140714175638
+189.18.197.45 2 72 785475 20140721232929
+185.25.49.185 4 4 295258 20140708134644
+206.144.85.52 1 1 76424 20140729181045
+176.70.237.36 2 95 2165345 20140715002651
+185.38.47.226 1 1 65888 20140705164354
+175.42.16.82 3 3 231242 20140710023900
+46.246.50.158 9 9 693122 20140712143310
+23.232.133.201 1 1 76426 20140730083202
+176.31.86.155 1 1 76424 20140730205301
+193.126.179.129 2 2 32328 20140729053602
+69.12.64.29 1 1 65812 20140703002508
+192.240.201.146 1 1 76426 20140731153320
+107.155.116.26 1 1 76356 20140723100513
+107.178.103.250 2 2 152920 20140711021729
+94.23.152.25 1 1 77082 20140707100049
+69.12.78.186 2 2 152914 20140712055140
+107.158.229.87 2 2 152852 20140720105732
+112.45.193.22 1 1 65816 20140703072946
+62.4.23.54 1 1 76348 20140723143757
+223.86.94.87 1 1 76452 20140715202012
+175.42.18.27 3 3 230926 20140725122636
+212.129.10.181 4 4 305688 20140731150945
+117.26.117.88 8 8 552900 20140708001214
+23.232.151.251 1 1 76352 20140724211853
+202.83.20.117 1 1 65894 20140706071229
+167.160.102.79 3 3 229384 20140717081939
+198.27.91.217 1 1 76452 20140708151539
+5.255.95.10 1 1 66479 20140706195736
+107.155.80.99 1 1 65892 20140707003133
+167.160.107.18 1 1 76531 20140724023955
+222.186.12.5 1 1 76605 20140727181957
+5.45.182.27 1 1 76450 20140716223816
+167.160.105.227 2 2 152882 20140722051924
+192.3.180.182 1 1 65816 20140701044716
+36.248.118.240 3 3 231258 20140713094550
+167.160.105.192 1 1 76462 20140719105258
+50.115.171.82 1 1 65816 20140704111826
+192.40.88.206 1 1 77223 20140727052530
+23.95.21.135 1 1 76420 20140722015042
+157.55.39.229 0 1 746 
+5.254.130.123 1 1 66476 20140706133406
+167.160.110.113 1 1 65820 20140701212739
+178.73.207.187 2 2 131636 20140702082351
+162.244.14.69 2 2 152846 20140731212305
+111.7.128.136 1 1 76458 20140712172549
+192.171.235.10 1 1 76460 20140709124838
+167.160.103.154 1 1 76354 20140723171155
+178.32.234.151 1 1 76424 20140721133233
+192.3.180.212 1 1 76304 20140722161835
+69.12.90.152 1 1 76422 20140728210652
+203.219.185.18 4 4 305836 20140715040512
+62.210.129.169 1 1 466 20140702173214
+81.4.104.17 1 1 66063 20140705141720
+192.3.180.188 3 3 229268 20140728190203
+173.0.61.22 1 1 76414 20140727143508
+23.244.164.101 1 1 66485 20140706112958
+107.182.115.18 4 4 305844 20140715014929
+197.254.192.27 1 1 77013 20140708083148
+62.210.206.59 2 2 132946 20140705193335
+149.255.101.131 2 2 131712 20140705080352
+180.180.231.138 1 1 76352 20140724163633
+173.0.53.19 1 1 76346 20140729065057
+188.165.121.254 12 12 266628 20140708042421
+37.187.84.99 4 4 305574 20140729235908
+150.70.97.89 1 1 466 20140714033027
+69.12.77.239 1 1 76456 20140719122301
+23.249.161.146 1 1 76531 20140729120758
+94.242.233.18 1 1 76114 20140712155500
+69.12.89.185 1 1 77257 20140707183327
+23.94.48.136 1 1 76420 20140722053707
+125.24.76.88 1 1 76973 20140731123300
+149.255.111.230 1 1 22206 20140705122337
+69.12.77.192 1 1 76458 20140711192347
+117.177.79.21 1 1 76968 20140724120447
+175.42.17.64 1 1 77046 20140731050324
+203.172.208.44 1 1 77025 20140712023035
+109.162.65.206 1 1 76456 20140708144801
+222.174.239.58 1 1 76987 20140729012051
+192.208.188.234 1 1 76426 20140722064530
+165.231.8.33 1 1 76352 20140726060704
+178.73.207.212 1 1 65818 20140703150210
+204.44.127.50 1 1 76304 20140722222817
+185.2.154.88 1 1 466 20140725082340
+198.50.253.52 1 1 76422 20140731231111
+108.60.212.28 3 3 229194 20140731032214
+186.250.83.249 2 16 83049 20140724134921
+69.12.91.39 1 1 77082 20140718093449
+188.68.250.87 1 1 76458 20140710142527
+175.42.19.161 2 2 154166 20140708190748
+157.55.39.5 0 1 3655 
+175.42.16.87 3 3 231248 20140711164351
+193.203.49.46 4 4 293898 20140712220641
+196.196.36.99 1 1 65816 20140703055009
+86.51.26.16 2 2 132404 20140704225354
+180.247.178.219 1 1 65898 20140706074206
+192.3.176.213 3 3 229152 20140729150543
+146.148.42.28 1 1 466 20140719092350
+23.232.130.245 1 1 76460 20140713155350
+184.71.242.70 11 173 1977554 20140724135931
+180.180.66.166 1 1 76424 20140730164418
+173.232.105.201 1 1 76462 20140712103023
+46.105.49.29 2 2 153202 20140729192236
+198.23.243.122 1 1 76356 20140724015722
+195.158.232.226 1 1 76907 20140724112119
+223.87.63.248 1 1 76354 20140726010934
+180.153.32.93 1 1 65993 20140701024633
+50.115.170.155 1 1 76424 20140731113003
+121.205.242.181 6 6 462164 20140731130136
+204.44.91.115 1 1 76418 20140727070453
+93.118.77.91 1 1 76456 20140710194907
+223.84.213.9 1 1 66396 20140702113722
+192.3.176.253 2 2 152918 20140717120037
+69.12.70.151 1 1 76456 20140710044722
+46.105.133.56 1 1 76422 20140731113458
+191.101.2.19 1 1 76458 20140717181516
+46.105.131.119 2 2 152712 20140723172847
+23.95.97.219 3 3 229366 20140718045307
+36.248.119.58 2 2 154172 20140711081653
+173.0.60.201 2 2 153272 20140716180432
+198.167.138.11 1 1 76352 20140725003611
+93.118.75.179 1 1 76422 20140721074048
+212.101.224.9 0 5 30130 
+107.178.103.224 1 1 76426 20140720234715
+37.105.23.65 2 109 3098140 20140719210421
+63.141.250.185 1 1 65818 20140701231214
+192.227.243.37 1 1 76426 20140730063203
+69.12.81.10 1 1 65812 20140702054232
+188.165.174.215 1 1 76458 20140716014315
+107.182.137.60 1 1 76460 20140712093739
+117.59.217.245 1 1 76683 20140717072528
+50.115.170.101 4 4 305832 20140720013221
+146.148.37.228 1 1 466 20140702092129
+118.70.129.101 1 1 76426 20140728024454
+107.182.120.149 5 5 361132 20140727145142
+94.23.169.63 1 1 76452 20140716093028
+198.167.137.72 1 1 76460 20140715135931
+185.25.48.97 1 1 65814 20140703014225
+111.161.126.90 1 1 77013 20140721005053
+36.248.116.135 7 7 539608 20140709170104
+62.210.136.87 3 3 231254 20140719083532
+183.136.221.6 1 1 76460 20140709013518
+107.155.119.14 1 1 76462 20140717174752
+5.254.140.19 1 1 77040 20140720081022
+155.94.135.199 1 1 76460 20140710100934
+197.6.61.226 1 1 66401 20140701025809
+5.254.146.92 11 11 847702 20140716133331
+198.161.2.201 1 83 480726 20140712214819
+69.12.67.203 1 1 77042 20140727101721
+91.121.239.200 1 1 65818 20140703172725
+202.29.8.249 1 1 76416 20140727045756
+222.77.229.56 5 5 385428 20140710191721
+23.251.159.184 1 1 466 20140724092337
+110.89.46.73 1 1 77078 20140708084800
+23.227.110.102 1 1 76356 20140723070138
+177.97.44.162 2 78 834894 20140724164529
+88.80.20.132 1 1 76348 20140724022256
+176.31.204.56 1 1 76637 20140710135348
+162.244.10.69 2 2 132888 20140706110656
+173.232.104.11 2 2 152884 20140731153028
+192.3.49.114 1 1 76458 20140709184205
+23.232.133.250 1 1 76456 20140708190647
+112.124.3.76 1 1 77017 20140715005002
+184.69.81.182 1 77 813084 20140708113015
+66.222.224.14 9 254 2666544 20140722163342
+192.99.141.94 1 1 76424 20140728044617
+198.23.187.42 1 1 76422 20140721204106
+170.130.111.42 2 2 152842 20140727235910
+173.0.62.161 1 1 76420 20140721172609
+188.208.3.15 1 1 65886 20140705092404
+64.72.84.90 1 1 76997 20140708065547
+36.248.117.37 4 4 265926 20140706005840
+5.255.81.83 2 2 153232 20140721161949
+36.248.117.12 1 1 77084 20140715032557
+175.42.16.254 3 3 231254 20140717121024
+192.126.167.233 1 1 76424 20140721072452
+36.248.116.99 2 2 131632 20140703023537
+192.95.7.15 2 2 152874 20140730202300
+90.184.42.187 1 1 76460 20140711070856
+190.235.153.82 1 1 76969 20140720030154
+117.173.241.177 1 1 76422 20140727172343
+107.161.82.170 1 1 76932 20140722125827
+23.232.133.230 2 2 142358 20140717024430
+69.12.89.43 1 1 65884 20140705135635
+36.248.116.34 1 1 76976 20140728172355
+198.23.175.51 1 1 76422 20140721084335
+199.80.59.175 1 1 466 20140707224232
+69.12.76.161 1 1 77048 20140728233412
+155.94.129.232 1 1 76352 20140724053955
+125.217.162.134 1 1 66272 20140706070326
+187.6.250.146 1 1 77167 20140730050614
+178.33.218.235 2 2 131636 20140704142236
+104.128.16.36 3 3 66869 20140721004904
+139.194.101.184 1 1 65820 20140703153445
+192.255.69.217 1 1 21162 20140706060930
+117.26.116.73 2 2 132960 20140706055826
+75.112.131.87 2 2 32328 20140728050623
+176.31.14.112 1 1 65816 20140702205107
+167.160.110.8 1 1 76603 20140728110325
+192.99.207.147 1 1 76352 20140725004700
+180.183.40.82 1 1 76458 20140714154040
+175.42.16.38 7 7 538850 20140720105113
+23.226.229.75 1 1 76458 20140712230020
+91.149.157.209 1 1 65818 20140704010217
+61.177.248.202 1 1 76462 20140709064207
+123.190.46.20 1 1 76903 20140724084948
+192.95.37.91 1 1 76456 20140713131008
+37.239.46.2 2 2 153764 20140725064621
+146.148.41.226 1 1 466 20140708092314
+23.92.211.239 2 2 131632 20140704105023
+5.134.115.87 1 1 76456 20140713145223
+23.105.53.11 1 1 76348 20140725070129
+107.181.78.203 1 1 76460 20140719225634
+173.212.201.125 1 1 65892 20140705220341
+69.12.84.12 1 1 76418 20140721091414
+23.95.88.160 3 3 197586 20140705173425
+155.94.130.116 1 1 76456 20140708111746
+167.160.103.31 1 1 76635 20140708050710
+175.42.18.83 2 2 154092 20140731170953
+23.95.105.45 1 1 65993 20140701172839
+107.182.116.51 1 1 76462 20140717150152
+94.23.202.60 1 1 76456 20140707081738
+109.87.146.155 1 1 76460 20140707233550
+69.12.82.128 1 1 76348 20140724055051
+180.180.231.143 1 1 76352 20140724172206
+84.201.8.162 1 1 76422 20140730140705
+213.238.175.11 1 1 76460 20140713141913
+146.148.44.95 1 1 466 20140711092305
+107.161.82.25 1 1 76460 20140710202906
+104.128.23.178 4 4 284532 20140723142838
+76.164.202.34 1 1 76460 20140711131557
+36.248.119.91 5 5 385412 20140716190455
+208.89.209.135 1 1 77231 20140719204043
+62.210.114.49 7 7 534950 20140731111058
+175.42.16.126 2 2 154026 20140728125711
+59.151.95.201 1 1 66989 20140704043310
+23.95.89.57 3 3 229651 20140730004054
+108.62.187.219 3 3 66875 20140729203626
+207.150.166.27 1 1 76426 20140728042002
+62.210.113.18 5 5 364132 20140712063720
+155.94.140.178 1 1 76420 20140727095450
+23.232.133.53 2 2 153258 20140731200024
+188.68.248.104 3 3 229236 20140727132446
+14.29.112.119 1 1 65995 20140704172842
+167.160.107.33 1 1 76456 20140716232857
+192.3.131.197 2 2 152768 20140727014023
+107.155.81.62 1 1 76980 20140726190905
+62.233.41.10 1 1 76422 20140720180026
+192.3.131.209 2 2 152778 20140728100447
+131.253.24.52 1 65 397196 20140719194557
+50.250.218.157 2 2 152700 20140724174616
+192.3.61.108 1 1 76422 20140720124751
+120.192.92.99 1 1 77043 20140717193222
+221.181.104.10 1 1 76420 20140727191412
+180.180.103.21 1 1 76352 20140729021907
+183.224.1.116 1 1 76350 20140729112735
+173.44.58.5 1 1 76456 20140717065616
+207.150.166.89 1 1 76460 20140715033809
+167.160.99.159 1 1 65890 20140705202606
+142.4.195.111 1 1 76458 20140710223348
+202.154.42.210 1 1 76931 20140723044341
+175.42.17.58 2 2 154166 20140714143542
+23.95.97.22 1 1 65890 20140706201604
+216.107.156.233 1 1 76354 20140724072846
+191.238.13.71 1 1 66361 20140702105035
+162.220.11.37 2 2 152989 20140729220031
+5.254.141.228 1 1 77050 20140729234600
+107.169.2.226 1 1 76454 20140716161002
+176.31.59.192 5 5 382256 20140721022529
+220.227.50.164 1 1 76426 20140720120747
+175.42.17.126 4 4 308190 20140731193608
+23.94.19.245 1 1 76452 20140716115435
+107.182.23.143 1 1 65818 20140703101005
+192.255.69.72 1 1 76966 20140707041625
+188.240.133.63 1 1 76462 20140718102014
+62.210.129.32 3 3 231126 20140711004818
+46.209.63.205 1 1 77015 20140708150022
+183.221.166.171 1 1 76464 20140711053550
+142.54.169.114 1 1 76462 20140713175652
+5.157.49.194 1 1 76454 20140720001836
+190.8.173.2 1 1 66361 20140702102149
+173.0.49.204 1 1 76456 20140712115521
+130.185.159.61 1 1 76354 20140726225548
+178.43.31.84 1 1 76422 20140720114028
+173.213.80.177 1 1 65890 20140705233155
+188.240.133.5 1 1 65894 20140705214839
+60.18.147.109 1 1 76535 20140723062243
+177.138.56.174 2 117 3805311 20140730135451
+178.217.184.237 2 2 152852 20140722062531
+167.160.105.211 1 1 76462 20140712190238
+198.245.51.83 2 2 152916 20140712221818
+198.23.246.220 1 1 66075 20140705220624
+198.12.74.16 1 1 65886 20140705030946
+23.94.23.126 2 2 152838 20140728052430
+107.155.119.82 1 1 76462 20140714191015
+46.37.165.226 1 1 76460 20140709064514
+110.77.197.114 1 1 76897 20140725054910
+94.228.204.10 1 1 76418 20140727230521
+36.73.142.176 2 78 845284 20140710050825
+192.3.61.227 3 3 229653 20140726022301
+69.12.74.19 1 1 76350 20140726100203
+155.94.136.18 1 1 76637 20140715122214
+93.118.73.28 1 1 76422 20140729213414
+23.94.20.126 2 2 154132 20140730190924
+167.160.115.151 1 1 76533 20140729074127
+117.169.1.86 1 1 77147 20140726102250
+178.19.99.18 17 17 1299622 20140720112528
+155.94.129.81 1 1 76460 20140718214822
+93.118.77.61 1 1 65892 20140706134850
+195.154.168.130 8 8 611520 20140731195742
+5.255.91.234 1 1 76454 20140709172806
+175.42.19.120 5 5 385240 20140721181118
+192.3.108.203 1 1 76458 20140712230914
+172.245.181.192 1 1 76464 20140718125310
+167.160.99.165 1 1 76460 20140712150659
+199.180.135.145 2 2 131718 20140706190126
+162.244.8.26 5 5 360958 20140725172846
+187.85.2.13 2 2 32328 20140727214034
+62.4.27.79 1 1 76416 20140721190937
+192.3.176.252 1 1 76454 20140708004457
+189.73.142.135 2 26 99353 20140713150415
+175.42.17.140 3 3 199215 20140702120001
+107.181.78.70 1 1 76418 20140727180528
+192.3.179.112 3 3 229230 20140725070454
+162.216.46.53 1 1 65995 20140701220100
+167.160.103.236 2 2 152926 20140709064240
+162.220.11.115 4 4 306524 20140728110842
+173.255.113.26 1 1 466 20140730092103
+115.239.248.235 1 1 76858 20140709223330
+23.95.95.62 1 1 76350 20140724002314
+209.161.108.246 8 8 179939 20140716185420
+188.135.160.2 1 1 76460 20140717122906
+192.126.167.243 1 1 65820 20140703062922
+180.180.110.225 1 1 76428 20140728090919
+188.240.139.133 1 1 65892 20140705163146
+198.58.112.130 2 2 32328 20140703194749
+192.3.180.245 1 1 76424 20140719235151
+179.179.255.131 2 82 1071495 20140716174618
+107.178.103.254 2 2 152928 20140717075145
+5.135.112.61 1 1 76450 20140708042008
+107.158.22.140 1 1 76462 20140717180847
+93.118.75.121 1 1 76424 20140720201618
+197.254.192.24 1 1 77017 20140709161734
+212.101.224.7 0 6 21430 
+149.154.154.143 1 1 76464 20140718091512
+175.42.16.209 13 13 864243 20140706165108
+222.218.157.233 1 1 77021 20140717120559
+162.212.57.121 1 1 76356 20140723105443
+177.1.64.87 2 78 845284 20140720165958
+199.30.48.192 1 1 65816 20140701102552
+173.232.105.17 2 2 152818 20140726195714
+50.59.162.20 1 1 66427 20140702153344
+59.58.156.254 3 3 231178 20140721162050
+23.95.105.115 1 1 76460 20140718040227
+36.250.69.4 1 1 76891 20140724175139
+172.245.181.207 1 1 76420 20140722044747
+206.144.85.56 1 1 76348 20140729012138
+37.72.190.160 3 3 208090 20140707182931
+149.255.101.248 1 1 76428 20140721013057
+107.182.23.199 1 1 76462 20140711175755
+85.185.244.157 10 98 1409100 20140710040742
+155.94.131.165 1 1 76426 20140730055931
+69.12.70.92 2 2 152912 20140711060856
+50.115.170.152 1 1 76641 20140717024203
+186.244.103.241 2 33 136331 20140728103727
+216.231.143.165 1 1 76537 20140727014007
+93.118.68.227 2 2 153278 20140717082147
+23.108.164.233 1 1 76456 20140708181834
+107.178.210.105 1 1 466 20140705092254
+198.23.196.49 1 1 76458 20140709171123
+198.100.157.254 1 1 76462 20140710072033
+155.94.135.228 1 1 76238 20140722172552
+107.158.23.58 1 1 76458 20140719181309
+69.12.65.253 1 1 76456 20140713051209
+198.12.74.190 1 1 76458 20140715114602
+23.94.23.86 1 1 76300 20140723004557
+23.94.23.81 1 1 76350 20140723181221
+183.57.78.124 1 1 76625 20140728014916
+183.223.29.118 1 1 76426 20140720015252
+181.119.20.203 1 1 76460 20140710172134
+79.112.24.31 1 1 76416 20140727125409
+23.95.93.145 1 1 76563 20140731095839
+23.82.62.145 1 1 76637 20140709113835
+192.230.38.80 1 1 76458 20140719105419
+93.118.76.63 1 1 77076 20140712004540
+23.95.115.86 1 1 76595 20140727031925
+173.183.196.101 6 100 1139691 20140711192912
+112.45.193.184 1 1 76456 20140708085710
+162.244.10.237 17 17 1299688 20140721134424
+185.24.235.141 1 1 76356 20140725214859
+64.120.53.250 1 1 76456 20140715114814
+23.247.173.112 1 1 76424 20140721070000
+150.70.97.120 1 1 466 20140714032244
+212.68.44.133 1 1 77007 20140719122733
+192.64.32.152 3 3 229962 20140728201905
+186.208.67.172 2 77 1093751 20140725084636
+72.46.128.66 1 1 466 20140731083144
+178.32.226.66 1 1 76350 20140725104930
+87.248.77.38 1 1 76422 20140730161448
+76.164.205.170 1 1 76342 20140707041944
+155.94.131.113 1 1 76460 20140717172842
+107.155.112.81 1 1 76889 20140724224630
+213.238.175.69 1 1 76426 20140728031452
+23.242.32.112 1 1 76422 20140722045209
+198.12.91.206 1 1 76422 20140730200637
+69.12.71.47 1 1 76454 20140713061727
+1.163.246.190 1 1 75946 20140730233756
+117.175.82.187 1 1 76460 20140712234201
+23.232.129.195 2 2 142278 20140710033930
+36.248.117.9 3 3 230922 20140724195332
+5.254.130.110 1 1 77084 20140715162604
+155.94.129.132 1 1 76462 20140717132835
+192.3.111.176 1 1 76458 20140710092121
+155.94.133.186 2 2 131994 20140704145304
+204.44.112.9 1 1 77084 20140718182850
+178.73.208.219 4 4 263272 20140703085412
+210.70.0.50 1 1 76857 20140725001837
+183.223.19.89 1 1 76422 20140722001244
+107.153.2.59 1 1 76458 20140718153622
+110.85.72.121 1 1 77080 20140715235711
+175.42.17.36 2 2 154162 20140708132641
+104.128.31.30 5 5 119628 20140729161622
+104.36.80.58 1 1 76302 20140722223938
+23.95.97.127 1 1 65892 20140707002245
+178.32.227.41 2 2 153534 20140716074557
+173.213.83.136 4 4 295306 20140726121154
+192.227.191.220 1 1 65999 20140703163737
+122.0.65.143 1 1 77155 20140723180414
+178.73.204.141 1 1 22944 20140716052854
+93.118.70.27 1 1 77263 20140718025730
+84.201.8.198 1 1 76458 20140716232527
+107.178.103.249 1 1 76422 20140727164534
+173.213.80.170 2 2 131636 20140704205157
+178.33.30.15 1 1 76458 20140718043148
+50.115.171.217 3 3 199299 20140706152641
+104.37.56.240 2 2 152910 20140710021755
+117.174.236.224 1 1 76426 20140721041106
+196.196.36.75 1 1 76418 20140727220640
+69.12.91.87 1 1 76972 20140729090437
+192.99.116.40 4 4 104307 20140726110049
+62.210.114.10 5 5 383322 20140730081143
+36.248.118.103 6 6 462514 20140711060232
+192.126.162.30 1 1 76460 20140715025406
+173.213.82.139 1 1 76462 20140718082616
+190.73.250.208 1 1 76667 20140718194225
+173.213.83.150 1 1 76356 20140726032932
+204.44.85.195 1 1 76422 20140731180021
+5.39.112.248 1 1 76422 20140720063650
+107.168.10.145 8 8 186546 20140729202055
+104.37.56.36 1 1 76635 20140710061304
+212.83.160.147 1 1 76460 20140711080516
+36.248.116.151 1 1 76982 20140723090817
+89.47.22.49 1 1 76414 20140727105056
+155.94.132.186 1 1 76462 20140714042821
+62.210.97.42 1 1 76452 20140709005635
+113.196.34.66 1 1 77001 20140711043047
+85.234.129.24 1 1 76458 20140707070500
+23.251.158.18 1 1 466 20140713092255
+93.118.71.39 1 1 76420 20140730111635
+104.128.23.18 10 10 764318 20140731091317
+192.99.207.238 2 2 152780 20140723175140
+112.95.241.76 1 1 76619 20140710215106
+36.83.0.113 1 1 76456 20140711133153
+192.95.4.41 10 10 738961 20140720175048
+167.160.105.158 1 1 76354 20140729050318
+23.94.63.106 4 4 305526 20140729053919
+173.232.105.199 2 2 152890 20140722075147
+198.12.72.45 11 11 245433 20140728014754
+2.225.201.241 2 83 1209981 20140714113852
+107.158.228.222 1 1 76358 20140723125105
+155.94.134.52 1 1 76458 20140714160300
+117.173.245.42 1 1 65818 20140701090537
+107.155.79.199 1 1 76356 20140723140002
+111.7.128.137 2 2 142240 20140729162753
+177.36.214.210 1 1 77005 20140716113208
+175.42.18.50 11 11 847818 20140719202203
+23.249.161.168 1 1 76456 20140716143623
+197.232.17.196 1 1 76239 20140721003516
+192.3.165.49 1 1 76458 20140711040758
+155.94.134.155 2 2 152922 20140711232529
+192.230.61.96 2 2 152778 20140730041110
+162.218.234.134 1 1 76462 20140712073825
+54.191.167.134 1 1 76426 20140727191100
+192.99.32.116 5 5 385206 20140728142824
+192.227.226.2 1 1 76458 20140715151501
+60.244.148.121 1 1 75324 20140710203934
+95.188.102.184 1 1 65890 20140705230527
+195.175.63.222 1 1 77419 20140723000511
+204.44.82.174 1 1 65816 20140703162810
+113.57.252.103 2 2 154564 20140722012303
+176.31.89.90 1 1 76352 20140723133623
+155.94.135.120 1 1 65872 20140706223724
+198.12.72.88 8 8 179947 20140722091553
+192.171.232.100 1 1 76462 20140710183027
+198.27.88.190 2 2 152846 20140731213516
+61.163.236.153 1 1 65896 20140706211358
+176.31.202.120 1 1 76424 20140731202754
+111.206.125.74 1 1 76669 20140718101255
+173.0.55.98 1 1 76456 20140709025054
+167.160.112.83 1 1 76456 20140708082143
+107.178.103.242 1 1 76458 20140716173008
+123.240.251.98 1 1 65340 20140701075605
+192.99.207.241 2 2 152884 20140720185442
+23.227.107.116 1 1 76460 20140718174221
+69.12.67.18 1 1 65812 20140702191723
+175.42.19.68 2 2 153948 20140724183118
+223.86.219.38 1 1 76236 20140722211827
+106.51.104.38 1 1 66405 20140702233616
+198.50.190.187 1 1 76462 20140710232158
+36.248.119.207 2 2 154174 20140714120358
+115.29.164.173 1 1 76983 20140721134836
+118.97.143.238 1 1 77527 20140726143528
+111.161.126.87 1 1 77015 20140720035541
+162.244.8.93 2 2 152770 20140730054545
+107.168.10.225 1 1 76424 20140721162711
+111.11.184.84 1 1 76609 20140715130602
+23.95.89.58 2 2 153226 20140727223034
+192.200.31.188 1 1 76352 20140725070107
+212.83.134.70 3 3 197448 20140703105938
+5.255.77.35 1 1 76346 20140725011157
+120.192.249.31 1 1 76639 20140718065608
+107.181.78.145 1 1 76458 20140719144303
+107.222.11.121 2 2 152918 20140717151324
+36.248.116.78 5 5 385422 20140710214857
+117.175.34.77 1 1 76458 20140719210228
+23.95.96.28 1 1 76454 20140718030323
+2.37.113.211 1 1 65892 20140706093523
+192.171.232.117 1 1 76462 20140711110658
+217.168.89.77 1 1 77007 20140710173200
+107.182.23.191 1 1 65818 20140703101845
+198.12.74.197 1 1 65888 20140705142512
+188.165.47.162 1 1 76306 20140722190538
+107.169.2.149 1 1 76454 20140716194656
+93.118.77.245 1 1 76350 20140725123154
+183.221.54.15 1 1 76458 20140712001948
+117.169.1.158 1 1 76637 20140713121734
+196.196.16.50 2 2 132140 20140706104726
+198.27.98.166 2 2 152774 20140730052107
+107.155.116.35 3 3 229190 20140722113117
+23.247.173.121 1 1 76350 20140723213924
+183.61.240.126 1 1 76426 20140720060314
+23.94.63.42 1 1 76456 20140711051528
+136.159.104.86 8 180 2136127 20140715120736
+117.78.13.53 1 1 466 20140717124633
+23.95.97.142 3 3 229368 20140718103104
+130.211.175.32 1 1 466 20140704092251
+107.161.81.62 1 1 76460 20140714025901
+23.95.21.118 1 1 76420 20140722110020
+187.32.127.161 1 1 77609 20140720212918
+50.2.223.221 1 1 76348 20140724034645
+81.4.125.116 1 1 76454 20140707183708
+71.107.26.189 2 2 152778 20140728200448
+42.121.105.155 2 2 153240 20140720191444
+64.79.110.252 1 1 76529 20140729002420
+86.51.26.18 2 2 132404 20140704163723
+87.16.39.5 2 32 107588 20140721170552
+107.158.229.4 2 2 142342 20140708235401
+5.175.196.199 1 1 76639 20140718031123
+209.161.106.153 5 5 113066 20140720224048
+107.182.23.162 1 1 76460 20140712214235
+5.255.95.85 1 1 65812 20140704041335
+173.0.56.206 1 1 76348 20140724051721
+155.94.136.154 1 1 76456 20140707231625
+23.94.36.146 1 1 65814 20140702033958
+50.115.171.177 2 2 152922 20140717150959
+175.42.16.218 2 2 154094 20140727125411
+120.132.149.76 1 1 76356 20140726220826
+37.59.202.84 1 1 65814 20140703102908
+180.180.113.27 1 1 76456 20140717011938
+201.69.31.253 2 122 4153408 20140726140248
+23.82.62.142 1 1 65993 20140701201729
+84.201.8.187 1 1 76458 20140717000115
+107.155.79.63 1 1 76458 20140712012156
+69.12.67.179 2 2 43179 20140712000719
+36.248.117.108 15 15 996929 20140706173434
+165.231.1.44 2 2 152878 20140721085651
+78.129.131.244 1 1 76456 20140708043746
+107.182.115.183 1 1 77090 20140714193308
+36.248.116.252 4 4 308344 20140714180218
+69.64.155.184 4 4 1864 20140724113530
+23.232.133.45 1 1 76601 20140731072553
+175.44.155.239 1 1 76238 20140723004553
+198.46.145.96 1 1 76454 20140708141826
+192.3.176.232 1 1 76460 20140709015802
+23.94.60.52 1 1 76456 20140717142648
+23.236.53.55 1 1 466 20140723100732
+107.158.22.21 1 1 76458 20140711024830
+23.244.164.196 2 2 152880 20140727054922
+89.44.124.11 1 1 76456 20140707082844
+212.113.35.98 2 2 154508 20140722210548
+91.236.75.87 6 6 458738 20140715014255
+175.42.17.144 5 5 385310 20140720125634
+62.210.113.241 1 1 76462 20140718174858
+46.119.41.124 1 1 65894 20140706050712
+36.248.119.117 6 6 462448 20140720115024
+204.44.112.15 1 1 76458 20140707084706
+120.37.237.136 4 4 265780 20140706170854
+37.59.216.120 1 1 76418 20140727133702
+93.118.76.185 1 1 76354 20140726065341
+216.107.157.236 1 1 76428 20140728214226
+58.68.246.12 1 1 76525 20140725155323
+200.210.194.226 1 1 77659 20140719190445
+61.136.60.58 1 1 76599 20140730013014
+155.94.138.164 1 1 76456 20140716034359
+36.248.116.30 4 4 308198 20140730131618
+69.12.81.247 1 1 77046 20140731190206
+86.51.26.23 1 1 66202 20140703113324
+23.247.173.114 2 2 152844 20140721192543
+117.78.13.18 1 1 466 20140731091120
+173.0.54.173 1 1 76348 20140724183535
+107.155.116.254 1 1 76428 20140720073348
+186.108.177.145 2 24 90121 20140720182300
+66.35.75.11 1 1 76454 20140713192040
+5.157.2.219 1 1 76454 20140709233656
+75.70.113.189 1 1 65816 20140701152807
+221.178.99.3 1 1 76458 20140717031122
+107.178.219.131 1 1 466 20140707092247
+204.44.92.164 1 1 76460 20140711041020
+188.154.143.219 2 2 152890 20140731145316
+107.161.85.218 1 1 76420 20140727101443
+183.207.229.146 2 2 153758 20140728041554
+88.80.20.212 1 1 76420 20140721171715
+23.232.130.188 1 1 76462 20140714103534
+112.5.90.167 1 1 77037 20140709101828
+104.140.13.134 2 2 131636 20140704103550
+155.94.139.118 1 1 76424 20140721160748
+50.115.171.160 2 2 142276 20140713082543
+198.23.250.219 1 1 76462 20140711165015
+170.130.25.90 1 1 76422 20140720171406
+188.165.161.211 1 1 76464 20140709140126
+188.240.141.179 1 1 65999 20140703124113
+95.235.90.108 2 84 1293285 20140727072846
+69.12.68.56 2 2 142264 20140707103349
+117.206.90.81 1 1 76454 20140716090054
+91.236.75.64 3 3 229190 20140728213327
+91.188.117.193 1 1 76352 20140724141022
+188.208.2.94 1 1 76635 20140707231415
+202.143.147.85 1 1 76999 20140709015115
+5.254.130.91 1 1 77084 20140713201100
+104.36.80.79 1 1 76352 20140723192930
+192.171.231.122 1 1 65820 20140702121955
+221.10.102.199 3 3 219397 20140709224827
+175.42.18.68 2 2 154156 20140707141457
+107.155.116.217 1 1 76428 20140720173633
+173.0.61.117 1 1 76452 20140716092756
+180.94.83.29 1 1 76416 20140726200109
+179.219.240.253 2 101 2610241 20140701011334
+107.155.77.130 1 1 65818 20140702225609
+69.12.89.93 1 1 76454 20140713224605
+223.82.204.87 1 1 76460 20140717000333
+69.12.79.59 3 3 229903 20140718110845
+172.245.181.198 1 1 76462 20140719144129
+68.64.172.213 2 2 152764 20140722142735
+198.55.113.49 1 1 65816 20140702205341
+212.129.39.47 8 8 611240 20140731204428
+151.237.177.44 3 3 218740 20140712172543
+198.50.26.141 1 1 76460 20140718105024
+206.144.85.50 1 1 76350 20140729085846
+167.160.115.80 1 1 65818 20140704082533
+109.169.5.205 1 1 76601 20140721174828
+202.118.236.130 1 1 77051 20140720174604
+209.161.99.209 2 2 152910 20140716044224
+193.160.225.13 1 1 76907 20140724004607
+89.65.229.231 5 5 353494 20140711000032
+192.184.81.190 1 1 76460 20140713104342
+173.0.48.61 1 1 76418 20140722101604
+173.213.96.203 1 1 76462 20140717004108
+167.160.105.214 1 1 76462 20140712115631
+202.108.50.75 1 1 76637 20140710115157
+23.239.134.5 1 1 76422 20140719221114
+216.231.133.160 1 1 76462 20140719113738
+36.248.116.86 1 1 77084 20140709154322
+192.230.43.214 1 1 76454 20140708101705
+155.94.134.157 1 1 65818 20140703213229
+107.155.116.210 1 1 65898 20140706213313
+173.0.60.241 4 4 305602 20140726114858
+183.221.220.82 1 1 65890 20140705033005
+23.94.99.76 1 1 76418 20140722082619
+173.0.54.144 1 1 76422 20140730001106
+190.38.65.3 1 1 76555 20140725114611
+117.135.194.140 1 1 65997 20140703084644
+198.23.152.215 1 1 76456 20140708105103
+167.160.115.78 2 2 153061 20140730212316
+173.232.106.145 1 1 76462 20140714121536
+112.135.251.226 1 1 76462 20140710053936
+23.95.97.108 5 5 371638 20140728033609
+120.43.20.150 5 5 353459 20140708235346
+64.79.111.133 1 1 76456 20140713130228
+183.222.127.13 1 1 65818 20140704044119
+184.151.127.141 4 86 1003688 20140707003210
+175.42.16.248 1 1 76976 20140729080737
+117.169.1.181 1 1 65995 20140704133128
+107.155.77.234 1 1 77082 20140716141840
+212.129.18.215 1 1 76462 20140708191016
+190.92.49.203 1 1 76901 20140725111053
+183.207.228.38 2 2 132062 20140705025616
+192.210.144.2 1 1 76460 20140718005412
+173.0.62.214 1 1 76352 20140723030039
+23.94.23.109 1 1 76422 20140728030502
+119.188.46.42 2 2 142594 20140728110221
+192.3.183.31 1 1 76348 20140724172414
+183.63.131.18 1 1 66951 20140704051605
+167.160.110.179 1 1 76358 20140726043412
+175.42.18.215 1 1 77080 20140707174125
+86.121.103.48 2 2 152918 20140714041725
+111.7.128.135 1 1 76972 20140725180421
+23.232.133.88 2 2 152882 20140721135635
+192.3.179.108 2 2 152878 20140722012224
+108.186.244.21 1 1 65818 20140703010950
+198.167.136.244 2 2 142246 20140721145614
+107.182.116.52 1 1 76462 20140718081151
+223.86.133.111 1 1 76342 20140707042842
+198.50.195.212 1 1 76426 20140728113505
+182.118.23.7 1 1 76635 20140717000445
+69.12.83.125 1 1 76420 20140722010919
+50.115.173.45 1 1 65894 20140706051315
+192.171.235.102 1 1 76464 20140714165522
+210.14.134.6 1 1 76983 20140722084612
+162.220.58.244 1 1 466 20140725022637
+192.241.82.35 1 1 65816 20140704142723
+216.129.82.226 6 126 2692830 20140715110600
+107.178.103.230 1 1 76426 20140722081705
+36.248.119.157 2 2 154096 20140730184833
+208.89.209.103 1 1 76424 20140721094625
+192.240.212.101 1 1 76458 20140716090132
+192.171.255.111 1 1 65898 20140706142314
+123.203.177.62 1 1 65347 20140706060651
+174.50.34.13 2 2 32328 20140717121138
+93.118.73.88 1 1 77084 20140718021216
+108.47.61.2 1 1 77080 20140710094115
+37.59.77.22 1 1 30246 20140722210435
+192.99.114.111 1 1 76352 20140729034204
+198.23.174.47 1 1 76460 20140717191442
+167.160.112.250 1 1 76358 20140723143942
+188.240.141.248 1 1 76240 20140722142102
+149.255.107.122 2 2 152770 20140722205445
+104.128.23.191 1 1 76605 20140720211747
+175.42.19.103 2 2 154168 20140711014411
+62.210.114.48 4 4 305654 20140731010650
+23.95.6.3 1 1 65808 20140703221608
+216.231.135.111 2 2 152708 20140729062153
+146.148.36.129 1 1 466 20140712092300
+117.169.1.51 1 1 76527 20140724003829
+199.119.226.80 1 1 65896 20140706203902
+189.75.63.114 1 1 76422 20140722053945
+136.159.160.245 2 77 796255 20140722191216
+23.231.5.167 1 1 77082 20140710044134
+201.59.159.94 1 1 76899 20140723072540
+155.94.129.129 1 1 76426 20140720103533
+120.89.94.202 1 1 77268 20140716125935
+196.219.210.116 3 95 975350 20140707064314
+36.248.117.59 4 4 265692 20140704181904
+176.31.155.126 1 1 65818 20140703181417
+198.55.112.46 1 1 76458 20140710073531
+116.226.61.108 1 1 77040 20140730133213
+78.129.131.145 1 1 65818 20140703025808
+93.118.70.223 1 1 76603 20140730153445
+193.36.34.12 1 1 77011 20140728064635
+198.12.74.89 1 1 76458 20140718052128
+69.12.81.252 1 1 77048 20140730202458
+188.165.26.171 1 1 76460 20140719041740
+196.196.28.254 1 1 76641 20140718102427
+27.153.216.144 1 1 77088 20140717074512
+223.86.127.28 1 1 76458 20140711062914
+188.68.252.93 11 11 777038 20140729211626
+89.47.31.56 1 1 76450 20140716115208
+173.232.105.47 1 1 76599 20140715040248
+130.185.157.4 1 1 76236 20140722235631
+173.234.152.121 1 1 76426 20140720215614
+81.149.141.35 4 4 294994 20140722112425
+192.208.187.144 2 2 153210 20140721203840
+36.248.117.51 8 8 616046 20140713103958
+223.86.3.227 1 1 76456 20140712213718
+216.231.128.215 1 1 76354 20140729140431
+5.255.88.59 1 1 65812 20140702014653
+162.244.8.13 6 6 451891 20140716172857
+36.248.116.69 1 1 77084 20140709154741
+173.0.52.30 2 2 132470 20140706225410
+103.224.174.98 1 1 77535 20140725111027
+198.55.113.106 1 1 76424 20140720222759
+23.94.19.171 1 1 76422 20140730174620
+162.220.11.116 1 1 76605 20140728095414
+178.238.234.219 1 1 76358 20140723080441
+107.158.229.198 1 1 66409 20140702123832
+117.169.1.130 1 1 66067 20140704193306
+192.210.208.119 1 1 65898 20140706222423
+31.220.7.187 1 1 76416 20140727013152
+107.161.82.107 1 1 76352 20140724055752
+170.130.25.98 1 1 76354 20140723105243
+111.63.34.194 1 1 76629 20140721171350
+82.56.32.158 2 111 3467547 20140720010336
+155.94.128.12 1 1 76454 20140716225538
+62.210.84.89 1 1 76974 20140724183642
+69.12.75.242 1 1 76420 20140731223721
+117.169.1.19 1 1 76525 20140729042630
+5.135.114.5 1 1 76456 20140717090801
+5.39.36.72 1 1 76591 20140727092437
+5.254.146.20 1 1 76974 20140728235404
+5.254.144.118 1 1 77086 20140711023637
+5.254.133.99 1 1 77074 20140718193520
+170.130.25.121 1 1 76238 20140722212813
+23.94.60.35 1 1 65884 20140705214442
+188.165.157.6 3 3 66875 20140717222734
+171.98.10.65 2 2 154436 20140730083310
+187.2.24.196 2 118 3820065 20140707115746
+37.239.46.10 1 1 76623 20140708204052
+130.185.155.74 2 2 152776 20140729140110
+188.240.139.54 1 1 76424 20140721124253
+79.23.44.26 2 86 1515075 20140710060046
+107.178.102.253 1 1 76458 20140716011347
+94.23.164.137 7 7 515246 20140718232649
+36.248.118.232 1 1 76978 20140723222029
+192.3.108.222 1 1 65892 20140706202200
+198.27.120.62 1 1 65816 20140702073638
+2.37.111.7 1 1 76416 20140731161732
+170.130.25.73 1 1 76422 20140731075019
+183.140.163.63 1 1 76420 20140727165801
+157.55.39.4 0 5 121811 
+198.23.175.115 1 1 76460 20140707065809
+170.130.111.15 1 1 76460 20140712205147
+207.46.13.64 0 1 1088 
+69.12.65.52 1 1 76414 20140727101123
+198.27.91.243 1 1 76422 20140721065123
+5.254.143.76 6 6 461992 20140727190734
+175.42.18.123 2 2 153542 20140710004804
+107.178.103.251 2 2 152820 20140726031931
+117.173.242.70 1 1 76426 20140719220029
+80.79.121.244 1 1 76980 20140725190840
+167.160.110.93 1 1 76531 20140724111724
+175.42.19.44 3 3 199281 20140705071920
+111.9.148.53 1 1 77082 20140715182640
+108.166.183.147 7 7 525191 20140714121115
+69.12.68.210 1 1 76420 20140721215931
+64.147.0.228 1 1 76941 20140726062039
+50.115.172.169 1 1 76460 20140712095228
+180.183.111.209 1 1 76969 20140730000501
+69.12.89.204 1 1 76456 20140713121921
+192.99.176.44 1 1 76422 20140722063709
+190.36.72.119 1 1 77009 20140712132225
+58.240.238.212 2 2 153118 20140723094011
+93.118.70.147 1 1 77050 20140720005341
+23.95.97.30 1 1 76456 20140711080035
+5.153.235.188 1 1 76458 20140710021853
+108.60.209.158 1 1 76462 20140709165007
+162.244.13.12 1 1 76424 20140731002752
+192.200.31.5 1 1 76458 20140717153757
+117.169.1.157 1 1 76531 20140723011619
+212.129.14.44 2 2 152908 20140708083131
+209.161.99.43 6 6 458756 20140720013152
+50.115.171.93 1 1 76458 20140715075955
+23.232.133.98 1 1 76424 20140720195633
+198.178.124.47 1 1 466 20140723233635
+183.221.51.211 1 1 76356 20140726064949
+172.245.181.183 1 1 65820 20140703222612
+5.255.91.231 1 1 76454 20140709212218
+23.232.133.211 2 2 152850 20140722103225
+192.126.167.195 1 1 76464 20140718050905
+111.161.0.74 1 1 77045 20140709181510
+173.44.40.243 1 1 76458 20140707063910
+37.59.62.27 1 1 76899 20140724124748
+107.182.115.182 1 1 77088 20140715012634
+192.95.22.193 1 1 65816 20140701051550
+175.42.19.167 1 1 66405 20140703070942
+178.63.140.109 2 2 152814 20140725065652
+146.148.44.168 1 1 466 20140729092056
+5.189.155.253 1 1 76350 20140729142625
+202.162.215.170 2 2 153950 20140719201126
+173.0.61.107 1 1 76452 20140708125952
+108.170.29.139 1 1 65896 20140706144803
+69.12.82.117 1 1 76348 20140724010250
+157.55.39.196 0 6 21388 
+92.222.16.90 2 2 152912 20140719023535
+192.126.169.98 1 1 76533 20140723032935
+177.128.24.75 2 2 153272 20140713010942
+5.254.146.52 1 1 77048 20140730135301
+69.12.89.2 1 1 76454 20140717052135
+5.135.85.93 1 1 66067 20140706175607
+149.255.101.171 1 1 65820 20140703171136
+5.255.75.39 1 1 76418 20140731094420
+195.35.90.111 1 1 76460 20140718063910
+223.85.18.15 1 1 76422 20140730031216
+117.176.26.52 1 1 65892 20140706202148
+177.19.122.123 2 86 1604532 20140722095919
+162.244.11.227 4 4 275078 20140707105507
+23.95.89.97 4 4 305782 20140730211309
+36.248.116.148 1 1 76982 20140725151229
+37.59.131.127 1 1 76460 20140714092314
+167.160.115.41 1 1 76603 20140728060003
+162.244.13.99 15 15 1125420 20140722185417
+192.3.108.134 1 1 76350 20140724093216
+222.124.35.116 1 1 76356 20140725200459
+198.148.112.46 1 1 76605 20140727215942
+5.39.113.4 1 1 76452 20140710104709
+186.135.65.171 2 2 32328 20140721113828
+167.160.103.224 1 1 76462 20140713101604
+112.45.203.36 1 1 76458 20140709021313
+36.248.118.102 1 1 76978 20140724105320
+196.196.28.149 1 1 76352 20140729024158
+118.97.243.2 1 1 66264 20140705104538
+69.12.75.151 1 1 76456 20140719162438
+188.240.136.236 1 1 77052 20140720225123
+192.3.131.208 1 1 76354 20140723045200
+93.139.117.64 1 1 76789 20140722171254
+36.248.117.135 1 1 76864 20140723000308
+38.100.21.63 3 7 42487 20140715232334
+23.94.99.211 1 1 76422 20140728005337
+186.90.78.44 1 1 76667 20140711092845
+192.3.176.216 1 1 65892 20140707001212
+167.160.105.185 1 1 66409 20140702082726
+91.121.49.204 1 1 76422 20140731154633
+5.135.114.145 5 5 350358 20140722144816
+196.196.36.102 1 1 65818 20140702131731
+189.83.123.9 2 80 1067074 20140715091734
+146.148.38.15 1 1 466 20140717092314
+5.255.91.192 1 1 65814 20140703074245
+175.42.18.99 2 2 154156 20140707215605
+23.95.22.101 2 2 142344 20140711121541
+175.145.46.153 1 1 30246 20140723002357
+60.215.144.50 1 1 76422 20140731014647
+184.82.50.98 1 1 76454 20140715161631
+117.171.225.68 1 1 76462 20140718100648
+192.3.180.148 3 3 229907 20140714074348
+188.240.142.20 1 1 77088 20140716193953
+5.254.144.69 5 5 332052 20140704200129
+183.223.159.62 1 1 76426 20140728193827
+5.255.73.104 1 1 65892 20140706172630
+107.158.22.112 2 2 152922 20140719001223
+23.19.127.155 10 10 239240 20140723123644
+192.3.166.164 1 1 76354 20140723025813
+170.130.111.98 4 4 284334 20140722230516
+162.244.11.195 6 6 133738 20140724083736
+122.226.172.18 1 1 76975 20140727185611
+222.77.206.125 3 3 231258 20140712062353
+93.118.70.58 1 1 77048 20140720013440
+82.44.212.217 8 8 606043 20140721233322
+36.248.118.106 3 3 231258 20140715075713
+192.230.42.245 1 1 65818 20140704172318
+198.50.224.222 2 2 152886 20140730081309
+105.190.103.235 1 1 76464 20140709012131
+198.50.139.62 1 1 76424 20140730103120
+155.94.140.147 1 1 76426 20140728120402
+23.94.23.63 1 1 76420 20140730081026
+155.94.136.178 1 1 76641 20140718073938
+173.232.106.149 1 1 76358 20140726034851
+192.64.34.75 1 1 76458 20140718091414
+60.207.124.150 1 1 21185 20140714070610
+107.178.103.228 1 1 76426 20140721000245
+107.155.80.21 2 2 152810 20140724202423
+167.160.115.158 1 1 76603 20140731073715
+62.210.113.17 3 3 231002 20140730231943
+219.141.225.11 1 1 65818 20140704073228
+62.210.83.122 6 6 458536 20140731203319
+175.42.16.12 1 1 77076 20140708014147
+162.244.11.199 1 1 76426 20140720103329
+196.196.28.13 1 1 76424 20140720111658
+155.94.131.196 1 1 76639 20140719171545
+111.161.0.76 1 1 76925 20140723170801
+167.160.105.232 1 1 65820 20140703192815
+198.204.236.218 1 1 76426 20140721141729
+120.198.244.28 1 1 77089 20140716135722
+69.12.80.56 1 1 65890 20140706172452
+107.158.22.129 1 1 76460 20140712131216
+5.255.77.7 1 1 76454 20140714201628
+198.27.99.108 1 1 65816 20140702151528
+170.130.179.192 1 1 76458 20140708032814
+117.169.1.99 1 1 77029 20140722203902
+128.140.78.200 3 85 971512 20140707011502
+178.215.174.42 1 1 76975 20140727022043
+175.42.16.188 5 5 332025 20140702161241
+198.23.152.223 1 1 76462 20140718181737
+5.39.121.115 1 1 76456 20140710153825
+183.222.174.194 1 1 65892 20140706000203
+172.245.181.209 1 1 76462 20140710043734
+124.114.141.118 1 1 77054 20140720092944
+175.42.16.23 1 1 77048 20140729204339
+178.212.79.10 1 1 76350 20140723122322
+173.213.83.175 1 1 76424 20140731081515
+178.19.99.17 1 1 76456 20140712154257
+50.117.15.72 1 1 65814 20140704113152
+93.118.66.170 1 1 76976 20140729054248
+192.3.61.219 1 1 76637 20140718072953
+69.12.79.138 1 1 76635 20140714214755
+110.85.112.115 1 1 77084 20140713014740
+117.173.254.122 1 1 76354 20140723195316
+92.222.231.138 1 1 76424 20140721030313
+203.189.143.14 1 1 76730 20140723175628
+182.52.45.126 1 1 77086 20140718175604
+5.135.240.32 1 1 76456 20140713150541
+173.0.56.219 1 1 76458 20140718091928
+91.121.43.1 1 1 76346 20140725032236
+23.232.133.6 2 2 152914 20140719064528
+155.94.134.154 4 4 295200 20140711194434
+189.241.179.82 1 1 65890 20140704234401
+223.84.118.44 1 1 65816 20140701054626
+223.18.73.211 1 1 75948 20140726072823
+175.42.16.127 3 3 230928 20140725064446
+104.128.23.100 1 1 76460 20140707232736
+192.3.55.236 1 1 76456 20140715162757
+111.10.13.151 1 1 65816 20140704202053
+198.50.161.57 1 1 76350 20140725134648
+27.153.208.139 1 1 76460 20140707170222
+162.244.9.13 15 15 1049078 20140712110525
+69.12.68.181 2 2 152914 20140714032519
+212.129.14.219 6 6 447910 20140728235751
+123.241.65.140 1 1 75324 20140727013029
+23.249.161.190 1 1 76418 20140727144919
+180.180.230.42 1 1 65890 20140705180916
+211.152.50.70 1 1 76458 20140710142534
+223.86.214.216 1 1 76352 20140729133424
+5.39.105.48 1 1 76414 20140727055858
+176.31.17.184 2 2 131632 20140701182554
+192.3.131.205 1 1 76422 20140722052036
+221.178.78.237 1 1 76420 20140727222615
+192.3.108.171 1 1 76304 20140722115003
+178.37.111.79 2 2 152848 20140720062345
+74.117.238.169 1 1 76420 20140730040708
+89.47.22.232 1 1 76456 20140714004116
+176.31.150.247 1 1 76426 20140728044037
+94.23.114.56 1 1 76637 20140717214504
+175.42.16.11 6 6 462450 20140720075151
+192.3.111.203 1 1 76458 20140712040335
+69.12.78.218 1 1 76456 20140708002501
+93.118.65.130 1 1 76424 20140720132653
+112.45.193.114 1 1 76352 20140725054913
+201.4.191.190 2 39 169130 20140723075536
+195.154.173.90 1 1 65818 20140701155050
+188.92.76.167 7 7 0 20140714225708
+167.160.99.155 1 1 76462 20140714052757
+5.255.88.45 1 1 76597 20140728080053
+36.248.118.230 11 11 731233 20140706085138
+37.203.211.185 1 1 76426 20140720185216
+117.170.174.126 1 1 65820 20140702162043
+78.154.174.102 2 2 131708 20140705075322
+209.236.112.190 7 7 524460 20140728013807
+162.244.8.27 8 8 579766 20140729144303
+74.221.212.43 1 1 65816 20140704214725
+107.155.120.128 1 1 65820 20140702013837
+5.135.1.246 1 1 76346 20140724090612
+188.240.142.199 1 1 77088 20140719055356
+69.12.88.126 1 1 76456 20140713071123
+122.225.103.85 1 1 77042 20140731042546
+162.220.11.141 2 2 153244 20140731224117
+192.69.92.91 3 3 63486 20140716052401
+167.160.107.27 1 1 76605 20140728155045
+23.247.173.59 1 1 76452 20140716114437
+125.227.158.18 1 1 77007 20140713030219
+87.98.245.163 6 6 458708 20140721020225
+192.95.44.43 1 1 76420 20140722011951
+117.78.13.54 1 1 466 20140723091751
+124.161.78.202 1 1 77078 20140710233247
+117.169.1.168 2 2 153240 20140722073615
+120.43.9.72 1 1 77082 20140716222215
+170.130.111.239 1 1 76462 20140712140605
+208.90.57.196 1 1 466 20140717143326
+178.63.140.102 1 1 76426 20140729000800
+120.37.241.8 6 6 462498 20140717140300
+149.255.255.242 1 1 66065 20140705175927
+5.254.133.178 1 1 77050 20140720025845
+203.172.220.22 1 1 76577 20140723064423
+107.178.103.240 1 1 76354 20140724224729
+36.248.116.58 1 1 76980 20140723094655
+5.255.95.120 1 1 76456 20140715180626
+117.175.15.152 1 1 76460 20140712230231
+121.14.228.16 4 4 306824 20140726015750
+37.59.150.186 1 1 76424 20140720072611
+23.94.48.234 1 1 76456 20140719143435
+37.59.217.218 1 1 66483 20140705121527
+89.47.22.161 1 1 76346 20140729135857
+179.177.160.194 2 118 3820065 20140721124443
+186.219.1.234 2 2 32328 20140719152501
+23.95.115.52 1 1 76458 20140711212132
+91.207.8.61 1 1 76456 20140717104332
+36.248.117.202 4 4 308350 20140709120444
+111.161.126.91 1 1 77579 20140725141354
+5.255.95.50 1 1 76454 20140713115357
+192.126.169.84 1 1 76352 20140729094545
+157.55.39.55 0 4 29000 
+36.248.119.210 2 2 154176 20140708172540
+183.221.201.104 1 1 76354 20140729223130
+46.23.72.120 1 1 76456 20140712022417
+5.255.75.41 1 1 76346 20140724085208
+201.62.45.160 2 13 82384 20140704093038
+64.79.111.240 5 5 382102 20140731080401
+192.3.61.237 2 2 153234 20140722082912
+94.136.44.126 1 1 77007 20140709174913
+117.176.10.56 1 1 77048 20140731051618
+189.186.123.0 2 92 1781184 20140719170150
+5.34.247.129 1 1 66065 20140705224722
+69.12.75.16 2 2 152764 20140731105232
+58.19.254.144 1 1 76529 20140729160140
+172.246.254.123 1 1 76464 20140711063640
+69.12.78.57 1 1 76456 20140717054743
+23.94.99.28 3 3 229364 20140715130805
+69.12.88.46 2 2 142112 20140722145149
+110.52.247.158 1 1 76635 20140716103335
+107.168.10.136 1 1 76458 20140719235558
+190.12.86.211 1 1 77057 20140717183708
+23.227.110.109 1 1 65818 20140703202519
+5.254.133.57 1 1 77084 20140717042551
+192.3.131.133 1 1 76304 20140722165257
+66.118.156.42 1 1 76460 20140718052228
+107.182.116.57 1 1 76462 20140710235134
+179.185.96.107 2 2 32328 20140708111025
+188.68.248.117 2 2 142174 20140723141314
+218.249.114.42 1 1 77035 20140716101642
+23.95.96.30 2 2 152790 20140712182318
+74.117.238.158 1 1 76426 20140728130847
+78.93.120.165 1 1 76312 20140724001258
+115.228.48.172 1 1 76420 20140727061923
+107.158.229.221 1 1 65820 20140703144421
+67.55.32.162 3 84 897075 20140715164538
+173.213.96.159 1 1 76306 20140722162552
+178.221.55.214 1 1 65818 20140703043252
+23.236.62.41 1 1 466 20140727092259
+37.72.190.181 6 6 437234 20140722180635
+173.0.62.176 3 3 218650 20140729172410
+36.251.84.245 1 1 77084 20140709184717
+178.32.12.119 15 15 1083148 20140719131431
+176.31.105.91 1 1 76454 20140716055613
+93.118.73.226 1 1 76418 20140726234222
+37.203.212.181 2 2 152850 20140721173115
+173.234.249.189 1 1 76308 20140722231314
+192.3.179.71 4 4 305504 20140726044828
+157.55.39.228 0 1 2974 
+103.242.45.42 1 1 76460 20140717043606
+107.158.23.232 1 1 76424 20140721114844
+222.88.240.19 1 1 77011 20140707200509
+67.250.125.78 1 1 76456 20140707203541
+165.231.8.150 1 1 76454 20140716155210
+119.235.52.206 1 86 818325 20140715103018
+36.248.118.147 3 3 231262 20140714175613
+80.79.120.160 1 1 76637 20140719091032
+125.24.76.80 1 1 76897 20140723114940
+117.171.136.191 1 1 76428 20140720101557
+80.79.122.212 1 1 76976 20140729171043
+195.154.209.214 1 1 65820 20140705010526
+5.255.91.233 3 3 218724 20140709063915
+162.220.11.123 1 1 76603 20140722052214
+195.26.25.1 1 1 76470 20140712181132
+196.196.36.27 2 2 142352 20140710064011
+5.39.113.1 1 1 76452 20140714214154
+200.113.202.250 1 1 65890 20140705194036
+104.128.23.177 5 5 371736 20140717102822
+180.180.76.208 1 1 77052 20140727220009
+209.161.99.188 3 3 229012 20140726174201
+117.212.254.91 1 1 76462 20140714030224
+89.65.224.26 2 2 154114 20140730173752
+107.155.77.249 1 1 77088 20140714155637
+173.0.48.44 1 1 65812 20140704160818
+192.99.176.6 1 1 76422 20140730200821
+175.43.121.210 1 1 76681 20140712065142
+182.254.129.123 1 1 76810 20140718224216
+176.31.37.239 1 1 76458 20140710054415
+23.254.201.213 1 1 76424 20140731081834
+192.95.17.130 5 5 371248 20140724110736
+175.42.19.240 1 1 66405 20140702092139
+86.51.26.20 1 1 66202 20140701045137
+46.246.126.146 2 2 97504 20140707045642
+212.83.134.217 15 15 1104068 20140726145945
+186.6.72.169 1 1 76348 20140729025129
+197.253.198.216 1 1 76428 20140729204918
+173.234.90.238 1 1 76462 20140711131646
+111.11.184.37 1 1 76605 20140708112543
+173.0.55.144 3 3 218652 20140729233856
+62.24.222.131 3 3 228046 20140722044907
+187.18.125.251 1 1 76935 20140724023659
+192.77.245.245 9 9 687726 20140728002056
+186.215.80.222 1 1 77015 20140715062439
+176.31.32.30 1 1 76422 20140730191238
+59.177.202.80 1 1 76458 20140718222931
+36.248.119.46 4 4 265031 20140701173457
+23.247.173.133 1 1 65818 20140703032134
+111.26.20.76 2 2 153632 20140718141648
+176.31.50.86 1 1 65886 20140705084256
+192.3.176.212 1 1 76460 20140709090740
+23.236.61.13 1 1 466 20140710092319
+197.46.145.135 1 77 813084 20140707111530
+192.3.119.92 1 1 76456 20140709085639
+36.248.116.141 2 2 154104 20140728073839
+64.79.111.162 1 1 76454 20140716013620
+178.33.36.86 1 1 76350 20140727005434
+76.164.205.171 1 1 76460 20140713013844
+173.232.105.209 1 1 76464 20140717014943
+111.7.128.132 1 1 76976 20140724084534
+5.255.73.116 1 1 65814 20140704090209
+192.3.61.196 1 1 76531 20140723134108
+167.160.105.154 1 1 76460 20140719151244
+36.248.118.83 4 4 265620 20140703143458
+192.77.254.77 2 2 152772 20140727081153
+91.121.46.87 15 15 1009028 20140707190431
+196.196.36.76 1 1 76422 20140731101749
+222.127.174.76 2 79 894313 20140714044819
+36.248.119.8 1 1 76972 20140725092548
+218.9.69.2 1 1 76997 20140713235710
+37.203.212.189 1 1 76426 20140720101114
+93.118.75.196 1 1 76424 20140721012645
+149.255.101.230 1 1 76464 20140719012246
+171.100.195.138 1 77 813084 20140710085535
+50.150.56.136 1 1 76976 20140729000508
+183.220.159.162 1 1 76426 20140722005511
+110.173.49.18 1 1 76971 20140731113433
+222.134.48.86 1 1 65894 20140706212348
+50.247.119.237 9 9 688126 20140712153853
+69.12.91.188 1 1 76416 20140727212621
+36.248.116.140 3 3 230592 20140722195112
+178.33.138.64 1 1 76460 20140717204906
+108.59.80.39 1 1 466 20140711095649
+69.74.231.180 1 1 77009 20140722095140
+221.209.235.74 2 2 153878 20140729133901
+23.232.148.208 8 8 600736 20140727174630
+176.31.86.254 1 1 76350 20140729223614
+5.249.161.102 1 1 76460 20140709100203
+173.245.72.21 1 1 76418 20140727211405
+2.98.65.243 4 4 305780 20140722044247
+176.31.203.255 1 1 76641 20140716210901
+104.128.23.206 1 1 76531 20140725093413
+14.29.117.38 1 1 76803 20140722201505
+36.248.119.19 2 2 153950 20140724005137
+5.255.73.33 1 1 76450 20140708043217
+173.44.58.113 1 1 65888 20140705065224
+5.249.161.250 9 9 693006 20140729041538
+107.182.116.254 2 2 152924 20140718002717
+188.250.134.228 2 102 2441901 20140708160020
+46.105.251.220 1 1 76639 20140711225758
+192.210.204.117 2 2 142282 20140712022649
+79.117.81.7 1 1 76456 20140717001356
+107.155.118.42 1 1 65818 20140703221736
+36.248.119.38 4 4 265846 20140706154513
+120.37.243.243 1 1 76978 20140724114447
+175.42.19.9 1 1 77044 20140731033123
+74.211.96.5 1 1 76454 20140713065644
+107.178.214.6 1 1 466 20140701092125
+175.42.17.117 2 2 154172 20140717211133
+198.12.74.186 2 2 142276 20140711150924
+81.4.127.87 1 1 76633 20140711185523
+88.80.21.178 1 1 76420 20140722095650
+37.220.26.39 11 11 840974 20140720160914
+107.169.2.177 1 1 76637 20140710220904
+173.0.60.145 1 1 76458 20140717172343
+69.12.75.73 1 1 76420 20140720071312
+188.165.174.218 1 1 76422 20140728005758
+183.223.169.78 1 1 76356 20140723022418
+192.95.11.128 14 14 1070398 20140717090032
+198.50.174.157 6 6 458476 20140731201259
+81.189.21.29 3 3 229330 20140727231117
+94.23.188.41 1 1 76601 20140719221049
+23.94.19.173 1 1 76416 20140727223508
+180.180.73.80 1 1 76354 20140723065742
+175.42.19.135 3 3 199215 20140701085922
+222.74.6.10 1 1 77223 20140720132949
+107.152.183.224 1 1 65892 20140705025856
+216.231.135.112 1 1 76352 20140724120030
+69.12.68.52 5 5 382004 20140722215524
+186.244.4.25 2 66 714330 20140717174511
+107.178.103.244 1 1 76354 20140725224753
+117.59.217.236 2 2 153220 20140730003936
+36.248.118.71 2 2 154088 20140727010129
+221.181.104.12 1 1 76460 20140719023434
+178.73.208.43 1 1 65816 20140701095110
+5.9.191.102 7 7 524578 20140721221110
+162.250.121.215 1 1 76422 20140727202123
+192.240.192.239 1 1 76641 20140712183751
+172.245.240.173 1 1 76354 20140724080313
+5.255.75.138 1 1 76348 20140725104008
+165.231.22.76 1 1 66073 20140706041740
+176.31.18.212 1 1 76460 20140717123218
+114.255.7.186 1 1 76460 20140718075613
+155.94.131.193 1 1 77265 20140719224135
+186.89.78.138 1 1 76513 20140722130910
+212.101.224.10 0 9 52978 
+107.158.240.227 2 2 152778 20140724124642
+162.222.176.176 1 1 466 20140720105014
+69.12.65.102 5 5 112320 20140712000645
+107.178.213.99 1 1 466 20140703092244
+50.115.175.208 1 1 76456 20140708051258
+5.135.43.153 9 9 645760 20140715180856
+111.1.36.166 3 3 230190 20140729062428
+89.71.68.61 1 1 76454 20140710041547
+107.182.116.60 1 1 76456 20140715232019
+36.248.117.84 1 1 76862 20140722132244
+107.158.75.52 1 1 76418 20140726161532
+198.55.112.101 1 1 65818 20140702153258
+167.160.105.160 1 1 76464 20140718224511
+107.178.103.253 1 1 76464 20140711034057
+107.182.125.133 5 5 339660 20140722130803
+31.220.4.236 2 2 152702 20140726235606
+107.182.120.108 2 2 152780 20140729100332
+192.208.187.132 1 1 76354 20140724040730
+140.237.14.152 2 2 153912 20140722193143
+155.94.138.132 1 1 76641 20140711081331
+200.29.238.228 1 1 76460 20140707113803
+218.107.217.70 1 1 76800 20140730061426
+155.94.141.113 1 1 76460 20140712013754
+91.121.63.82 1 1 21162 20140722172804
+88.80.21.199 1 1 76635 20140712204517
+192.3.180.217 1 1 76302 20140722131232
+183.63.116.43 2 2 153986 20140730045802
+218.24.166.78 1 1 76971 20140720154516
+69.12.65.27 1 1 76420 20140728065226
+175.42.18.92 1 1 66403 20140701040913
+107.181.78.62 2 2 152882 20140721012441
+173.248.148.42 9 9 640583 20140708164057
+173.213.83.145 1 1 76424 20140721125638
+162.208.41.18 5 5 382292 20140714084811
+5.39.105.132 1 1 76452 20140708230046
+107.178.215.124 1 1 466 20140721092334
+175.42.16.67 1 1 76974 20140725052737
+173.213.81.42 6 6 458692 20140722191026
+69.12.89.242 1 1 76458 20140717113759
+192.3.61.212 1 1 76631 20140716232307
+108.59.86.12 1 1 466 20140726092244
+151.237.186.113 1 1 76462 20140719114206
+173.0.49.213 1 1 76637 20140713232030
+192.95.21.142 1 1 76560 20140731100256
+117.177.183.253 1 1 76462 20140710000746
+192.95.4.149 6 6 458382 20140731001647
+192.77.245.117 1 1 76460 20140710225852
+107.155.81.250 1 1 65818 20140701225508
+162.221.184.46 1 1 76420 20140726190300
+173.213.83.165 1 1 76454 20140710174451
+188.240.136.18 1 1 65818 20140701005010
+192.99.116.207 1 1 76424 20140731182722
+216.107.159.169 1 1 76354 20140725020221
+192.99.207.247 2 2 152812 20140725125418
+178.73.197.150 1 1 22944 20140716052638
+192.208.187.146 1 1 76605 20140720164646
+174.136.43.195 4 4 305424 20140723222210
+87.117.189.100 1 1 466 20140731203723
+23.94.36.168 1 1 76348 20140725033707
+213.162.108.62 2 96 773916 20140709124135
+50.115.173.193 1 1 77082 20140716082747
+180.180.101.175 1 1 77088 20140711233205
+37.203.211.203 1 1 76420 20140728002857
+218.17.56.188 1 1 76643 20140731015433
+107.150.52.34 1 1 76458 20140712093248
+23.95.93.89 1 1 76454 20140715105710
+14.207.28.246 1 1 76454 20140715155832
+74.117.238.139 1 1 76356 20140723195007
+190.54.121.168 1 1 77005 20140719232923
+107.161.85.75 1 1 76458 20140710052720
+69.12.80.163 1 1 76352 20140725180209
+58.194.180.220 1 1 76849 20140722180632
+50.115.171.196 1 1 76460 20140718111331
+23.95.27.117 3 108 553626 20140722102458
+117.169.1.145 1 1 76533 20140723021236
+94.23.188.52 1 1 76452 20140708155338
+167.160.110.17 1 1 76306 20140722214404
+202.162.192.20 1 1 77302 20140719181043
+46.4.48.68 1 1 466 20140731225854
+5.135.60.138 1 1 65993 20140703213418
+69.12.65.231 1 1 65814 20140703033353
+23.89.196.64 1 1 76599 20140722073151
+23.94.60.4 1 1 76448 20140708143929
+117.169.1.165 1 1 76533 20140723131715
+198.175.124.51 1 1 76424 20140731143013
+107.182.127.213 1 1 65820 20140704070915
+187.110.240.66 2 55 283512 20140716091700
+117.205.12.90 1 1 65816 20140702220143
+120.59.104.192 1 1 76422 20140722081125
+192.208.185.17 1 1 76462 20140708195630
+170.130.111.231 1 1 76464 20140717035305
+54.196.242.111 1 1 466 20140728163555
+182.52.215.94 2 90 1666526 20140701101654
+69.12.77.150 1 1 76456 20140712180809
+69.12.79.58 2 2 153268 20140718111413
+155.94.130.115 1 1 76605 20140728040758
+206.144.85.53 4 4 305622 20140728051445
+218.64.58.122 1 1 65888 20140705194355
+91.121.236.83 1 1 76350 20140729144617
+185.2.101.109 1 1 76454 20140716082309
+175.42.19.110 1 1 77086 20140711050121
+212.83.173.164 10 10 764596 20140716141825
+107.155.119.89 2 2 142252 20140727015642
+200.135.250.130 1 1 66437 20140705183611
+178.33.68.48 1 1 65814 20140703223700
+198.12.72.3 1 1 76456 20140718181354
+50.115.170.83 1 1 76418 20140727104022
+177.128.194.114 1 1 77023 20140711144141
+188.240.130.10 1 1 77088 20140718065907
+23.232.130.128 1 1 76456 20140716155104
+175.42.16.165 4 4 308334 20140713001238
+5.255.81.85 2 2 153264 20140716172547
+120.206.164.158 1 1 76456 20140719034008
+185.20.165.243 3 3 229272 20140728215409
+192.227.240.30 1 1 76238 20140723005358
+192.227.243.24 1 1 65818 20140703173453
+36.248.119.21 3 3 231242 20140707191511
+5.157.2.105 1 1 76635 20140714053225
+192.69.92.86 7 7 155388 20140726142014
+117.177.190.42 1 1 76352 20140725025105
+107.182.116.120 1 1 77054 20140720074706
+167.160.99.160 1 1 65896 20140706234101
+201.208.176.93 1 1 76565 20140723145617
+121.205.239.88 1 1 66483 20140706120444
+209.161.96.15 8 8 179931 20140710020145
+36.248.116.25 7 7 539467 20140721140857
+198.23.152.190 1 1 65890 20140705013240
+54.193.123.28 1 1 76458 20140712171926
+180.180.69.164 1 1 76420 20140726183302
+5.135.77.221 1 1 76631 20140708012155
+192.99.195.50 2 2 152840 20140731055459
+218.207.102.106 1 1 76683 20140711200237
+80.79.122.149 1 1 77050 20140728015843
+175.42.19.246 1 1 77048 20140721135737
+198.23.174.75 1 1 76350 20140724090627
+196.46.71.251 1 1 76848 20140709115638
+122.227.8.190 1 1 76507 20140723233428
+175.42.17.204 5 5 385420 20140713013123
+172.245.240.198 1 1 76428 20140730042922
+192.126.155.177 1 1 65820 20140704025908
+5.254.132.136 1 1 66405 20140701013713
+105.237.65.92 1 1 76452 20140715215738
+174.131.126.194 1 1 76358 20140723225242
+186.14.4.197 1 1 65886 20140705195519
+23.95.97.16 1 1 76450 20140708113601
+176.31.86.148 2 2 152774 20140727193103
+50.2.225.83 4 4 305812 20140713110744
+37.187.28.190 2 2 932 20140711235053
+46.246.19.187 1 1 65816 20140701012611
+189.101.78.199 2 32 107588 20140731100243
+150.70.75.167 2 2 932 20140714033127
+189.1.8.206 1 1 76346 20140724122813
+107.178.216.181 1 1 466 20140709092313
+192.171.235.239 1 1 76462 20140712192542
+188.240.142.160 1 1 77086 20140719124952
+198.204.244.179 16 16 414910 20140731202431
+187.41.223.186 2 63 610340 20140721183629
+192.230.61.129 1 1 76462 20140709065830
+173.0.55.111 1 1 76458 20140718020129
+216.231.135.110 2 2 152856 20140730084000
+50.115.172.99 2 2 142352 20140715020205
+50.57.190.97 1 1 76435 20140722091337
+23.95.92.143 2 2 132575 20140703023925
+192.255.79.154 1 1 65818 20140703190152
+36.248.116.4 8 8 615588 20140727112420
+173.213.82.11 1 1 76458 20140719215257
+23.232.133.71 1 1 76460 20140717105252
+82.208.213.2 1 1 76348 20140725012859
+218.240.156.82 1 1 76681 20140719043616
+176.31.150.245 1 1 76356 20140726145327
+162.253.64.77 1 1 65816 20140702015303
+108.59.80.125 1 1 466 20140714114237
+173.0.54.139 1 1 76302 20140722115622
+93.187.124.203 1 1 76275 20140708162733
+107.178.103.233 1 1 76462 20140712070235
+108.186.244.112 1 1 76358 20140726050139
+23.95.93.160 1 1 76420 20140731054841
+173.0.61.160 1 1 76456 20140712183706
+176.31.213.107 1 1 76635 20140716060106
+69.12.65.116 3 3 66877 20140723192236
+192.3.166.175 3 3 66877 20140729165059
+107.155.77.214 1 1 76458 20140711191521
+93.170.104.123 1 1 466 20140707135950
+173.232.105.218 1 1 76464 20140711210212
+5.255.91.220 1 1 65814 20140703021714
+103.16.125.25 1 1 76422 20140721173248
+94.23.119.8 1 1 76416 20140731194610
+195.225.118.41 1 1 76422 20140731074648
+173.44.40.183 2 2 153204 20140728155622
+23.232.133.169 1 1 76420 20140727061723
+167.160.115.154 4 4 305776 20140731020914
+177.154.72.19 1 1 76350 20140725044306
+198.12.74.64 1 1 76458 20140718013513
+192.3.180.171 1 1 76458 20140718055733
+199.193.253.171 1 1 66481 20140705062924
+5.62.12.55 1 1 76452 20140718075825
+204.44.83.27 2 2 154018 20140731150320
+175.42.16.189 3 3 231256 20140711191919
+104.140.13.177 1 1 76424 20140731180016
+5.254.143.41 3 3 231214 20140708141135
+76.73.108.30 2 2 131628 20140703162150
+89.44.24.33 1 1 76346 20140725075020
+178.137.166.189 1 1 76422 20140727070146
+104.36.80.54 1 1 76348 20140724024557
+80.79.121.135 1 1 76601 20140722111439
+23.95.95.63 1 1 76633 20140715163433
+198.50.253.57 3 3 197448 20140703231606
+46.105.135.167 4 4 305412 20140729161045
+213.184.125.57 1 1 65890 20140704203347
+36.248.118.77 4 4 308214 20140707151843
+41.220.23.130 1 1 66439 20140706064259
+192.3.55.167 1 1 76452 20140716081253
+198.55.113.67 1 1 76422 20140722032251
+179.156.203.171 2 79 1018045 20140721165017
+173.254.234.225 1 1 76637 20140708172024
+27.50.128.242 2 2 153904 20140724171436
+23.247.173.159 1 1 76458 20140719023505
+213.159.38.90 2 2 143371 20140707052125
+86.51.26.19 1 1 66274 20140705003103
+165.231.8.22 1 1 65814 20140701053102
+37.59.239.249 1 1 65816 20140704044715
+107.158.23.237 2 2 153442 20140723145110
+70.72.68.92 4 85 941654 20140702231104
+198.12.74.196 1 1 76454 20140717010120
+199.30.54.93 1 1 76456 20140719151046
+111.11.184.81 1 1 76617 20140717123435
+5.10.107.132 2 2 932 20140731044605
+175.42.18.39 1 1 76972 20140724204728
+23.232.137.249 1 1 76306 20140722113122
+192.255.79.252 1 1 21162 20140722221441
+98.210.154.23 1 1 76460 20140714131217
+192.99.200.199 1 1 76352 20140729101036
+203.172.208.42 1 1 76989 20140731083631
+117.169.1.140 1 1 76415 20140722171348
+83.9.2.191 1 1 76452 20140719060018
+146.148.32.40 1 1 466 20140722092316
+69.12.68.46 2 2 152836 20140722085105
+23.94.20.11 1 1 76454 20140715042128
+50.140.183.140 1 1 77086 20140718125150
+89.47.22.194 1 1 76458 20140711151541
+89.79.123.174 6 6 458182 20140726220843
+188.240.138.13 1 1 76531 20140723145302
+192.208.187.133 3 3 229138 20140725063311
+180.180.110.122 1 1 76464 20140719002604
+37.59.77.68 2 2 152646 20140725231803
+112.18.160.5 1 1 76352 20140726134356
+146.148.35.101 1 1 466 20140728092051
+212.83.129.37 1 1 76422 20140731200828
+146.148.36.213 1 1 466 20140731092147
+178.33.218.226 11 11 840984 20140721170902
+107.155.79.32 1 1 76416 20140727151949
+36.248.117.27 1 1 77080 20140715152212
+36.248.118.162 2 2 153728 20140722200124
+23.94.19.242 1 1 65886 20140705201631
+107.161.82.101 1 1 76460 20140712014049
+91.215.157.16 1 1 76304 20140722162804
+23.244.164.197 1 1 76422 20140722073156
+5.254.129.182 2 2 132810 20140704031914
+221.183.16.219 1 1 76766 20140731052819
+208.89.210.172 5 5 361020 20140725202348
+170.130.66.7 1 1 66071 20140706200802
+155.94.128.71 1 1 76350 20140729080350
+107.155.116.252 1 1 76428 20140720204453
+91.140.188.111 2 2 32328 20140725212358
+162.244.14.94 1 1 76422 20140731043530
+107.190.160.249 1 1 76464 20140709051617
+192.208.187.118 1 1 76426 20140721025425
+177.129.100.66 2 82 1168237 20140703110239
+175.42.17.86 3 3 231246 20140713064004
+170.130.25.70 1 1 76422 20140731214757
+113.214.13.1 1 1 76597 20140722091335
+192.34.109.18 3 3 229196 20140731004646
+95.77.175.147 1 1 76386 20140710040741
+103.247.219.168 1 1 76909 20140729185039
+23.94.36.196 1 1 65814 20140702130252
+2.82.146.253 2 31 105569 20140720152833
+23.94.60.7 9 9 687598 20140731153143
+180.247.190.201 1 1 65820 20140701114021
+107.178.114.73 1 1 76460 20140715094215
+83.23.109.46 1 1 76422 20140728152639
+125.39.66.66 1 1 76820 20140709173320
+212.83.163.106 7 7 503378 20140720094751
+178.33.203.14 1 1 76348 20140724022122
+212.101.224.5 2 21 85218 20140709185047
+192.249.59.176 1 1 76420 20140726193528
+162.244.9.240 7 7 524614 20140721012339
+80.72.36.203 16 16 359002 20140712123533
+93.118.67.1 1 1 76418 20140731081934
+107.155.119.133 1 1 65898 20140706044741
+36.248.117.183 2 2 132814 20140702152950
+176.31.32.27 2 2 152872 20140731090217
+119.39.255.234 1 1 76605 20140728090802
+151.237.186.100 1 1 76462 20140707131623
+173.213.82.140 1 1 76352 20140724102326
+23.95.115.98 1 1 76348 20140729034936
+5.255.73.106 2 2 131706 20140706025428
+61.148.10.18 2 2 142342 20140707102839
+23.95.96.64 1 1 65890 20140706035344
+107.161.83.186 1 1 65818 20140703121827
+178.33.146.216 8 8 579348 20140730190607
+107.182.120.203 1 1 76462 20140719092138
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20140701 82 269 9289256 70
+20140702 118 199 7981863 89
+20140703 120 200 8739598 101
+20140704 127 214 8950206 116
+20140705 104 104 6760695 104
+20140706 130 130 7301285 101
+20140707 110 558 14650019 98
+20140708 152 517 15252058 113
+20140709 130 340 11200143 114
+20140710 170 496 15790672 130
+20140711 158 252 12132659 135
+20140712 159 241 11650135 131
+20140713 110 134 8218974 101
+20140714 114 272 9768951 101
+20140715 136 674 16594442 105
+20140716 121 254 9538630 108
+20140717 141 205 10411891 115
+20140718 156 156 10838851 128
+20140719 154 415 15404848 127
+20140720 138 374 14068826 123
+20140721 142 496 15414038 114
+20140722 180 520 15983396 145
+20140723 146 183 9596338 117
+20140724 143 334 11139627 112
+20140725 125 200 9390324 108
+20140726 114 234 12117053 97
+20140727 127 209 10658906 118
+20140728 142 173 9518786 116
+20140729 157 157 9883068 114
+20140730 119 234 11783536 98
+20140731 147 177 9514833 116
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 26
+5mn-15mn 42
+15mn-30mn 52
+30s-2mn 14
+2mn-5mn 21
+0s-30s 3217
+30mn-1h 93
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 151
+/phpinfo.php 2860 213687971 2601 2602
+/drupal7/ 328 7419935 61 61
+/project/ 138 4109906 26 84
+/ 129 56852 124 64
+/phpinfo.php/RK=0/RS=FxCF9e_fJ42yyFQTBigIlk1RiXY- 78 5819594 71 70
+/phpinfo.php/RK=0/RS=9iXkTFxJwNpBeSlXPfzJNS6HB5M- 61 4530608 51 51
+/phpinfo.php/RS=^ADARtRwmTff19oV5ycS7aZXdC4GBBI- 33 2478630 31 29
+/phpinfo.php/RK=0/RS=X47Yr3iAng03PriEJw0eSG6fqe0- 32 2285535 21 28
+/phpinfo.php/RK=0/RS=FZjgMIDdWns0ORznZxyP.KZ41Fk- 30 2258693 28 28
+/phpinfo.php/RK=0/RS=Ks6hP.6zUNnUYpFTPczf12MgpE0- 30 2227214 27 24
+/phpinfo.php/RK=0/RS=FF5JqW3J7WBkbHZ63u.32ZmtDlY- 29 2213690 26 26
+/phpinfo.php/RK=0/RS=6ta8W8_P6fJ6lcKuXjeYUSnbiJ4- 21 1586161 20 19
+/phpinfo.php/RK=0/RS=iVc92y7hVvgIgxKjM_H8e9PJcZI- 19 1400622 19 19
+/phpinfo.php/RK=0/RS=6E1kkc5CSISmaQPvLEVEzYTx7tk- 15 1154994 13 13
+http://cscecalgary.com/phpinfo.php 15 1139155 15 15
+/phpinfo.php/RK=0/RS=Bl6tDf8OhTdW3Jb5Uz9gzsizfxU- 15 1103100 15 15
+/phpinfo.php/RK=0/RS=6eD0Shn12hwBemMitdAj3Xr3uWc- 14 1067917 14 14
+/phpinfo.php/RK=0/RS=6L0pQlrpLrYkRMfD8rmDxmzj54M- 13 980704 13 12
+/phpinfo.php/RK=0/RS=3ui8K9KdnOnBGGWi.j6v790gH2Y- 11 847584 10 10
+/phpinfo.php/RS=^ADAixgjV5rkvFF.uQuroyHJvak_l5o- 11 827828 11 11
+/phpinfo.php/RK=0/RS=93ctpLI.nCMUZaeV_ihRDZazKXs- 10 749485 10 6
+/phpinfo.php/RK=0/RS=114D6uh4s8FIZxIXDkPBWu20Uqs- 10 749246 10 10
+/phpinfo.php/RK=0/RS=6nxrOVhWHFIz3wqRnNp_Xj2RMLE- 10 738961 10 10
+/phpinfo.php/RK=0/RS=E9Q7DNKhcCWpD7CF05FRj8C1hms- 9 640583 8 8
+/phpinfo.php/RS=^ADAmOOIRoflGtBctGrkfwMiJd4sltM- 9 693480 8 8
+/phpinfo.php/RK=0/RS=cOTHLwUPhXO7Z1_A1Tnec1Y8878- 6 451751 6 6
+/phpinfo.php/RK=0/RS=2lmGUMJ5uJn9otNzIMo5ZQOD3g0- 1 77048 1 1
+/phpinfo.php/RK=0/RS=R9DERaEPxKpuDTgSKKaTrJykVBI- 1 66483 1 1
+/phpinfo.php/RK=0/RS=FB0pSwHBW93NRGLLykL5Qdup724- 2 154170 1 2
+/phpinfo.php/RK=0/RS=VGWSgXcEaSIopgF3ZwuV6H.4h_4- 1 77084 1 1
+/phpinfo.php/RK=0/RS=ooZzYCualTPSL5U7nT66a3RECic- 1 77050 1 1
+/phpinfo.php/RK=0/RS=his1bFVVxVuCQIrvFl3aiRg6kFU- 1 76976 1 1
+/phpinfo.php/RK=0/RS=aZVgz40ZFnQvl.JBAXacTyOLrYw- 1 66481 1 1
+/phpinfo.php/RK=0/RS=CipiglFYLik7FFbHcXQTTqNiNMk- 1 77088 1 1
+/phpinfo.php/RK=0/RS=94OvU4B.BgLH0wuCIRM_G09k8yw- 1 66405 1 1
+/phpinfo.php/RK=0/RS=wdzOLkwmr3tZFjdOz45Nre1VZ9s- 2 143489 2 2
+/phpinfo.php/RK=0/RS=13bjkFirUwd0vdz1opCemFnVPdI- 2 154018 2 2
+/phpinfo.php/RK=0/RS=lxHjmP2sz8LpqmPqduaautf2K2M- 1 77050 1 1
+/phpinfo.php/RK=0/RS=6Pq2hpO9KLXo9cpczizaDNDZLl4- 1 77579 1 1
+/phpinfo.php/RK=0/RS=KDbfddizExhaIEzArCuG4OFVR98- 1 77088 1 1
+/phpinfo.php/RS=^ADAsvvtmwMFEor7q3_Dh3AREM_mFRs- 1 77078 1 1
+/phpinfo.php/RK=0/RS=.59DpQkenIArDhED_8_eMTnMDeQ- 1 77086 1 1
+/phpinfo.php/RK=0/RS=oeMsEyqyf.BBWBNviato1APDa4M- 1 66409 1 1
+/phpinfo.php/RK=0/RS=O.XWpK10wa70c_hsZ9ZLokJTt_s- 8 595350 7 7
+/phpinfo.php/RS=^ADAk8_jrjghIC1hF4BxnWqr_dBk1PM- 4 276414 4 4
+/phpinfo.php/RK=0/RS=WlcOWN3g6GkgSiSkpOAmK.d0CGU- 1 66483 1 1
+/phpinfo.php/RK=0/RS=oEyvqbfubeT.2Hmiz.iQaUdGqMI- 7 539374 7 7
+/phpinfo.php/RK=0/RS=yR2S.dpCOPcxN9FUVP7Vz89Oilc- 1 77052 1 1
+/phpinfo.php/RK=0/RS=fzUepQu8sOOcfW0B.j4g7LrUmfs- 2 154126 2 2
+/phpinfo.php/RK=0/RS=km9P8JtCX78yKNrNxg1lm0aNP7Y- 1 77084 0 0
+/phpinfo.php/RK=0/RS=EqhHh9oIwXeNBKUDCnzxSvVsgis- 1 77609 1 1
+/phpinfo.php/RK=0/RS=qpNGVNCQFVJx9AfBCY0j9ccx1zU- 1 77050 1 1
+/phpinfo.php/RK=0/RS=tREAFKAnbw8jF4SovAdnBFMhBOw- 1 66481 1 1
+/phpinfo.php/RK=0/RS=jc3.BP6RCxyiEWl1A41ZMUsfEN8- 1 77052 1 1
+/phpinfo.php/RK=0/RS=JewzeJYDlgL4y6vW2N14A9NJF98- 1 77084 0 0
+/phpinfo.php/RK=0/RS=Gw.NGrvOoYKbIJ4DDVFkcqCuG2g- 1 66483 1 1
+/phpinfo.php/RK=0/RS=2XkEsqXLMYUiMTQgSNhERqIZjjA- 1 77265 1 1
+/phpinfo.php/rk=0/rs=2xkesqxlmyuimtqgsnherqizjja- 3 231412 3 3
+/phpinfo.php/RK=0/RS=A4u4EaqfTW45KNXno2tyU8kY_LI- 1 66483 1 0
+/phpinfo.php/RK=0/RS=Es5prmPtdmf9eORwUJWtzKFIrp8- 1 76978 1 1
+/phpinfo.php/RK=0/RS=vSVEm1p7iU.6y9dPHdGv6e2m_mU- 1 66479 1 1
+/phpinfo.php/RK=0/RS=DQTuEyo7o_9Ke1JiQoGIPVk9QCI- 3 231138 3 3
+/phpinfo.php/RK=0/RS=6enmJZmyhQjMj7P.EDdx3YIJnI0- 1 76978 1 1
+/phpinfo.php/RK=0/RS=V.3vQO2tpoYx_5Gw4s4UWPv8N7w- 5 364026 5 5
+/phpinfo.php/RK=0/RS=5j9Z6BWbiYtMDDLVSIc4.yhplm4- 1 76972 1 1
+/phpinfo.php/RK=0/RS=G9cIyrJHVpuC8O8xGfqODE9lNHc- 3 231106 3 3
+/phpinfo.php/RK=0/RS=Y7eZHYJH8CdzZfifLN4ZWdliVG4- 1 76974 1 1
+/phpinfo.php/RK=0/RS=1BU7ksBUlNj_pBLiqsZJnmshgTw- 2 154170 2 2
+/phpinfo.php/RK=0/RS=qE8CatCVtewjlmUfdBG95117rkE- 6 462372 5 4
+/phpinfo.php/RK=0/RS=ZVEYy1jOW9irU6p.0mbGeH.pd8g- 1 77048 1 1
+/phpinfo.php/RS=^ADAeRIs2o6lyyp8vJ0ClX64pUeqg5k- 3 210020 3 3
+/phpinfo.php/RK=0/RS=yNJNgIqh915ZMgSRl1snwHLF3hA- 1 77080 1 1
+/phpinfo.php/RK=0/RS=ocOLWbVyEqZVHWXN9MO7K9fWFKY- 1 66477 1 1
+/phpinfo.php/RK=0/RS=APz42QgobAQ35Re1yo_cQ0Hnzzc- 1 77088 1 1
+/phpinfo.php/RK=0/RS=lhBKMegBNUUdX4Z9gpBOuOsUcTk- 1 66483 1 1
+/phpinfo.php/RS=^ADAFEa_A5ROPT1myCCwW4Vq.XV2Wxg- 1 77042 1 1
+/phpinfo.php/RS=^ADA7JsrXq5h0vNMij5VDPoSeShLTQU- 8 595158 6 8
+/project/rss.xml 2 18516 0 1
+/phpinfo.php/RK=0/RS=0trF9MlywFzu0lhWbsm9fSGwey0- 1 76966 1 1
+/phpinfo.php/RK=0/RS=0n5tvm1WFuWHvh9VBETdxPOG_Y8- 1 77084 1 1
+/phpinfo.php/RK=0/RS=pUgF8ReQE0m27InxO1OiYnVasSw- 1 77084 0 0
+/phpinfo.php/RK=0/RS=X_vn_xW.yz35z0l1vPAUG19WWiM- 1 77082 1 1
+/phpinfo.php/RK=0/RS=9kVk.IxBg_JgCItaBHEei72vP4w- 1 77048 1 1
+/phpinfo.php/RK=0/RS=5NARVmrzkWgXc.U.RHPXWD_SG.o- 1 77084 0 0
+/phpinfo.php/RS=^ADAyvUYaM4aBtuiIgK.WJ68Dh9ce84- 4 286023 4 4
+/phpinfo.php/RK=0/RS=dbUISrXZIPPk.9cpmRyHsqUjLNs- 2 154136 2 2
+/phpinfo.php/RK=0/RS=kZ3cgVDRI9hW0McWP4jANVgKErE- 8 606043 8 8
+/phpinfo.php/RK=0/RS=uU99ryQ74NVrSsl6rZ31bbDl5X4- 3 210419 3 3
+/phpinfo.php/RK=0/RS=1Ls9oeU.dC3h9hPZ7Q1MV8B7dVU- 5 385022 5 5
+/phpinfo.php/RK=0/RS=r0aNmBLq_scR3RMZtU5AszT9t7E- 2 153367 2 2
+/phpinfo.php/RK=0/RS=TczAp8AvWh8NhkVeSuQvW48Ypjs- 3 220359 3 3
+/phpinfo.php/RK=0/RS=sF5sQSXMx0TqDsbt2yNunZCFrrU- 2 154026 2 2
+http://cscecalgary.com/drupal7/ 1 21185 1 1
+/phpinfo.php/RK=0/RS=O9TjPhxC8.ydZJJO21eLgrFlfRA- 1 77263 1 1
+/phpinfo.php/RK=0/RS=I5bRJmRzLu9UN8BXjDr9_brWCJo- 5 385402 5 5
+/phpinfo.php/RK=0/RS=mE3jM_lMTbx89V_y_VuwZuFaCtM- 2 143491 2 2
+/phpinfo.php/RK=0/RS=FyqmFu3.H0v3vpE4uLAi6du68gM- 3 231258 3 3
+/phpinfo.php/RK=0/RS=63DM9qtmariroB441tU15_1OFsU- 5 374637 5 5
+/phpinfo.php/RK=0/RS=aZpJ6kibfvMwJXHdHxbIgdK5GvM- 1 66483 1 1
+/phpinfo.php/RK=0/RS=CwuPMzpQTTmIMjQtlHXsoWTPMis- 1 77084 0 0
+/phpinfo.php/RK=0/RS=LhsXkNtVeBA.I9hL21yg7QyySQs- 1 66483 0 1
+/phpinfo.php/RK=0/RS=RaY9yhHpGC4KFVODTzweVVM57Sc- 1 66409 1 1
+/phpinfo.php/RK=0/RS=qJzP.3sKPGMLBf.xhI126hzD6j4- 2 154172 2 2
+/phpinfo.php/RK=0/RS=pxhalGfAfcjXsK6zFyVLpjensRk- 1 77084 0 0
+/phpinfo.php/RK=0/RS=QrzASO.g_YvwstNgjhSkHkADwqw- 1 77084 1 1
+/phpinfo.php/RK=0/RS=k1GHKaXwDTETan06djcyY.F_Qjw- 8 616420 7 8
+/phpinfo.php/RK=0/RS=rk4vDQ7N.btiMJuz.jVaaA.7L0k- 1 77084 1 1
+/phpinfo.php/RK=0/RS=Jjy4_rpWuJLk8NX8LXS_r3RodZM- 1 77231 1 1
+/phpinfo.php/RK=0/RS=XTMezvvIT1sgbko3NGh49_k1Pgk- 2 154168 2 2
+/phpinfo.php/RK=0/RS=GsFsqrEtmsWeZBQyRxgekfr6w1M- 1 77084 1 0
+/phpinfo.php/RK=0/RS=ejmZJVEJuJB6oAE9LgVfwBYkKxc- 1 76980 1 1
+/phpinfo.php/RK=0/RS=Y3UoEduSRLgeb.ewCA_BPK_Z8mg- 2 154090 2 2
+/phpinfo.php/RK=0/RS=hlgjT8ukWvU731nlQ0p9l54K63E- 1 76976 1 1
+/phpinfo.php/RK=0/RS=iWprC6efH5zF3To4DJ3m0tWN9kg- 1 77048 1 1
+/phpinfo.php/RK=0/RS=SEb3.hS.hBoXAlIbG2HLUcqP09c- 1 66401 1 1
+/phpinfo.php/RK=0/RS=trjcBV7SJ8UracuIqGMVQl7RIes- 2 154056 2 2
+/phpinfo.php/RK=0/RS=F7dYX2ecXDBMAbhn1XB7U71XKd8- 1 77223 1 1
+/phpinfo.php/RS=^ADAbSsh7LeHCYEbIez1OE18hIWKCwo- 2 154116 2 2
+/phpinfo.php/RK=0/RS=vB6nce3Wx1OaquT0VuvoLJG5WhA- 1 77052 1 1
+/phpinfo.php/RK=0/RS=6v0x2oHx8VH.KP9QqsDwLPh8O4E- 1 77155 1 1
+/phpinfo.php/RK=0/RS=yiWUgSM6UgmjWT9vvyYO1Y_RLfI- 1 77046 1 1
+/phpinfo.php/RK=0/RS=l1qmkqo8j03IJwiJTGmAyNrnQJs- 2 143371 2 2
+/phpinfo.php/RK=0/RS=n2A260vJs3eRnpxchZy5ozcbTws- 1 77082 1 1
+/phpinfo.php/RK=0/RS=xOkSyGQJKPBQAGgekXIVgIRk.co- 8 584791 7 7
+/phpinfo.php/RK=0/RS=h.rxAZtsTGvYXKcfAY_VRNUcHG0- 1 76980 1 0
+/phpinfo.php/RK=0/RS=KD7tcdOdE5lTKDPmoDEPp17wca0- 1 76974 1 1
+/phpinfo.php/RK=0/RS=zR1ouzHzeDm2zxBLzcvJetXS2C0- 1 77088 1 1
+/phpinfo.php/RK=0/RS=839NvcGslDx5eQMeK9hmIxRoZ6w- 3 220579 3 3
+/phpinfo.php/signup.php 2 153942 0 2
+/phpinfo.php/RK=0/RS=W6K4Sw2yXgE3i1GM540BUVicjWE- 7 496618 7 7
+/phpinfo.php/RK=0/RS=cahYbjAZOe3tpiHHsLv4G.NE1ug- 2 143491 2 2
+/phpinfo.php/RK=0/RS=w3ia6.JRNhHtrwm_bDcLYarKoto- 1 76976 1 1
+/phpinfo.php/RK=0/RS=zeFs9Q9jKywIR_sfgOQtn7rMINg- 1 77050 1 1
+/phpinfo.php/RK=0/RS=hquHHPki2aCNhS6JuKKK7i7Mo58- 1 66407 1 1
+/phpinfo.php/RK=0/RS=Hn55yRp1JIMU7HRiIO28Ax3Y96g- 2 154128 2 2
+/phpinfo.php/RS=^ADAFmhNGFt4llDowKX8jk1zY98XJ60- 1 77076 1 1
+/phpinfo.php/RK=0/RS=ZVI9YiqjaqChulMuOTeR._hxM.s- 1 77086 1 1
+/phpinfo.php/RK=0/RS=u1664M7y4X12hFCh0bJAV6QVze4- 1 66405 1 1
+/phpinfo.php/RK=0/RS=8Qk6FyGE3V_T.m3ys8POPMzdWZM- 3 231074 2 3
+/phpinfo.php/RK=0/RS=qB5qeUwnpwRtkRyORhn2ms8B.Zw- 1 77086 1 1
+/phpinfo.php/RS=^ADA0F9AJqHAujmi9jDLezzkHzceOrQ- 1 77076 0 0
+/phpinfo.php/RK=0/RS=fd2zzYUWilKAShAIO8ISMum2l4c- 1 77535 1 1
+/phpinfo.php/RK=0/RS=_CtY9kZt_1swWjxeq.J.8JdQYKQ- 1 77050 1 1
+/phpinfo.php/RK=0/RS=M0FzH5TcpfShTTguXinIiOYKa1s- 1 77050 1 1
+/phpinfo.php/RK=0/RS=lMm2_fI3M41PpgP7rVTfNePQIHk- 1 66485 1 1
+/phpinfo.php/RK=0/RS=k9sIYFRPO0cqjtmvQvzidWoa3Bk- 1 76980 1 1
+/phpinfo.php/RK=0/RS=k_icstSmOr5chnXZ.bVGACKNJTE- 1 66479 1 1
+/phpinfo.php/RK=0/RS=P8iwUloBgPrEVnUwYhSwAcQaoiY- 1 76976 1 1
+/phpinfo.php/RK=0/RS=hXo7Z5U853hdf5JjtVM5Qs6rzvw- 1 66483 1 1
+/phpinfo.php/RK=0/RS=zksaPxWSoGuRE4WFRMKBPeXOW2U- 1 66407 1 1
+/phpinfo.php/RK=0/RS=vCoq_ggqSFKw96yuqrsmjF6dZUA- 1 77048 1 1
+END_SIDER

@@ -1,0 +1,39 @@
+head	1.2;
+access;
+symbols;
+locks
+	cscecalg:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2013.12.09.03.30.09;	author cscecalg;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2013.12.09.03.30.09;	author cscecalg;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@info:$6$.KBZaL4d3C.RMbG0$zaK.7d9EXFtQ9yuxDwJrCT0m7sKJRGE5cjk1WVfiHcgoUyru85NAC10A52ewLazFbKCXVDRP2n7sNECxQ9vMT1:16048::::::
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+@

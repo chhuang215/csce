@@ -1,0 +1,27 @@
+Return-Path: <root@server24.websitehostserver.net>
+Delivered-To: cscecalg@server24.websitehostserver.net
+Received: from server24.websitehostserver.net
+	by server24.websitehostserver.net (Dovecot) with LMTP id kdwXJpm6clhd8wUAQ74W3Q
+	for <cscecalg@server24.websitehostserver.net>; Sun, 08 Jan 2017 16:18:01 -0600
+Return-path: <root@server24.websitehostserver.net>
+Envelope-to: cscecalg@server24.websitehostserver.net
+Delivery-date: Sun, 08 Jan 2017 16:18:01 -0600
+Received: from cscecalg by server24.websitehostserver.net with local (Exim 4.87)
+	(envelope-from <root@server24.websitehostserver.net>)
+	id 1cQLmr-001i0j-Ho
+	for cscecalg@server24.websitehostserver.net; Sun, 08 Jan 2017 16:18:01 -0600
+From: root@server24.websitehostserver.net (Cron Daemon)
+To: cscecalg@server24.websitehostserver.net
+Subject: Cron <cscecalg@server24> cd /home/cscecalg/public_html/drupal7; php /home/cscecalg/public_html/drupal7/cron.php > /dev/null
+Content-Type: text/plain; charset=UTF-8
+Auto-Submitted: auto-generated
+X-Cron-Env: <LANG=en_US.UTF-8>
+X-Cron-Env: <SHELL=/usr/local/cpanel/bin/jailshell>
+X-Cron-Env: <HOME=/home/cscecalg>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=cscecalg>
+X-Cron-Env: <USER=cscecalg>
+Message-Id: <E1cQLmr-001i0j-Ho@server24.websitehostserver.net>
+Date: Sun, 08 Jan 2017 16:18:01 -0600
+
+/usr/local/cpanel/bin/jailshell: line 0: cd: /home/cscecalg/public_html/drupal7: No such file or directory
